@@ -2,7 +2,7 @@ import json
 import streamlit as st
 
 # Specify the list of JSON files to load
-JSON_FILES = ["./databases/aetiology.json", "./databases/antimicrobial_resistance.json", "./databases/infectious_agents.json", "./databases/infectious_and_vectorborne.json", "./databases/opioids.json", "./databases/opioids.json"]
+JSON_FILES = ["./databases/aetiology.json", "./databases/antimicrobial_resistance.json", "./databases/infectious_agents.json", "./databases/infectious_and_vectorborne.json", "./databases/opioids.json"]
 
 
 # Load JSON from a file path
