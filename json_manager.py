@@ -17,92 +17,82 @@ def save_json(data, file_path):
 
 # Function to handle radio button change and save automatically
 def update_status(unique_key, full_data, file_path, entry_ref):
-    """
-    Callback function that updates `gphin` status in the full JSON structure
-    and saves the entire JSON file, ensuring only the selected entry is modified.
-    """
-    # Update the specific entry in full_data without losing the structure
+    """ Updates `gphin` status in the JSON file while preserving hierarchy. """
     entry_ref["gphin"] = st.session_state[unique_key]
-    
-    # Save the full JSON structure
     save_json(full_data, file_path)
 
-# Recursive function to process the JSON hierarchy
-def process_hierarchy(data, full_data, file_path, prefix=""):
+# Recursive function to process and display JSON hierarchy with indentation
+def process_hierarchy(data, full_data, file_path, depth=0, prefix=""):
     """
-    Recursively display and edit JSON data, handling both dictionaries and lists.
+    Recursively display JSON data with indentation based on hierarchy depth.
     """
+    indent = "&nbsp;" * depth * 4  # Indentation using HTML non-breaking spaces
+
     if isinstance(data, dict):
-        # Display fields if they exist
         code = data.get("code", "N/A")
         title = data.get("title", "Unknown")
         icdurl = data.get("icdurl", "#")
         gphin = data.get("gphin", False)
 
-        # Create a unique key for Streamlit widgets
         unique_key = prefix + (code or "root")
 
-        # Use Streamlit columns to display title and radio buttons horizontally
-        col1, col2 = st.columns([5, 2])  # First column larger for hazard details
+        # Use columns for better formatting
+        col1, col2 = st.columns([5, 2])
 
         with col1:
-            # Display the hazard title with clickable ICD URL
-            st.markdown(f"**{code}**: [{title}]({icdurl})")
+            # Display indented hazard title with clickable ICD URL
+            st.markdown(f"{indent}**{code}**: [{title}]({icdurl})", unsafe_allow_html=True)
 
         with col2:
-            # Use radio buttons inline with automatic saving on change
-            status = st.radio(
+            # Radio button for status selection
+            st.radio(
                 "Status",
                 options=["Accept", "Reject"],
                 index=0 if gphin else 1,
                 key=unique_key,
                 horizontal=True,
-                on_change=update_status,  # Trigger save function on change
+                on_change=update_status,
                 args=(unique_key, full_data, file_path, data),
             )
 
-        # Process nested children if they exist
+        # Process nested children with increased depth
         for i, child in enumerate(data.get("child", [])):
-            st.write("---")  # Add a separator
-            process_hierarchy(child, full_data, file_path, prefix=f"{unique_key}_child_{i}")
+            process_hierarchy(child, full_data, file_path, depth + 2, prefix=f"{unique_key}_child_{i}")
 
     elif isinstance(data, list):
-        # Iterate through each item in the list
+        # Iterate through list items with proper indentation
         for i, item in enumerate(data):
-            st.write(f"### Entry {i + 1}")
-            process_hierarchy(item, full_data, file_path, prefix=f"{prefix}_list_{i}")
+            process_hierarchy(item, full_data, file_path, depth, prefix=f"{prefix}_list_{i}")
 
-# main
+# Main app
 if 'app_ID' not in st.session_state:
-        st.session_state.app_ID = ''
+    st.session_state.app_ID = ''
 
 st.session_state.app_ID = 'SORT'
 
-
 st.title("ICD JSON File Manager")
 
-# List JSON files in the host directory
+# List available JSON files
 try:
     json_files = [f for f in os.listdir(JSON_DIRECTORY) if f.endswith(".json")]
 except FileNotFoundError:
     st.error(f"Directory '{JSON_DIRECTORY}' not found.")
+    json_files = []
 
 if not json_files:
     st.warning("No JSON files found in the specified directory.")
+else:
+    selected_file = st.selectbox("Select a JSON file:", json_files)
 
-# Dropdown to select a JSON file
-selected_file = st.selectbox("Select a JSON file:", json_files)
+    if selected_file:
+        file_path = os.path.join(JSON_DIRECTORY, selected_file)
+        try:
+            data = load_json(file_path)
+            st.success(f"Loaded '{selected_file}' successfully!")
 
-if selected_file:
-    file_path = os.path.join(JSON_DIRECTORY, selected_file)
-    try:
-        # Load the selected JSON file
-        data = load_json(file_path)
-        st.success(f"Loaded '{selected_file}' successfully!")
+            # Display and edit JSON hierarchy with indentation
+            st.header("Manage Hazard List:")
+            process_hierarchy(data, data, file_path, depth=0)
 
-        # Display and edit the JSON hierarchy
-        st.header("Manage hazard list:")
-        process_hierarchy(data, data, file_path)  # Pass full_data for reference
-
-    except Exception as e:
-        st.error(f"Error processing the JSON file: {e}")
+        except Exception as e:
+            st.error(f"Error processing the JSON file: {e}")
