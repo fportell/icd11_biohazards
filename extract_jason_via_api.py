@@ -5,8 +5,8 @@ import time
 
 
 # Your ICD API credentials
-client_id = '790fde83-5c52-448b-b681-627a309a8946_d27186e1-3bbc-4c31-a2e3-b367eb5e222a'
-client_secret = 'pGTKUx0EHuSib8nHrJd/YGpWOZt2F913mtgI3EReS2Y='
+client_id = ${{ secrets.ICD_CLIENT_ID }}
+client_secret = ${{ secrets.ICD_CLIENT_API_KEY }}
 token_endpoint = 'https://icdaccessmanagement.who.int/connect/token'
 scope = 'icdapi_access'
 grant_type = 'client_credentials'
