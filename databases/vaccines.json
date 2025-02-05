@@ -1,0 +1,2496 @@
+{
+  "title": "Vaccines",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/164949870",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#164949870",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/1870704429"
+  ],
+  "child": [
+    {
+      "title": "Bacterial vaccines",
+      "code": "XM3KV2",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1448162632",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1448162632",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/164949870"
+      ],
+      "child": [
+        {
+          "title": "Cholera vaccines",
+          "code": "XM29K4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1471383174",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1471383174",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Cholera, inactivated, whole cell vaccines",
+              "code": "XM3Z26",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1859125126",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1859125126",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1471383174"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cholera, live attenuated vaccines",
+              "code": "XM72A0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1147064900",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1147064900",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1471383174"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cholera, combinations with typhoid vaccine, inactivated, whole cell vaccines",
+              "code": "XM1FT6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1322480936",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1322480936",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1471383174"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Haemophilus influenzae B vaccines",
+          "code": "XM11V3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/425304593",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#425304593",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Hib, purified antigen conjugated vaccines",
+              "code": "XM6RG9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/722000029",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#722000029",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/425304593"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hib, combinations with toxoids vaccines",
+              "code": "XM7F70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1633629690",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1633629690",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/425304593"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hib, combinations with pertussis and toxoids vaccines",
+              "code": "XM81F7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/246320977",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#246320977",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/425304593"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hib, combinations with meningococcus C, conjugated vaccines",
+              "code": "XM0X86",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1950645026",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1950645026",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/425304593"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Meningococcal vaccines",
+          "code": "XM2WV4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1716231214",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1716231214",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Meningococcal monovalent purified polysaccharides antigen vaccines",
+              "code": "XM92B2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1519204432",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1519204432",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1716231214"
+              ],
+              "child": []
+            },
+            {
+              "title": "Meningococcal polyvalent purified polysaccharides antigen vaccines",
+              "code": "XM5LC2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1203345122",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1203345122",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1716231214"
+              ],
+              "child": [
+                {
+                  "title": "Meningococcus A, C, bivalent purified polysaccharides antigen vaccines",
+                  "code": "XM3T39",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1062639099",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1062639099",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1203345122"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Meningococcus A, C, Y, W-135, tetravalent purified polysaccharides antigen vaccines",
+                  "code": "XM2AR0",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1747551969",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1747551969",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1203345122"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Meningococcus A, C, Y, W-135, tetravalent purified polysaccharides antigen conjugated vaccines",
+                  "code": "XM2EH7",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/2100480057",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2100480057",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1203345122"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "Meningococcus C, purified polysaccharides antigen conjugated vaccines",
+              "code": "XM18Y8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1625813008",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1625813008",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1716231214"
+              ],
+              "child": []
+            },
+            {
+              "title": "Meningococcus A, purified polysaccharides antigen conjugated vaccines",
+              "code": "XM2280",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1397512280",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1397512280",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1716231214"
+              ],
+              "child": []
+            },
+            {
+              "title": "Meningococcus B, outer membrane vesicle vaccines",
+              "code": "XM9GJ1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1654923661",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1654923661",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1716231214"
+              ],
+              "child": []
+            },
+            {
+              "title": "Meningococcus B, multicomponent vaccines",
+              "code": "XM1X81",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2009034581",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2009034581",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1716231214"
+              ],
+              "child": []
+            },
+            {
+              "title": "Meningococcus A, purified polysaccharides antigen vaccines",
+              "code": "XM37L5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1109334865",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1109334865",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1716231214"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Pertussis vaccines",
+          "code": "XM43M9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1326557479",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1326557479",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Pertussis, inactivated, whole cell vaccines",
+              "code": "XM45L8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/138999348",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#138999348",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1326557479"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pertussis, purified antigen vaccines",
+              "code": "XM62J1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1740197021",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1740197021",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1326557479"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pertussis, inactivated, whole cell, combinations with toxoids vaccines",
+              "code": "XM2TK2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/492026092",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#492026092",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1326557479"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pertussis, purified antigen, combinations with toxoids vaccines",
+              "code": "XM4082",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1229683522",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1229683522",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1326557479"
+              ],
+              "child": []
+            },
+            {
+              "title": "Vaccines pertussis with diphtheria",
+              "code": "XM2CV8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/342781498",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#342781498",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1326557479"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Pneumococcal vaccines",
+          "code": "XM9EM7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/201368617",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#201368617",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Pneumococcal conjugate (13-valent) vaccines",
+              "code": "XM9G97",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/172584777",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#172584777",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/201368617"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pneumococcal polysaccharide 23-valent vaccines",
+              "code": "XM2249",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/540916249",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#540916249",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/201368617"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pneumococcus, purified polysaccharides antigen vaccines",
+              "code": "XM91D7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/747689717",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#747689717",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/201368617"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pneumococcus, purified polysaccharides antigen conjugated vaccines",
+              "code": "XM96S7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/674054347",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#674054347",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/201368617"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pneumococcus purified polysaccharides antigen and Haemophilus influenzae, conjugated vaccines",
+              "code": "XM4R39",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1991958378",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1991958378",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/201368617"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Tetanus vaccines",
+          "code": "XM5L44",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1063237844",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1063237844",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Tetanus toxoid vaccines",
+              "code": "XM29H5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/918468355",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#918468355",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1063237844"
+              ],
+              "child": []
+            },
+            {
+              "title": "Tetanus toxoid, combinations with diphtheria toxoid vaccines",
+              "code": "XM1G86",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1734710686",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1734710686",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1063237844"
+              ],
+              "child": []
+            },
+            {
+              "title": "Tetanus toxoid, combinations with tetanus immunoglobulin vaccines",
+              "code": "XM9AK2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/325290432",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#325290432",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1063237844"
+              ],
+              "child": []
+            },
+            {
+              "title": "Tetanus, diphtheria, acellular pertussis vaccines",
+              "code": "XM31Q8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1436712068",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1436712068",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1063237844"
+              ],
+              "child": [
+                {
+                  "title": "Triple vaccines DPT",
+                  "code": "XM1PB8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/862626698",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#862626698",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1436712068"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Pertussis vaccines (with diphtheria toxoid) (with tetanus toxoid)",
+                  "code": "XM9ZL9",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/421246269",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#421246269",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1436712068"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Diphtheria toxoid with tetanus toxoid with pertussis component vaccines",
+                  "code": "XM9YH9",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1823011499",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1823011499",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1436712068"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "Tetanus and diphtheria vaccines",
+              "code": "XM32Q5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/793282805",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#793282805",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1063237844"
+              ],
+              "child": [
+                {
+                  "title": "Vaccines diphtheria with tetanus",
+                  "code": "XM4039",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1678327079",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1678327079",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/793282805"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Tetanus toxoid or vaccines toxoid with diphtheria toxoid",
+                  "code": "XM8XH5",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/591397195",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#591397195",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/793282805"
+                  ],
+                  "child": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Typhoid vaccines",
+          "code": "XM8BU8",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/715198108",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#715198108",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Typhoid, oral, live attenuated vaccines",
+              "code": "XM33K4",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/511681494",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#511681494",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/715198108"
+              ],
+              "child": []
+            },
+            {
+              "title": "Typhoid, inactivated, whole cell vaccines",
+              "code": "XM89G3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1687508903",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1687508903",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/715198108"
+              ],
+              "child": []
+            },
+            {
+              "title": "Typhoid, purified polysaccharide antigen vaccines",
+              "code": "XM3SF6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1046686076",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1046686076",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/715198108"
+              ],
+              "child": []
+            },
+            {
+              "title": "Typhoid-paratyphoid vaccines",
+              "code": "XM9UB1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/701343271",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#701343271",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/715198108"
+              ],
+              "child": [
+                {
+                  "title": "Vaccines TAB",
+                  "code": "XM3VD2",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/258757472",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#258757472",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/701343271"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Paratyphoid vaccines",
+                  "code": "XM95H3",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/740061513",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#740061513",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/701343271"
+                  ],
+                  "child": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Plague vaccines",
+          "code": "XM8ZX8",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1713411618",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1713411618",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Plague, inactivated, whole cell vaccines",
+              "code": "XM3796",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/435039956",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#435039956",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1713411618"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Vaccines bacterial with other bacterial component",
+          "code": "XM9SW5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1827633584",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1827633584",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": []
+        },
+        {
+          "title": "Vaccines rickettsial",
+          "code": "XM91J8",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/901322168",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#901322168",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Typhus (exanthematicus) vaccines",
+              "code": "XM3JJ2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1380651782",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1380651782",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/901322168"
+              ],
+              "child": [
+                {
+                  "title": "Typhus exanthematicus, inactivated, whole cell vaccines",
+                  "code": "XM2NU8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1274867687",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1274867687",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1380651782"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "Vaccines rickettsial with bacterial component",
+              "code": "XM4F19",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1539380959",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1539380959",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/901322168"
+              ],
+              "child": []
+            },
+            {
+              "title": "Rocky Mountain spotted fever vaccines",
+              "code": "XM0E84",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1223284044",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1223284044",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/901322168"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Vaccines bacterial mixed, not elsewhere classified",
+          "code": "XM5926",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1565862886",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1565862886",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": []
+        },
+        {
+          "title": "Anthrax vaccines",
+          "code": "XM8NU9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/268870249",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#268870249",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Anthrax antigen vaccines",
+              "code": "XM2C05",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/445318405",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#445318405",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/268870249"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Brucellosis vaccines",
+          "code": "XM7PB3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/439137653",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#439137653",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Brucella antigen vaccines",
+              "code": "XM7RX8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1682069738",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1682069738",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/439137653"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Diphtheria vaccines",
+          "code": "XM8AW3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/111418983",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#111418983",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Diphtheria toxoid vaccines",
+              "code": "XM86V7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1008358017",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1008358017",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/111418983"
+              ],
+              "child": []
+            },
+            {
+              "title": "Diphtheria vaccines combination including pertussis",
+              "code": "XM46V1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/228589771",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#228589771",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/111418983"
+              ],
+              "child": []
+            },
+            {
+              "title": "Diphtheria vaccines combination without pertussis",
+              "code": "XM39K8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1175805538",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1175805538",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/111418983"
+              ],
+              "child": []
+            },
+            {
+              "title": "Diphtheria vaccines combination",
+              "code": "XM8YP9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/324708399",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#324708399",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/111418983"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Tuberculosis vaccines",
+          "code": "XM4639",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1749191919",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1749191919",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1448162632"
+          ],
+          "child": [
+            {
+              "title": "Tuberculosis, live attenuated vaccines",
+              "code": "XM8142",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1773165662",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1773165662",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1749191919"
+              ],
+              "child": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Viral vaccines",
+      "code": "XM61M7",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1347156717",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1347156717",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/164949870"
+      ],
+      "child": [
+        {
+          "title": "COVID-19 vaccines",
+          "code": "XM68M6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/894585096",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#894585096",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "COVID-19 vaccines, inactivated virus",
+              "code": "XM1NL1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1104808441",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1104808441",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/894585096"
+              ],
+              "child": [
+                {
+                  "title": "CoronaVac®",
+                  "code": "XM7HT3",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1117129773",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1117129773",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Covilo",
+                  "code": "XM8866",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/467581665",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#467581665",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "KCONVAC",
+                  "code": "XM9TQ1",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/793823061",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#793823061",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Covaxin",
+                  "code": "XM1G90",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1859096290",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1859096290",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Covi-Vac",
+                  "code": "XM85P5",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/830680415",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#830680415",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Hayat-Vax",
+                  "code": "XM9FQ7",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/556954587",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#556954587",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "QazVac",
+                  "code": "XM97N6",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1364533446",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1364533446",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "COVIran Barekat",
+                  "code": "XM2YG8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/2053436968",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2053436968",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Covidful",
+                  "code": "XM0K39",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/572804499",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#572804499",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "FAKHRAVAC (MIVAC)",
+                  "code": "XM0J98",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1793193418",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1793193418",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Inactivated SARS-CoV-2 vaccine",
+                  "code": "XM1FB4",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1254045574",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1254045574",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Turkovac",
+                  "code": "XM86F7",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/837154277",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#837154277",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "VLA2001",
+                  "code": "XM42N8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1592899548",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1592899548",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1104808441"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "COVID-19 vaccines, live attenuated virus",
+              "code": "XM5DF6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/993066376",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#993066376",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/894585096"
+              ],
+              "child": []
+            },
+            {
+              "title": "COVID-19 vaccines, non-replicating viral vector",
+              "code": "XM9QW8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/264142908",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#264142908",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/894585096"
+              ],
+              "child": [
+                {
+                  "title": "COVID-19 Vaccine AstraZeneca - Vaxzevria",
+                  "code": "XM4YL8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/473439328",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#473439328",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Covishield®",
+                  "code": "XM97T2",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/381008692",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#381008692",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "COVID-19 Vaccine Janssen",
+                  "code": "XM6QV1",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1838464611",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1838464611",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Convidecia",
+                  "code": "XM1AG7",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/613966727",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#613966727",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Sputnik-Light",
+                  "code": "XM5QM6",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1261146576",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1261146576",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Convidecia Air",
+                  "code": "XM4T09",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/822087029",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#822087029",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Convidecia Air XBB1.5.",
+                  "code": "XM2LP0",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1852173350",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1852173350",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Gam-COVID-Vac (intranasal)",
+                  "code": "XM6Z24",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1246364204",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1246364204",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Gam-COVID-Vac-M",
+                  "code": "XM4PM4",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/2065017074",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2065017074",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "iNCOVACC",
+                  "code": "XM5309",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/568579629",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#568579629",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Jcovden",
+                  "code": "XM4N49",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1069469369",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1069469369",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Sputnik-V",
+                  "code": "XM37C0",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/402325180",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#402325180",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/264142908"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "COVID-19 vaccines, replicating viral vector",
+              "code": "XM0CX4",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/877986394",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#877986394",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/894585096"
+              ],
+              "child": [
+                {
+                  "title": "DelNS1-2019-nCoV-RBD-OPT1",
+                  "code": "XM5BL0",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1512918940",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1512918940",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/877986394"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "COVID-19 vaccines, virus protein subunit",
+              "code": "XM5JC5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1368305645",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1368305645",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/894585096"
+              ],
+              "child": [
+                {
+                  "title": "Zifivax",
+                  "code": "XM3CT4",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1959459034",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1959459034",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Abdala",
+                  "code": "XM8T18",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1265228078",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1265228078",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Soberana-02",
+                  "code": "XM3PG0",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/893746259",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#893746259",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "MVC COVID-19",
+                  "code": "XM4EC8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/2065823128",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2065823128",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "EpiVacCorona",
+                  "code": "XM6SZ8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1343234938",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1343234938",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Soberana Plus",
+                  "code": "XM0RV9",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/772101199",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#772101199",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Aurora-CoV",
+                  "code": "XM3SK8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/612954915",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#612954915",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "SpikoGen",
+                  "code": "XM9P21",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1281075481",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1281075481",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "NUVAXOVID",
+                  "code": "XM9T65",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/833936085",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#833936085",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Razi COV PARS",
+                  "code": "XM9N08",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1806130328",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1806130328",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Bimervax",
+                  "code": "XM6790",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/580268230",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#580268230",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Bivalent Omicron",
+                  "code": "XM8R60",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/229567040",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#229567040",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Corbevax",
+                  "code": "XM63N7",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1919955407",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1919955407",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Coviccine",
+                  "code": "XM2NP9",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1231980039",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1231980039",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Coviccine Trivalent (XBB.1.5+BA.5+Delta)",
+                  "code": "XM0E93",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1197389653",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1197389653",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Covovax",
+                  "code": "XM85Q5",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1728083225",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1728083225",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "EuCorVac-19",
+                  "code": "XM85Q8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/652540828",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#652540828",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Indovac",
+                  "code": "XM7E37",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1645073717",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1645073717",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Noora",
+                  "code": "XM7P85",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1021414824",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1021414824",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "NUVAXOVID XBB1.5.",
+                  "code": "XM2FM2",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/768190432",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#768190432",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "PastoCovac",
+                  "code": "XM97Q5",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1183157065",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1183157065",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "PastoCovac Plus",
+                  "code": "XM8BU1",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1290654901",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1290654901",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Recombinant SARS-CoV-2 Vaccine (CHO Cell)",
+                  "code": "XM9P29",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/2026117489",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2026117489",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "SARS-COV-2 Bivalent",
+                  "code": "XM5YS2",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1625867342",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1625867342",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "SCB-2019",
+                  "code": "XM8ME2",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1786813362",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1786813362",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "SCTV01C",
+                  "code": "XM71X6",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1358959576",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1358959576",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "SKYCovione",
+                  "code": "XM62V8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1165433938",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1165433938",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Tetravalent SCTV01E",
+                  "code": "XM8267",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/188405627",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#188405627",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "V-01",
+                  "code": "XM6WB0",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1372367270",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1372367270",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Vidprevtyn Beta",
+                  "code": "XM9ZB6",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1856188976",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1856188976",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1368305645"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "COVID-19 vaccines, virus like particle",
+              "code": "XM1J92",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/729916172",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#729916172",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/894585096"
+              ],
+              "child": [
+                {
+                  "title": "Covifenz",
+                  "code": "XM0BS6",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/72022806",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#72022806",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/729916172"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "COVID-19 vaccines, DNA based",
+              "code": "XM6AT1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1316179031",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1316179031",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/894585096"
+              ],
+              "child": [
+                {
+                  "title": "ZyCov-D",
+                  "code": "XM52P3",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/9306713",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#9306713",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1316179031"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "COVID-19 vaccines, RNA based",
+              "code": "XM0GQ8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/873941688",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#873941688",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/894585096"
+              ],
+              "child": [
+                {
+                  "title": "Comirnaty®",
+                  "code": "XM8NQ0",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/667112200",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#667112200",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "COVID-19 Vaccine Moderna - Spikevax",
+                  "code": "XM3DT5",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1211296175",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1211296175",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "AWcorna",
+                  "code": "XM5E97",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/994800657",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#994800657",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Comirnaty Bivalent Original/Omicron BA.1",
+                  "code": "XM1CQ8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/582293088",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#582293088",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Comirnaty Bivalent Original/Omicron BA.4/BA.5",
+                  "code": "XM5U85",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/372993004",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#372993004",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Comirnaty XBB.1.5.",
+                  "code": "XM7U45",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1108925685",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1108925685",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Daichirona",
+                  "code": "XM6HM3",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1648762553",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1648762553",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Duentai",
+                  "code": "XM15E9",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1486051409",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1486051409",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Duentai Bivalent (XBB.1.5+BQ.1)",
+                  "code": "XM2708",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/396071108",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#396071108",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Gemcovac-19",
+                  "code": "XM3X29",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1938541649",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1938541649",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Gemcovac-OM",
+                  "code": "XM8FH6",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/943624956",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#943624956",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "KOSTAIVE",
+                  "code": "XM6FF0",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/761763010",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#761763010",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "COVID-19 Vaccine Moderna - Spikevax Bivalent Original/Omicron BA.1",
+                  "code": "XM0QH5",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1337847135",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1337847135",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "COVID-19 Vaccine Moderna - Spikevax Bivalent Original/Omicron BA.4/BA.5",
+                  "code": "XM3984",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/463362624",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#463362624",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "COVID-19 Vaccine Moderna - Spikevax XBB1.5.",
+                  "code": "XM21B8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/605305178",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#605305178",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/873941688"
+                  ],
+                  "child": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dengue vaccines",
+          "code": "XM38G7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1589421967",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1589421967",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": []
+        },
+        {
+          "title": "Ebola vaccines",
+          "code": "XM7P50",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2084009990",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2084009990",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": []
+        },
+        {
+          "title": "Encephalitis vaccines",
+          "code": "XM0RC1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1037171821",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1037171821",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Encephalitis, tick borne, inactivated, whole virus",
+              "code": "XM8MP6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1955820655",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1955820655",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1037171821"
+              ],
+              "child": []
+            },
+            {
+              "title": "Encephalitis, Japanese, inactivated, whole virus",
+              "code": "XM0LB5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2115949315",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2115949315",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1037171821"
+              ],
+              "child": []
+            },
+            {
+              "title": "Encephalitis, Japanese, live attenuated",
+              "code": "XM47S0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/548455280",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#548455280",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1037171821"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Influenza vaccines",
+          "code": "XM1LR5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/751881015",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#751881015",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Influenza vaccines, inactivated, whole virus",
+              "code": "XM8857",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1901715257",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1901715257",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/751881015"
+              ],
+              "child": []
+            },
+            {
+              "title": "Influenza vaccines, live attenuated",
+              "code": "XM5V64",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/344093324",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#344093324",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/751881015"
+              ],
+              "child": []
+            },
+            {
+              "title": "Influenza vaccines, inactivated, split virus or surface antigen",
+              "code": "XM8MP2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1000964652",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1000964652",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/751881015"
+              ],
+              "child": []
+            },
+            {
+              "title": "Influenza vaccines, virus like particle",
+              "code": "XM9E16",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/824452416",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#824452416",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/751881015"
+              ],
+              "child": []
+            },
+            {
+              "title": "Influenza, purified antigen",
+              "code": "XM33X8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/774324818",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#774324818",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/751881015"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Hepatitis vaccines",
+          "code": "XM6LL6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/396699965",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#396699965",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Hepatitis B, purified antigen",
+              "code": "XM9V38",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1843933938",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1843933938",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/396699965"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hepatitis A, inactivated, whole virus",
+              "code": "XM2A12",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/732930532",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#732930532",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/396699965"
+              ],
+              "child": []
+            },
+            {
+              "title": "Combinations hepatitis vaccines",
+              "code": "XM03Y7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1890639347",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1890639347",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/396699965"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Measles vaccines",
+          "code": "XM28X5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1165620955",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1165620955",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Measles, live attenuated",
+              "code": "XM8L15",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/959348095",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#959348095",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1165620955"
+              ],
+              "child": []
+            },
+            {
+              "title": "Measles, combinations with mumps, live attenuated",
+              "code": "XM9439",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2050849439",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2050849439",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1165620955"
+              ],
+              "child": []
+            },
+            {
+              "title": "Measles, combinations with mumps and rubella, live attenuated",
+              "code": "XM8TF3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/87842213",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#87842213",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1165620955"
+              ],
+              "child": []
+            },
+            {
+              "title": "Measles, combinations with rubella, live attenuated",
+              "code": "XM21H2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/14126832",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#14126832",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1165620955"
+              ],
+              "child": []
+            },
+            {
+              "title": "Measles, combinations with mumps, rubella and varicella, live attenuated",
+              "code": "XM4AJ8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/173681028",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#173681028",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1165620955"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Mumps vaccines",
+          "code": "XM1131",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/210635131",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#210635131",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Mumps, live attenuated",
+              "code": "XM2340",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/426819379",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#426819379",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/210635131"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Poliomyelitis vaccines",
+          "code": "XM0N50",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1943937130",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1943937130",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Orimune",
+              "code": "XM4KG4",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1108310064",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1108310064",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1943937130"
+              ],
+              "child": []
+            },
+            {
+              "title": "Vaccine sabin oral",
+              "code": "XM1Y59",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2146367699",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2146367699",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1943937130"
+              ],
+              "child": []
+            },
+            {
+              "title": "Diplovax",
+              "code": "XM2KH7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/915928557",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#915928557",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1943937130"
+              ],
+              "child": []
+            },
+            {
+              "title": "Poliomyelitis oral, monovalent live attenuated",
+              "code": "XM0VX8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/184392178",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#184392178",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1943937130"
+              ],
+              "child": []
+            },
+            {
+              "title": "Poliomyelitis oral, trivalent, live attenuated",
+              "code": "XM0KZ1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1084912791",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1084912791",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1943937130"
+              ],
+              "child": []
+            },
+            {
+              "title": "Poliomyelitis oral, bivalent, live attenuated",
+              "code": "XM79H3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1851996153",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1851996153",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1943937130"
+              ],
+              "child": []
+            },
+            {
+              "title": "Poliomyelitis, trivalent, inactivated, whole virus",
+              "code": "XM5V19",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1538819279",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1538819279",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1943937130"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Rotavirus diarrhoea vaccines",
+          "code": "XM1CE0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1132895780",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1132895780",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Rota virus, live attenuated",
+              "code": "XM4GV0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/16698370",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#16698370",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1132895780"
+              ],
+              "child": []
+            },
+            {
+              "title": "Rota virus, pentavalent, live, reassorted",
+              "code": "XM4VG1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1696948661",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1696948661",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1132895780"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Rubella vaccines",
+          "code": "XM7PP1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/164703371",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#164703371",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Rubella, live attenuated",
+              "code": "XM9PS9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/382285729",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#382285729",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/164703371"
+              ],
+              "child": []
+            },
+            {
+              "title": "Rubella, combinations with mumps, live attenuated",
+              "code": "XM3B09",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/373657629",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#373657629",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/164703371"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Varicella zoster vaccines",
+          "code": "XM8DG3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/643642263",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#643642263",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Varicella, live attenuated",
+              "code": "XM0NS8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2041850548",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2041850548",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/643642263"
+              ],
+              "child": []
+            },
+            {
+              "title": "Zoster, live attenuated",
+              "code": "XM1SS1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/56549061",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#56549061",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/643642263"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Papillomavirus vaccines",
+          "code": "XM9QP0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1143858830",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1143858830",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Papillomavirus (human types 6,11,16,18)",
+              "code": "XM1821",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1014173101",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1014173101",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1143858830"
+              ],
+              "child": []
+            },
+            {
+              "title": "Papillomavirus (human types 16,18)",
+              "code": "XM9BT4",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1457361654",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1457361654",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1143858830"
+              ],
+              "child": []
+            },
+            {
+              "title": "Papillomavirus (human types 6,11,16,18,31,33,45,52,58)",
+              "code": "XM5CE9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/959195229",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#959195229",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1143858830"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Smallpox vaccine",
+          "code": "XM95R0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1551573590",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1551573590",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": []
+        },
+        {
+          "title": "Rabies vaccines",
+          "code": "XM6T09",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/647091749",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#647091749",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Rabies, inactivated, whole virus",
+              "code": "XM7BE8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/344572808",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#344572808",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/647091749"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Respiratory syncytial virus vaccines",
+          "code": "XM02Y0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/822379400",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#822379400",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Synagis",
+              "code": "XM69P6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1769793056",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1769793056",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/822379400"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Yellow fever vaccines",
+          "code": "XM0N24",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/187973104",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#187973104",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1347156717"
+          ],
+          "child": [
+            {
+              "title": "Yellow fever, live attenuated",
+              "code": "XM3418",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1504223258",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1504223258",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/187973104"
+              ],
+              "child": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bacterial and viral vaccines, combined",
+      "code": "XM7C66",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/972281066",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#972281066",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/164949870"
+      ],
+      "child": [
+        {
+          "title": "Diphtheria, poliomyelitis, tetanus vaccines",
+          "code": "XM8AW1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/149798181",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#149798181",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, pertussis, poliomyelitis, tetanus vaccines",
+          "code": "XM09Q7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/206580507",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#206580507",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, rubella, tetanus vaccines",
+          "code": "XM9744",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1770751664",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1770751664",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, hepatitis B, pertussis, tetanus vaccines",
+          "code": "XM41N3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/933979203",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#933979203",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, hemophilus influenzae B, pertussis, poliomyelitis, tetanus vaccines",
+          "code": "XM1LX9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/675122679",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#675122679",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, hepatitis B, tetanus vaccines",
+          "code": "XM3G68",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/581970587",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#581970587",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Hemophilus influenzae B and hepatitis B vaccines",
+          "code": "XM32L7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/386948767",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#386948767",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Typhoid, hepatitis A vaccines",
+          "code": "XM3JA6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/828661706",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#828661706",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, hemophilus influenzae B, pertussis, tetanus, hepatitis B vaccines",
+          "code": "XM7JP3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1267641273",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1267641273",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, pertussis, poliomyelitis, tetanus, hepatitis B vaccines",
+          "code": "XM0LT9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1699211479",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1699211479",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, hemophilus influenzae B, pertussis, tetanus-hepatitis B, meningococcus A + C vaccines",
+          "code": "XM5XP9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/10241378",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#10241378",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria tetanus, acellular pertussis, inactivated polio virus, haemophilus Influenzae type B vaccines",
+          "code": "XM21E6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1675645605",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1675645605",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, hepatitis B, tetanus, acellular pertussis, inactivated polio virus, haemophilus Influenzae type B vaccines",
+          "code": "XM84S1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1234470901",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1234470901",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Diphtheria, tetanus, acellular pertussis, inactivated polio virus vaccines",
+          "code": "XM9JP8",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/213276798",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#213276798",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        },
+        {
+          "title": "Hemophilus influenzae B and poliomyelitis vaccines",
+          "code": "XM01H1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1025950511",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1025950511",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/972281066"
+          ],
+          "child": []
+        }
+      ]
+    }
+  ]
+}

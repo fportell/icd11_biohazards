@@ -1,0 +1,1376 @@
+{
+  "title": "Finding of microorganism resistant to antimicrobial drugs",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1882742628",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1882742628",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/509543139"
+  ],
+  "child": [
+    {
+      "title": "Finding of gram negative bacteria resistant to antimicrobial drugs",
+      "code": "MG50",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1215034670",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1215034670",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1882742628"
+      ],
+      "child": [
+        {
+          "title": "Antibiotic resistant Acinetobacter baumannii",
+          "code": "MG50.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/420676154",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#420676154",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Tetracycline resistant Acinetobacter baumannii",
+              "code": "MG50.00",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/985248618",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#985248618",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/420676154"
+              ],
+              "child": []
+            },
+            {
+              "title": "Aminoglycoside resistant Acinetobacter baumannii",
+              "code": "MG50.01",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/460245224",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#460245224",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/420676154"
+              ],
+              "child": []
+            },
+            {
+              "title": "Carbapenem resistant Acinetobacter baumannii",
+              "code": "MG50.02",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/501000672",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#501000672",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/420676154"
+              ],
+              "child": []
+            },
+            {
+              "title": "Polymyxin resistant Acinetobacter baumannii",
+              "code": "MG50.03",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1038705052",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1038705052",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/420676154"
+              ],
+              "child": []
+            },
+            {
+              "title": "Acinetobacter resistant to other antibiotic",
+              "code": "MG50.0Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/420676154/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#420676154/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/420676154"
+              ],
+              "child": []
+            },
+            {
+              "title": "Acinetobacter resistant to unspecified antibiotic",
+              "code": "MG50.0Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/420676154/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#420676154/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/420676154"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Campylobacter",
+          "code": "MG50.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1929872537",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1929872537",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Fluoroquinolone resistant Campylobacter",
+              "code": "MG50.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1071250765",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1071250765",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1929872537"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified antibiotic resistant Campylobacter",
+              "code": "MG50.1Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1929872537/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1929872537/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1929872537"
+              ],
+              "child": []
+            },
+            {
+              "title": "Campylobacter resistant to unspecified antibiotic",
+              "code": "MG50.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1929872537/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1929872537/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1929872537"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Escherichia coli",
+          "code": "MG50.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/916407020",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#916407020",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Sulfonamide or trimethoprim resistant Escherichia coli",
+              "code": "MG50.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/419354269",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#419354269",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            },
+            {
+              "title": "Fluoroquinolone resistant Escherichia coli",
+              "code": "MG50.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1297406018",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1297406018",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            },
+            {
+              "title": "Third generation cephalosporin resistant Escherichia coli",
+              "code": "MG50.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/81233849",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#81233849",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            },
+            {
+              "title": "Fourth-generation cephalosporins resistant Escherichia coli",
+              "code": "MG50.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1446899496",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1446899496",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            },
+            {
+              "title": "Carbapenem resistant Escherichia coli",
+              "code": "MG50.24",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/146561458",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#146561458",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            },
+            {
+              "title": "Polymyxin resistant Escherichia coli",
+              "code": "MG50.25",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/410435592",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#410435592",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            },
+            {
+              "title": "Penicillin resistant Escherichia coli",
+              "code": "MG50.26",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1483134068",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1483134068",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            },
+            {
+              "title": "Extended spectrum beta-lactamase producing Escherichia coli",
+              "code": "MG50.27",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/976332273",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#976332273",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            },
+            {
+              "title": "Escherichia coli resistant to other antibiotic",
+              "code": "MG50.2Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/916407020/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#916407020/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            },
+            {
+              "title": "Escherichia coli resistant to unspecified antibiotic",
+              "code": "MG50.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/916407020/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#916407020/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/916407020"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Haemophilus influenzae",
+          "code": "MG50.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/375810888",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#375810888",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Ampicillin resistant Haemophilus influenzae",
+              "code": "MG50.30",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1773711561",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1773711561",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/375810888"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified antibiotic resistant Haemophilus influenzae",
+              "code": "MG50.3Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/375810888/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#375810888/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/375810888"
+              ],
+              "child": []
+            },
+            {
+              "title": "Antibiotic resistant Haemophilus influenzae, unspecified",
+              "code": "MG50.3Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/375810888/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#375810888/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/375810888"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Helicobacter pylori",
+          "code": "MG50.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/690008608",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#690008608",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Clarithromycin resistant Helicobacter pylori",
+              "code": "MG50.40",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2003524291",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2003524291",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/690008608"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified antibiotic resistant Helicobacter pylori",
+              "code": "MG50.4Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/690008608/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#690008608/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/690008608"
+              ],
+              "child": []
+            },
+            {
+              "title": "Antibiotic resistant Helicobacter pylori, unspecified",
+              "code": "MG50.4Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/690008608/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#690008608/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/690008608"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Klebsiella pneumoniae",
+          "code": "MG50.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1758767625",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1758767625",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Sulfonamide or trimethoprim resistant Klebsiella pneumoniae",
+              "code": "MG50.50",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/231529131",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#231529131",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1758767625"
+              ],
+              "child": []
+            },
+            {
+              "title": "Fluoroquinolone resistant Klebsiella pneumoniae",
+              "code": "MG50.51",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1478794390",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1478794390",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1758767625"
+              ],
+              "child": []
+            },
+            {
+              "title": "Third-generation cephalosporin resistant Klebsiella pneumoniae",
+              "code": "MG50.52",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/939163862",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#939163862",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1758767625"
+              ],
+              "child": []
+            },
+            {
+              "title": "Fourth-generation cephalosporin resistant Klebsiella pneumoniae",
+              "code": "MG50.53",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1054989766",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1054989766",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1758767625"
+              ],
+              "child": []
+            },
+            {
+              "title": "Carbapenem resistant Klebsiella pneumoniae",
+              "code": "MG50.54",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1210342233",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1210342233",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1758767625"
+              ],
+              "child": []
+            },
+            {
+              "title": "Polymyxin resistant Klebsiella pneumoniae",
+              "code": "MG50.55",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/376419258",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#376419258",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1758767625"
+              ],
+              "child": []
+            },
+            {
+              "title": "Extended-spectrum beta-lactamase producing Klebsiella pneumoniae",
+              "code": "MG50.56",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1681393140",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1681393140",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1758767625"
+              ],
+              "child": []
+            },
+            {
+              "title": "Klebsiella pneumoniae resistant to other antibiotic",
+              "code": "MG50.5Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1758767625/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1758767625/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1758767625"
+              ],
+              "child": []
+            },
+            {
+              "title": "Klebsiella pneumoniae resistant to unspecified antibiotic",
+              "code": "MG50.5Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1758767625/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1758767625/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1758767625"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Neisseria gonorrhoeae",
+          "code": "MG50.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/312500700",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#312500700",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Third generation cephalosporin resistant Neisseria gonorrhoeae",
+              "code": "MG50.60",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2135031716",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2135031716",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/312500700"
+              ],
+              "child": []
+            },
+            {
+              "title": "Macrolide resistant Neisseria gonorrhoeae",
+              "code": "MG50.61",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1146062162",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1146062162",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/312500700"
+              ],
+              "child": []
+            },
+            {
+              "title": "Aminocyclitol resistant Neisseria gonorrhoeae",
+              "code": "MG50.62",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1924181975",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1924181975",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/312500700"
+              ],
+              "child": []
+            },
+            {
+              "title": "Fluoroquinolone resistant Neisseria gonorrhoeae",
+              "code": "MG50.63",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/754665268",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#754665268",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/312500700"
+              ],
+              "child": []
+            },
+            {
+              "title": "Aminoglycoside resistant Neisseria gonorrhoeae",
+              "code": "MG50.64",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/303916412",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#303916412",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/312500700"
+              ],
+              "child": []
+            },
+            {
+              "title": "Neisseria gonorrhoeae resistant to other antibiotic",
+              "code": "MG50.6Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/312500700/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#312500700/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/312500700"
+              ],
+              "child": []
+            },
+            {
+              "title": "Neisseria gonorrhoeae resistant to unspecified antibiotic",
+              "code": "MG50.6Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/312500700/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#312500700/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/312500700"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Neisseria meningitidis",
+          "code": "MG50.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/243404922",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#243404922",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Penicillin resistant Neisseria meningitidis",
+              "code": "MG50.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1071495840",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1071495840",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/243404922"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified antibiotic resistant Neisseria meningitidis",
+              "code": "MG50.7Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/243404922/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#243404922/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/243404922"
+              ],
+              "child": []
+            },
+            {
+              "title": "Antibiotic resistant Neisseria meningitidis, unspecified",
+              "code": "MG50.7Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/243404922/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#243404922/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/243404922"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Pseudomonas aeruginosa",
+          "code": "MG50.8",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1724766645",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1724766645",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Carbapenem-resistant Pseudomonas aeruginosa",
+              "code": "MG50.80",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2104583029",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2104583029",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1724766645"
+              ],
+              "child": []
+            },
+            {
+              "title": "Polymyxin-resistant Pseudomonas aeruginosa",
+              "code": "MG50.81",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/591039384",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#591039384",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1724766645"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pseudomonas aeruginosa resistant to other antibiotic",
+              "code": "MG50.8Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1724766645/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1724766645/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1724766645"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pseudomonas aeruginosa resistant to unspecified antibiotic",
+              "code": "MG50.8Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1724766645/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1724766645/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1724766645"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Salmonella",
+          "code": "MG50.9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1837021781",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1837021781",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Fluoroquinolone resistant Salmonella",
+              "code": "MG50.90",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1891254232",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1891254232",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1837021781"
+              ],
+              "child": []
+            },
+            {
+              "title": "Third generation cephalosporin resistant Salmonella",
+              "code": "MG50.91",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1586922538",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1586922538",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1837021781"
+              ],
+              "child": []
+            },
+            {
+              "title": "Carbapenem resistant Salmonella",
+              "code": "MG50.92",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/292396308",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#292396308",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1837021781"
+              ],
+              "child": []
+            },
+            {
+              "title": "Salmonella resistant to other antibiotic",
+              "code": "MG50.9Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1837021781/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1837021781/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1837021781"
+              ],
+              "child": []
+            },
+            {
+              "title": "Salmonella resistant to unspecified antibiotic",
+              "code": "MG50.9Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1837021781/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1837021781/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1837021781"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Shigella",
+          "code": "MG50.A",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1385347061",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1385347061",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Carbapenem resistant Shigella",
+              "code": "MG50.A0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/149575780",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#149575780",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1385347061"
+              ],
+              "child": []
+            },
+            {
+              "title": "Fluoroquinolone resistant Shigella",
+              "code": "MG50.A1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1067169197",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1067169197",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1385347061"
+              ],
+              "child": []
+            },
+            {
+              "title": "Third-generation cephalosporins resistant Shigella",
+              "code": "MG50.A2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/657712104",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#657712104",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1385347061"
+              ],
+              "child": []
+            },
+            {
+              "title": "Macrolides resistant Shigella",
+              "code": "MG50.A3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/50249252",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#50249252",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1385347061"
+              ],
+              "child": []
+            },
+            {
+              "title": "Shigella resistant to other antibiotic",
+              "code": "MG50.AY",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1385347061/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1385347061/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1385347061"
+              ],
+              "child": []
+            },
+            {
+              "title": "Shigella resistant to unspecified antibiotic",
+              "code": "MG50.AZ",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1385347061/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1385347061/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1385347061"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Vibrio",
+          "code": "MG50.B",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/759983228",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#759983228",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Fluoroquinolone resistant Vibrio",
+              "code": "MG50.B0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1078292002",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1078292002",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/759983228"
+              ],
+              "child": []
+            },
+            {
+              "title": "Vibrio resistant to other antibiotic",
+              "code": "MG50.BY",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/759983228/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#759983228/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/759983228"
+              ],
+              "child": []
+            },
+            {
+              "title": "Vibrio resistant to unspecified antibiotic",
+              "code": "MG50.BZ",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/759983228/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#759983228/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/759983228"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other antibiotic resistant Enterobacterales",
+          "code": "MG50.C",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2009650394",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2009650394",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": [
+            {
+              "title": "Other carbapenem resistant Enterobacterales",
+              "code": "MG50.C0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/116308496",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#116308496",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2009650394"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other third-generation cephalosporin resistant Enterobacterales",
+              "code": "MG50.C1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/135241972",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#135241972",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2009650394"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified other antibiotic resistant Enterobacterales",
+              "code": "MG50.CY",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2009650394/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2009650394/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2009650394"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other antibiotic resistant Enterobacterales, unspecified",
+              "code": "MG50.CZ",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2009650394/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2009650394/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2009650394"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified finding of gram negative bacteria resistant to antimicrobial drugs",
+          "code": "MG50.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1215034670/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1215034670/mms/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": []
+        },
+        {
+          "title": "Finding of gram negative bacteria resistant to antimicrobial drugs, unspecified",
+          "code": "MG50.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1215034670/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1215034670/mms/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1215034670"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Finding of gram positive bacteria resistant to antimicrobial drugs",
+      "code": "MG51",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1839638766",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1839638766",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1882742628"
+      ],
+      "child": [
+        {
+          "title": "Antibiotic resistant Staphylococcus aureus",
+          "code": "MG51.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1446152257",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1446152257",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1839638766"
+          ],
+          "child": [
+            {
+              "title": "Methicillin resistant Staphylococcus aureus",
+              "code": "MG51.00",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1710270895",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1710270895",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1446152257"
+              ],
+              "child": []
+            },
+            {
+              "title": "Vancomycin resistant Staphylococcus aureus",
+              "code": "MG51.01",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1225527575",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1225527575",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1446152257"
+              ],
+              "child": []
+            },
+            {
+              "title": "Penicillinase-stable beta lactams resistant Staphylococcus aureus",
+              "code": "MG51.02",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1557041653",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1557041653",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1446152257"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified antibiotic resistant Staphylococcus aureus",
+              "code": "MG51.0Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1446152257/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1446152257/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1446152257"
+              ],
+              "child": []
+            },
+            {
+              "title": "Antibiotic resistant Staphylococcus aureus, unspecified",
+              "code": "MG51.0Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1446152257/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1446152257/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1446152257"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Streptococcus pneumoniae",
+          "code": "MG51.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/40564846",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#40564846",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1839638766"
+          ],
+          "child": [
+            {
+              "title": "Penicillin resistant Streptococcus pneumoniae",
+              "code": "MG51.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/614467355",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#614467355",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/40564846"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sulfonamide and trimethoprim resistant Streptococcus pneumoniae",
+              "code": "MG51.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2121916205",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2121916205",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/40564846"
+              ],
+              "child": []
+            },
+            {
+              "title": "Third-generation cephalosporins resistant Streptococcus pneumoniae",
+              "code": "MG51.12",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/882950360",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#882950360",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/40564846"
+              ],
+              "child": []
+            },
+            {
+              "title": "Streptococcus pneumoniae resistant to other antibiotic",
+              "code": "MG51.1Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/40564846/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#40564846/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/40564846"
+              ],
+              "child": []
+            },
+            {
+              "title": "Streptococcus pneumoniae resistant to unspecified antibiotic",
+              "code": "MG51.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/40564846/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#40564846/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/40564846"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Antibiotic resistant Enterococcus",
+          "code": "MG51.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1980186627",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1980186627",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1839638766"
+          ],
+          "child": [
+            {
+              "title": "Vancomycin resistant Enterococcus",
+              "code": "MG51.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2002944575",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2002944575",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1980186627"
+              ],
+              "child": []
+            },
+            {
+              "title": "Enterococcus resistant to other antibiotic",
+              "code": "MG51.2Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1980186627/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1980186627/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1980186627"
+              ],
+              "child": []
+            },
+            {
+              "title": "Enteroccus resistant to unspecified antibiotic",
+              "code": "MG51.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1980186627/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1980186627/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1980186627"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified finding of gram positive bacteria resistant to antimicrobial drugs",
+          "code": "MG51.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1839638766/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1839638766/mms/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1839638766"
+          ],
+          "child": []
+        },
+        {
+          "title": "Finding of gram positive bacteria resistant to antimicrobial drugs, unspecified",
+          "code": "MG51.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1839638766/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1839638766/mms/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1839638766"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Finding of bacteria, neither gram negative nor positive, resistant to antimicrobial drugs",
+      "code": "MG52",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/501791005",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#501791005",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1882742628"
+      ],
+      "child": [
+        {
+          "title": "Antibiotic resistant Mycobacterium",
+          "code": "MG52.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/672063490",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#672063490",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/501791005"
+          ],
+          "child": [
+            {
+              "title": "Multi-drug resistant Mycobacterium tuberculosis",
+              "code": "MG52.00",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/757332010",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#757332010",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/672063490"
+              ],
+              "child": []
+            },
+            {
+              "title": "Antibiotic resistant non-tuberculous Mycobacterium",
+              "code": "MG52.01",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1876329639",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1876329639",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/672063490"
+              ],
+              "child": []
+            },
+            {
+              "title": "Extensively drug-resistant mycobacterium tuberculosis",
+              "code": "MG52.02",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1947911830",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1947911830",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/672063490"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified antibiotic resistant Mycobacterium",
+              "code": "MG52.0Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/672063490/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#672063490/mms/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/672063490"
+              ],
+              "child": []
+            },
+            {
+              "title": "Antibiotic resistant Mycobacterium, unspecified",
+              "code": "MG52.0Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/672063490/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#672063490/mms/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/672063490"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified finding of bacteria, neither gram negative nor positive, resistant to antimicrobial drugs",
+          "code": "MG52.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/501791005/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#501791005/mms/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/501791005"
+          ],
+          "child": []
+        },
+        {
+          "title": "Finding of bacteria, neither gram negative nor positive, resistant to antimicrobial drugs, unspecified",
+          "code": "MG52.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/501791005/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#501791005/mms/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/501791005"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Finding of virus resistant to antimicrobial drugs",
+      "code": "MG53",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1975056531",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1975056531",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1882742628"
+      ],
+      "child": [
+        {
+          "title": "Antiretroviral therapy resistant Human immunodeficiency virus",
+          "code": "MG53.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/132072037",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#132072037",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1975056531"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified finding of virus resistant to antimicrobial drugs",
+          "code": "MG53.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1975056531/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1975056531/mms/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1975056531"
+          ],
+          "child": []
+        },
+        {
+          "title": "Finding of virus resistant to antimicrobial drugs, unspecified",
+          "code": "MG53.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1975056531/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1975056531/mms/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1975056531"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Finding of fungus resistant to antimicrobial drugs",
+      "code": "MG54",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/828922344",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#828922344",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1882742628"
+      ],
+      "child": []
+    },
+    {
+      "title": "Finding of parasite resistant to antimicrobial drugs",
+      "code": "MG55",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/174465822",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#174465822",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1882742628"
+      ],
+      "child": [
+        {
+          "title": "Artemisinin resistant Plasmodium falciparum",
+          "code": "MG55.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/716575694",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#716575694",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/174465822"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified finding of parasite resistant to antimicrobial drugs",
+          "code": "MG55.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/174465822/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#174465822/mms/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/174465822"
+          ],
+          "child": []
+        },
+        {
+          "title": "Finding of parasite resistant to antimicrobial drugs, unspecified",
+          "code": "MG55.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/174465822/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#174465822/mms/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/174465822"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Finding of microorganism resistant to other multiple antimicrobial drugs",
+      "code": "MG56",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/612672352",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#612672352",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1882742628"
+      ],
+      "child": []
+    },
+    {
+      "title": "Finding of other microorganism resistant to antimicrobial drugs",
+      "code": "MG5Y",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1882742628/other",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1882742628/mms/other",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1882742628"
+      ],
+      "child": []
+    },
+    {
+      "title": "Finding of microorganism resistant to antimicrobial drugs, unspecified",
+      "code": "MG5Z",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1882742628/unspecified",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1882742628/mms/unspecified",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1882742628"
+      ],
+      "child": []
+    }
+  ]
+}

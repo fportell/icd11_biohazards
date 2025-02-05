@@ -1,0 +1,1445 @@
+{
+  "title": "Opioids",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/448177412",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#448177412",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/1170065830"
+  ],
+  "child": [
+    {
+      "title": "Opioids or related analgesics and agents affecting opioid receptors",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/2143992001",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2143992001",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/448177412"
+      ],
+      "child": [
+        {
+          "title": "Diamorphine",
+          "code": "XM05B3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1630539813",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1630539813",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": []
+        },
+        {
+          "title": "Morphine, morphine derivatives and metabolites",
+          "code": "XM69R4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/10129874",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#10129874",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": [
+            {
+              "title": "14-hydroxydihydro-morphinone",
+              "code": "XM39E2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/373425882",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#373425882",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Acemorphan",
+              "code": "XM5CY8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/201668608",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#201668608",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Benzomorphan",
+              "code": "XM0E25",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1551819185",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1551819185",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Benzyl morphine",
+              "code": "XM8YM7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1652374377",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1652374377",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Blue velvet",
+              "code": "XM0BB1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1184788251",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1184788251",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Desomorphine",
+              "code": "XM45R8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/907854998",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#907854998",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dihydromorphine",
+              "code": "XM4T95",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1835205515",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1835205515",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hydromorphinol",
+              "code": "XM3473",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1557746113",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1557746113",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hydromorphone",
+              "code": "XM8SD7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2056625457",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2056625457",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Metopon",
+              "code": "XM78E0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/264692180",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#264692180",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Morpholinylethylmorphine",
+              "code": "XM7VL7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1773510587",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1773510587",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Nicomorphine",
+              "code": "XM7W06",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1542773126",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1542773126",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Normorphine",
+              "code": "XM9BE3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2085300723",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2085300723",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Oxymorphone",
+              "code": "XM64M0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/728235330",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#728235330",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Morphine",
+              "code": "XM1KZ5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1715406755",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1715406755",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Benzylmorphine",
+              "code": "XM0P98",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/522057517",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#522057517",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            },
+            {
+              "title": "Myrophine",
+              "code": "XM7ZJ1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1902868321",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1902868321",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/10129874"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Opium",
+          "code": "XM4ES0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/969819660",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#969819660",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": [
+            {
+              "title": "Opium alkaloids (total)",
+              "code": "XM2T93",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1712068393",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1712068393",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/969819660"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opium alkaloids standardized powdered",
+              "code": "XM69X3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1393283933",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1393283933",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/969819660"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opium alkaloids tincture (camphorated)",
+              "code": "XM91H1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1664628951",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1664628951",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/969819660"
+              ],
+              "child": []
+            },
+            {
+              "title": "Laudanum",
+              "code": "XM1EE2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/657780462",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#657780462",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/969819660"
+              ],
+              "child": []
+            },
+            {
+              "title": "Papaveretum",
+              "code": "XM1YK2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/860086632",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#860086632",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/969819660"
+              ],
+              "child": []
+            },
+            {
+              "title": "Paregoric",
+              "code": "XM1LB8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/688185278",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#688185278",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/969819660"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Oxycodone",
+          "code": "XM4SL9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/273680488",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#273680488",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": [
+            {
+              "title": "Acetyldihydrocodeinone",
+              "code": "XM79K2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1251916572",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1251916572",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/273680488"
+              ],
+              "child": []
+            },
+            {
+              "title": "Eucodal",
+              "code": "XM7HX3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/253482213",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#253482213",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/273680488"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Nalfurafine",
+          "code": "XM9UH3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/851045332",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#851045332",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": []
+        },
+        {
+          "title": "Codeine, codeine derivatives and other opioids used in cough suppression",
+          "code": "XM4587",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1633360427",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1633360427",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": [
+            {
+              "title": "Acetyldihydrocodeine",
+              "code": "XM3DS6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/303720566",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#303720566",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Antitussive codeine mixture",
+              "code": "XM05R0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/154212350",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#154212350",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cliradon",
+              "code": "XM3YP8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/483369398",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#483369398",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Desocodeine",
+              "code": "XM4046",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/583826286",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#583826286",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dihydrocodeine",
+              "code": "XM06K5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1614240635",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1614240635",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dihydroisocodeine",
+              "code": "XM77C9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1124987029",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1124987029",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hycodan",
+              "code": "XM9UN6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/865032986",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#865032986",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hydroxydihydrocodeinone",
+              "code": "XM0YG5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1760599045",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1760599045",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Percodan",
+              "code": "XM07U7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1178197867",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1178197867",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Piminodine",
+              "code": "XM5NP7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1518933917",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1518933917",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Ethylmorphine",
+              "code": "XM3WN9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/897101108",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#897101108",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hydrocodone",
+              "code": "XM8E09",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2079972449",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2079972449",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Noscapine",
+              "code": "XM6RX7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/521434177",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#521434177",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pholcodine",
+              "code": "XM4QV7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/265934697",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#265934697",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dextromethorphan",
+              "code": "XM9UV0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1886127850",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1886127850",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Thebacon",
+              "code": "XM2358",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1429186998",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1429186998",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dimemorfan",
+              "code": "XM7V96",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2144702076",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2144702076",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            },
+            {
+              "title": "Normethadone",
+              "code": "XM5PZ4",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/210457954",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#210457954",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1633360427"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Methadone, methadone derivatives and other drugs used to treat opioid addictive disorders",
+          "code": "XM1ZY9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1550103509",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1550103509",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": [
+            {
+              "title": "Methadone",
+              "code": "XM7XP1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1620110091",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1620110091",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1550103509"
+              ],
+              "child": [
+                {
+                  "title": "Levo-iso-methadone",
+                  "code": "XM9RG7",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1405577507",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1405577507",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1620110091"
+                  ],
+                  "child": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opioid anaesthetics",
+          "code": "XM4MV8",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/492740878",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#492740878",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": [
+            {
+              "title": "Alfentanil",
+              "code": "XM4G88",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/469965768",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#469965768",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/492740878"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sufentanil",
+              "code": "XM1EF3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/13194873",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#13194873",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/492740878"
+              ],
+              "child": []
+            },
+            {
+              "title": "Anileridine",
+              "code": "XM7YQ6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/204241646",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#204241646",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/492740878"
+              ],
+              "child": []
+            },
+            {
+              "title": "Remifentanil",
+              "code": "XM0YQ0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2056766320",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2056766320",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/492740878"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Opioid receptor antagonists",
+          "code": "",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1960919828",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1960919828",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": [
+            {
+              "title": "Antagonist narcotic analgesic",
+              "code": "XM7TT0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1780214770",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1780214770",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cyclazocine",
+              "code": "XM0850",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1691230770",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1691230770",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Levallorphan",
+              "code": "XM65J2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1523448042",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1523448042",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Morphine antagonist",
+              "code": "XM4HP3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/469041453",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#469041453",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Naloxone",
+              "code": "XM14T9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1043881199",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1043881199",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Naltrexone",
+              "code": "XM2M16",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1320875876",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1320875876",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Narcotic antagonist",
+              "code": "XM9BM4",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1425918394",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1425918394",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opiate antagonists",
+              "code": "XM5DJ2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1090748402",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1090748402",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Methylnaltrexone bromide",
+              "code": "XM3TK0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1834847250",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1834847250",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alvimopan",
+              "code": "XM4GP3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/679433113",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#679433113",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Naloxegol",
+              "code": "XM93Z3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1528799793",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1528799793",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opioid antagonist",
+              "code": "XM6KY8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/962792948",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#962792948",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1960919828"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other opioid analgesics, natural, synthetic and semi-synthetic",
+          "code": "XM4S22",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/169293502",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#169293502",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": [
+            {
+              "title": "Prodine",
+              "code": "XM30T6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/959168156",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#959168156",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Antitussive opiate",
+              "code": "XM9907",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1465105907",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1465105907",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cough mixture containing opiates",
+              "code": "XM6C31",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1982035471",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1982035471",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dextrorphan",
+              "code": "XM8ZF5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1435971455",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1435971455",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Difencloxazine",
+              "code": "XM1K75",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1574836895",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1574836895",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dilaudid",
+              "code": "XM1HE9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1499696289",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1499696289",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dipipanone",
+              "code": "XM9SW6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/152589584",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#152589584",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dromoran",
+              "code": "XM81P5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1988413055",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1988413055",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Eptazocine",
+              "code": "XM4EW3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1668968503",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1668968503",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Ethoheptazine",
+              "code": "XM6CK0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/654254030",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#654254030",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Heptalgin",
+              "code": "XM35C1",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1824782501",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1824782501",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Levo-dromoran",
+              "code": "XM5F21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/721406921",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#721406921",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Levopropoxyphene",
+              "code": "XM4P40",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1904217300",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1904217300",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Levorphanol",
+              "code": "XM1R71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/817427731",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#817427731",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Meperidine",
+              "code": "XM0GS3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/96416103",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#96416103",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Narcotic synthetic",
+              "code": "XM8PP7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/9117337",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#9117337",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Nisentil",
+              "code": "XM8MP5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/976573055",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#976573055",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opioid",
+              "code": "XM7S23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/801891383",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#801891383",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Phenadoxone",
+              "code": "XM04Z5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/212705695",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#212705695",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Phenazocine",
+              "code": "XM2542",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1088398862",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1088398862",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Phenomorphan",
+              "code": "XM9B34",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1428230214",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1428230214",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Pipadone",
+              "code": "XM72D5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1894534534",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1894534534",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Profadol",
+              "code": "XM39L3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/791551143",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#791551143",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Promedol",
+              "code": "XM9AZ5",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/986753775",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#986753775",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Propoxyphene",
+              "code": "XM3E08",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2136327448",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2136327448",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Racemoramide",
+              "code": "XM6625",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1368197425",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1368197425",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Thebaine",
+              "code": "XM8804",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1884028404",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1884028404",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Tilidine",
+              "code": "XM09H6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1257615636",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1257615636",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Tramadol",
+              "code": "XM7KC0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1594558300",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1594558300",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Viminol",
+              "code": "XM5UK3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1827934713",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1827934713",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Diphenoxylate",
+              "code": "XM9Y28",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1564067348",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1564067348",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Loperamide",
+              "code": "XM86N4",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1184647944",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1184647944",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Phenylpiperidine derivatives",
+              "code": "XM9NL3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1936064923",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1936064923",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": [
+                {
+                  "title": "Ketobemidone",
+                  "code": "XM9HP7",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/93746057",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#93746057",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1936064923"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Fentanyl",
+                  "code": "XM76M8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/474043178",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#474043178",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1936064923"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "Diphenylpropylamine derivatives",
+              "code": "XM8286",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/959573246",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#959573246",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": [
+                {
+                  "title": "Dextromoramide",
+                  "code": "XM3246",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1160197006",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1160197006",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/959573246"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Piritramide",
+                  "code": "XM55Z5",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/170916635",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#170916635",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/959573246"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Dextropropoxyphene",
+                  "code": "XM8GB8",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1356432838",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1356432838",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/959573246"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Bezitramide",
+                  "code": "XM5GN5",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/69192265",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#69192265",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/959573246"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "Benzomorphan derivatives",
+              "code": "XM1QE0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1674023459",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1674023459",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": [
+                {
+                  "title": "Pentazocine",
+                  "code": "XM9K14",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1872714914",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1872714914",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1674023459"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "Morphinan derivatives",
+              "code": "XM09R6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/422405716",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#422405716",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": [
+                {
+                  "title": "Butorphanol",
+                  "code": "XM1682",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/594313282",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#594313282",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/422405716"
+                  ],
+                  "child": []
+                },
+                {
+                  "title": "Nalbuphine",
+                  "code": "XM4P05",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/360032465",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#360032465",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/422405716"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "Buprenorphine",
+              "code": "XM9Z94",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/915551754",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#915551754",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Etorphine",
+              "code": "XM02X7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1776194997",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1776194997",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Acetorphine",
+              "code": "XM3PK7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1233147897",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1233147897",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Phenoperidine",
+              "code": "XM0K66",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1695742926",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1695742926",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Meptazinol",
+              "code": "XM40T9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/921147318",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#921147318",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Drotebanol",
+              "code": "XM0GU8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/901338928",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#901338928",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Loperamide oxide",
+              "code": "XM7VK6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/596240176",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#596240176",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dezocine",
+              "code": "XM13Q9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2099771229",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2099771229",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Tapentadol",
+              "code": "XM25Z3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2007650353",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2007650353",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            },
+            {
+              "title": "Oliceridine",
+              "code": "XM1G85",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1724306685",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1724306685",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/169293502"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Nalmefene",
+          "code": "XM4PD9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1666428199",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1666428199",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": []
+        },
+        {
+          "title": "Difelikefalin",
+          "code": "XM4M74",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1361937054",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1361937054",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2143992001"
+          ],
+          "child": []
+        }
+      ]
+    }
+  ]
+}
