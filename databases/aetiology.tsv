@@ -1,0 +1,1047 @@
+	Aetiology
+    	Causality
+        XB8M	Congenital
+        XB8D	Iatrogenic
+        XB5F	Idiopathic
+        XB1Y	Familial
+        XB25	Nosocomial
+        XB4Q	Environmental
+        	Occupational relevance
+            XB17	Occupation as primary factor
+            XB5G	Occupation as cofactor
+            XB80	Not occupation-related
+        XB5W	Life-style
+        XB22	Community acquired
+        XT9T	Ageing-related
+        XB2G	Post traumatic
+        XB4S	Genetic
+            XB7K	Hereditary
+            XB7S	Non-hereditary
+    	Infectious Agents
+        XN74M	Bacteria
+            XN5PZ	Gram Negative Bacteria
+                XN25B	Acinetobacter
+                    XN8LS	Acinetobacter baumannii
+                    XN5YN	Acinetobacter junii
+                    XN0DS	Acinetobacter nosocomialis
+                    XN2QH	Acinetobacter pittii
+                XN048	Anaplasma
+                    XN1MH	Anaplasma phagocytophilum
+                XN3NJ	Bartonella
+                    XN0W4	Bartonella bacilliformis
+                    XN3F6	Bartonella clarridgeiae
+                    XN5J5	Bartonella elizabethae
+                    XN5SH	Bartonella grahamii
+                    XN862	Bartonella henselae
+                    XN302	Bartonella koehlerae
+                    XN14D	Bartonella quintana
+                    XN43H	Bartonella rochalimae
+                    XN6KD	Bartonella vinsonii
+                    XN94Y	Bartonella washoensis
+                XN9W3	Bordetella
+                    XN173	Bordetella bronchiseptica
+                    XN23B	Bordetella pertussis
+                    XN7LQ	Bordetella parapertussis
+                XN22N	Brucella
+                    XN7A8	Brucella abortus
+                    XN84J	Brucella canis
+                    XN7ZW	Brucella melitensis
+                    XN3UP	Brucella suis
+                XN01M	Burkholderia
+                    XN351	Burkholderia gladioli
+                    XN6Y3	Burkholderia mallei
+                    XN3LD	Burkholderia pseudomallei
+                    XN335	Burkholderia cepacia complex
+                        XN06D	Burkholderia stabilis
+                        XN0ZW	Burkholderia anthina
+                        XN15B	Burkholderia contaminans
+                XN7US	Campylobacter
+                    XN0BA	Campylobacter coli
+                    XN3EN	Campylobacter fetus
+                    XN4Q5	Campylobacter jejuni
+                XN27H	Chlamydia
+                    XN9EE	Chlamydia pneumoniae
+                    XN4S7	Chlamydia psittaci
+                    XN4Q4	Chlamydia trachomatis
+                XN0FZ	Citrobacter
+                    XN0M3	Citrobacter freundii
+                XN5H6	Coxiella
+                    XN0QS	Coxiella burnetii
+                XN9M7	Ehrlichia
+                    XN293	Ehrlichia canis
+                    XN4GW	Ehrlichia chaffeensis
+                    XN2YH	Ehrlichia ewingii
+                XN1VF	Eikenella
+                XN9W5	Enterobacter
+                    XN3YM	Enterobacter cloacae
+                XN4WC	Escherichia
+                    XN6P4	Escherichia coli
+                        XN88S	Enteroinvasive Escherichia coli
+                        XN2U0	Enteropathogenic Escherichia coli
+                        XN81Z	Enterotoxigenic Escherichia coli
+                        XN108	Shiga toxin-producing Escherichia coli
+                            XN5NF	Enterohaemorrhagic Escherichia coli
+                        XN55V	Enteroaggregative Escherichia coli
+                    XN6MP	Escherichia hermannii
+                    XN2S7	Pseudescherichia vulneris
+                XN94G	Francisella
+                    XN6HJ	Francisella philomiragia
+                    XN0BX	Francisella tularensis
+                        XN4ZY	Francisella novicida
+                XN4LF	Fusobacterium
+                    XN7B1	Fusobacterium necrophorum
+                    XN5MA	Fusobacterium novum
+                    XN4P8	Fusobacterium nucleatum
+                    XN911	Fusobacterium polymorphum
+                XN2HK	Haemophilus
+                    XN6MB	Haemophilus ducreyi
+                    XN1P6	Haemophilus influenzae
+                        XN1BX	Haemophilus influenzae aegyptius
+                        XN0FG	Haemophilus influenzae type B
+                XN6XR	Helicobacter
+                    XN0YS	Helicobacter bilis
+                    XN0TD	Helicobacter bizzozeronii
+                    XN42L	Helicobacter canis
+                    XN354	Helicobacter cinaedi
+                    XN6JN	Helicobacter felis
+                    XN9X3	Helicobacter ganmani
+                    XN8PN	Helicobacter hepaticus
+                    XN3DY	Helicobacter pylori
+                    XN9D7	Helicobacter salomonis
+                    XN079	Helicobacter suis
+                XN620	Klebsiella
+                    XN027	Klebsiella granulomatis
+                    XN7WL	Klebsiella oxytoca
+                    XN741	Klebsiella pneumoniae
+                XN7EJ	Kingella kingae
+                XN3SZ	Legionella
+                    XN14Z	Legionella longbeachae
+                    XN9YS	Legionella pneumophila
+                XN9RA	Leptospira
+                    XN1R8	Leptospira alexanderi
+                    XN7D2	Leptospira borgpetersenii
+                    XN9K9	Leptospira broomii
+                    XN5HC	Leptospira fainei
+                    XN20F	Leptospira inadai
+                    XN78P	Leptospira interrogans
+                    XN110	Leptospira kirschneri
+                    XN481	Leptospira kmetyi
+                    XN6NU	Leptospira licerasiae
+                    XN4KP	Leptospira noguchii
+                    XN01X	Leptospira santarosai
+                    XN4FL	Leptospira species
+                    XN4E7	Leptospira weilii
+                    XN77E	Leptospira wolffii
+                    XN5UB	Leptospira genomospecies 1 (alstonii)
+                XN2JD	Leptotrichia
+                    XN734	Leptotrichia buccalis
+                    XN4GY	Leptotrichia goodfellowii
+                    XN0SF	Leptotrichia hofstadii
+                    XN4SA	Leptotrichia hongkongensis
+                    XN7NF	Leptotrichia shahii
+                    XN6QY	Leptotrichia trevisanii
+                    XN5SN	Leptotrichia wadei
+                XN90V	Moraxella
+                XN8G6	Morganella
+                XN1W2	Mycoplasma
+                    XN3NR	Mycoplasma fermentans
+                    XN9UG	Mycoplasma genitalium
+                    XN674	Mycoplasma hyorhinis
+                    XN3AD	Mycoplasma penetrans
+                    XN4NV	Mycoplasma pneumoniae
+                XN69X	Neisseria
+                    XN59Y	Neisseria gonorrhoeae
+                    XN1DV	Neisseria meningitidis
+                        XN3CR	Neisseria meningitidis serogroup A
+                        XN8FU	Neisseria meningitidis serogroup B
+                        XN7EM	Neisseria meningitidis serogroup C
+                        XN03X	Neisseria meningitidis serogroup W
+                        XN0C2	Neisseria meningitidis serogroup X
+                        XN5H0	Neisseria meningitidis serogroup Y
+                XN8ST	Neorickettsia
+                    XN7C8	Neorickettsia sennetsu
+                XN3U2	Pasteurella
+                    XN30D	Pasteurella multocida
+                XN1ZM	Pleisiomonas
+                XN3BS	Proteus
+                    XN9ZF	Proteus mirabilis
+                    XN9DS	Proteus morganii
+                    XN7PE	Proteus penneri
+                    XN118	Proteus vulgaris
+                XN7R2	Providencia
+                    XN2PG	Providencia rettgeri
+                XN022	Pseudomonas
+                    XN5L6	Pseudomonas aeruginosa
+                    XN3JP	Pseudomonas oryzihabitans
+                    XN52E	Pseudomonas mallei
+                    XN8J7	Pseudomonas plecoglossicida
+                    XN8AA	Pseudomonas pseudomallei
+                XN4YH	Rickettsia
+                    XN9YP	Rickettsia africae
+                    XN7WV	Rickettsia akari
+                    XN23V	Rickettsia australis
+                    XN8U4	Rickettsia conorii
+                    XN6W8	Rickettsia felis
+                    XN9NE	Rickettsia helvetica
+                    XN5NY	Rickettsia hoogstraalii
+                    XN3XV	Rickettsia japonica
+                    XN8SY	Rickettsia prowazekii
+                    XN33Q	Rickettsia rickettsii
+                    XN1N6	Rickettsia sibirica
+                    XN2AR	Rickettsia typhi
+                XN0QE	Salmonellae
+                    XN5VC	Salmonella enterica spp.
+                        XN0UV	Salmonella Paratyphi
+                            XN1K5	Salmonella paratyphi A
+                            XN322	Salmonella paratyphi B
+                            XN5TR	Salmonella paratyphi C
+                        XN4AM	Salmonella Typhi
+                        XN7U5	Salmonella Panama
+                        XN97K	Salmonella Weltevreden
+                        XN13V	Salmonella Wandsworth
+                        XN3DF	Salmonella Virchow
+                        XN4QY	Salmonella Give
+                        XN3AE	Salmonella Gaminara
+                        XN0N5	Salmonella Agona
+                        XN5SM	Salmonella Kiambu
+                        XN3TU	Salmonella Thompson
+                        XN15L	Salmonella Typhimurium
+                        XN8SF	Salmonella Saintpaul
+                        XN2MU	Salmonella Stanley
+                        XN0LX	Salmonella Strathcona
+                        XN5WE	Salmonella Senftenberg
+                        XN291	Salmonella Tennessee
+                        XN87G	Salmonella Newport
+                        XN5TM	Salmonella Hartford
+                        XN1QX	Salmonella Oranienburg
+                        XN2SZ	Salmonella Poona
+                        XN36N	Salmonella Kedougou
+                        XN5LV	Salmonella Litchfield
+                        XN4LH	Salmonella Mbandaka
+                        XN1FK	Salmonella Montevideo
+                        XN3UH	Salmonella Mikawasima
+                        XN7QM	Salmonella Concord
+                        XN8RF	Salmonella Cubana
+                        XN39C	Salmonella Infantis
+                        XN6JL	Salmonella Havana
+                        XN1W7	Salmonella Enteritidis
+                        XN0Q7	Salmonella Bareilly
+                        XN4MS	Salmonella Braenderup
+                        XN3KA	Salmonella Brandenburg
+                        XN0NU	Salmonella Choleraesuis
+                        XN910	Salmonella Bredeney
+                        XN52S	Salmonella Nchanga
+                        XN8F6	Salmonella Lille
+                        XN7EC	Salmonella Sandiego
+                        XN2DJ	Salmonella enterica subspecies enterica serovar 4,5,12:i:-
+                        XN7PN	Salmonella enterica subspecies enterica serovar 4,[5],12:i:-
+                    XN2DW	Salmonella bongori spp
+                XN71D	Serratia spp
+                    XN2V6	Serratia marcescens
+                XN7HG	Shigella spp
+                    XN7Y2	Shigella flexneri
+                    XN8RN	Shigella boydii
+                    XN285	Shigella dysenteriae
+                    XN9M9	Shigella sonnei
+                XN23Z	Spirillum
+                    XN0J7	Spirillum minus
+                    XN78V	Spirillum pulli
+                    XN17K	Spirillum volutans
+                    XN96A	Spirillum winogradskyi
+                XN708	Streptobacillus
+                    XN91U	Streptobacillus moniliformis
+                XN1L0	Stenotrophomonas
+                    XN0AD	Stenotrophomonas maltophilia
+                XN36C	Treponema
+                    XN76V	Treponema carateum
+                    XN711	Treponema pallidum
+                        XN6AL	Treponema pallidum carateum
+                        XN35Z	Treponema pallidum endemicum
+                        XN030	Treponema pallidum pallidum
+                        XN46P	Treponema pallidum pertenue
+                XN1R2	Ureaplasma
+                XN8RL	Vibrio
+                    XN7N1	Vibrio cholerae
+                        XN8P1	Vibrio cholerae O1, biovar cholerae
+                        XN62R	Vibrio cholerae O1, biovar eltor
+                        XN8KD	Vibrio cholerae O139
+                    XN1AA	Vibrio parahaemolyticus
+                    XN44G	Vibrio vulnificus
+                XN4QG	Yersinia
+                    XN91V	Yersinia enterocolitica
+                    XN6QS	Yersinia pestis
+                    XN6K8	Yersinia pseudotuberculosis
+                XN65H	Bacteroides
+                    XN2R7	Bacteroides fragilis
+                XN9EB	Cronobacter
+                    XN2YF	Cronobacter sakazakii
+                XN9AS	Brevundimonas
+                    XN8W4	Brevundimonas diminuta
+                    XN2F0	Brevundimonas vesicularis
+                XN1J7	Aeromonas
+                    XN40Z	Aeromonas hydrophila
+                    XN0XY	Aeromonas caviae
+                XN4X0	Herbaspirillum
+                    XN7QA	Herbaspirillum huttiense
+                XN706	Elizabethkingia
+                    XN6BA	Elizabethkingia anophelis
+                    XN6C4	Elizabethkingia meningoseptica
+                XN15X	Ralstonia
+                    XN6AH	Ralstonia picketti
+                    XN694	Ralstonia mannitolilytica
+                    XN9VM	Ralstonia insidiosa
+                XN3NY	Raoultella
+                    XN0MD	Raoultella ornithinolytica
+                XN6PA	Orientia
+                    XN675	Orientia tsutsugamushi
+            XN2QM	Gram Positive Bacteria
+                XN3G0	Actinomyces
+                    XN0GV	Actinomyces gerencseriae
+                    XN15T	Actinomyces israelii
+                    XN8HN	Actinomyces species
+                XN8EK	Actinomycetales
+                    XN8P7	Actinomadura
+                XN9ZE	Bacillus
+                    XN94F	Bacillus anthracis
+                    XN8PY	Bacillus cereus
+                XN33F	Bifidobacterium
+                    XN0PT	Bifidobacterium dentium
+                XN198	Clostridium
+                    XN2JN	Clostridium botulinum
+                    XN7J5	Clostridium perfringens
+                    XN4LP	Clostridium sordellii
+                    XN5NQ	Clostridium tetani
+                XN3NT	Corynebacterium
+                    XN9N1	Corynebacterium diphtheriae
+                    XN78S	Corynebacterium minutissimum
+                    XN752	Corynebacterium striatum
+                    XN3MP	Corynebacterium tenuis
+                XN1F7	Enterococcus
+                    XN2H4	Enterococcus faecalis
+                    XN51E	Enterococcus faecium
+                    XN0DT	Enterococcus avium
+                    XN3XY	Enterococcus casseliflavus
+                    XN724	Enterococcus durans
+                    XN8BQ	Enterococcus gallinarum
+                    XN4ZZ	Enterococcus mundtii
+                    XN3QK	Enterococcus raffinosus
+                XN494	Erysipelothrix
+                    XN4FJ	Erysipelothrix rhusiopathiae
+                XN4D1	Listeria
+                    XN39H	Listeria ivanovii
+                    XN602	Listeria monocytogenes
+                XN20K	Nocardia
+                    XN2BK	Nocardia asteroides
+                    XN1LG	Nocardia brasiliensis
+                XN5M7	Propionibacterium
+                    XN27L	Propionibacterium propionicus
+                XN9ZG	Staphylococcus
+                    XN6BM	Staphylococcus aureus
+                        XN4B5	Panton-Valentine Leukocidin–producing Staphylococcus aureus
+                    XN0PR	Staphylococcus auricularis
+                    XN0H1	Staphylococcus capitis
+                    XN99G	Staphylococcus caprae
+                    XN95B	Staphylococcus cohnii
+                    XN8KJ	Staphylococcus epidermidis
+                    XN2GD	Staphylococcus haemolyticus
+                    XN09P	Staphylococcus leei
+                    XN4N7	Staphylococcus lugdunensis
+                    XN8WC	Staphylococcus pasteuri
+                    XN6FH	Staphylococcus pettenkoferi
+                    XN9X8	Staphylococcus schleiferi
+                    XN2HN	Staphylococcus sciuri
+                    XN7RE	Staphylococcus simulans
+                    XN4C9	Staphylococcus warneri
+                    XN7TQ	Staphylococcus xylosus
+                    XN567	Staphylococcus hominis
+                XN3NM	Streptococcus
+                    XN1V3	Alpha-hemolytic Streptococcus
+                        XN3PW	Streptococcus pneumoniae
+                        XN9LA	Streptococcus viridans
+                    XN1AF	Beta-haemolytic Streptococcus
+                    XN2NS	Gamma-haemolytic Streptococcus
+                    XN6LP	Streptococcus, group A
+                        XN7YG	Streptococcus pyogenes
+                    XN2M1	Streptococcus, group B
+                        XN0KC	Streptococcus agalactiae
+                    XN518	Group C Streptococcus
+                        XN0TY	Streptococcus zooepidemicus
+                    XN5KC	Streptococcus, group D
+                        XN6KJ	Streptococcus bovis
+                        XN625	Streptococcus equinus
+                    XN8BJ	Group E Streptococcus
+                    XN6BB	Group F Streptococcus
+                    XN84N	Group G Streptococcus
+                        XN8UN	Streptococcus dysgalactiae
+                    XN40Y	Group H Streptococcus
+                        XN39R	Streptococcus anginosus
+                        XN3L7	Streptococcus canis
+                        XN0FR	Streptococcus constellatus
+                        XN4PA	Streptococcus iniae
+                        XN67P	Streptococcus intermedius
+                        XN5BP	Streptococcus mitis
+                        XN2RH	Streptococcus mutans
+                        XN4B2	Streptococcus oralis
+                        XN18T	Streptococcus parasanguinis
+                        XN58W	Streptococcus peroris
+                        XN6KE	Streptococcus pseudopneumoniae
+                        XN5DB	Streptococcus ratti
+                        XN3BQ	Streptococcus salivarius
+                        XN9FP	Streptococcus sanguinis
+                        XN0XM	Streptococcus sobrinus
+                        XN5SE	Streptococcus suis
+                        XN4LM	Streptococcus thermophilus
+                        XN1TV	Streptococcus uberis
+                        XN0Z2	Streptococcus vestibularis
+                XN7PP	Tropheryma
+                    XN5P4	Tropheryma whipplei
+                XN0SE	Clostridioides difficile
+            XN87X	Bacteria, neither Gram Negative nor Gram Positive
+                XN2DX	Borrelia
+                    XN7GL	Borrelia afzelii
+                    XN13C	Borrelia burgdorferi
+                    XN4VZ	Borrelia garinii
+                    XN3PD	Borrelia hermsii
+                    XN2P3	Borrelia miyamotoi
+                    XN6VH	Borrelia parkeri
+                    XN5R4	Borrelia recurrentis
+                    XN140	Borrelia vincentii
+                XN2NR	Mycobacterium
+                    XN6YB	Mycobacterium africanum
+                    XN8AB	Mycobacterium bovis
+                    XN8N3	Mycobacterium canettii
+                    XN4MR	Mycobacterium caprae
+                    XN9H9	Mycobacterium colombiense
+                    XN8FC	Mycobacterium indicus pranii
+                    XN5TS	Mycobacterium leprae
+                    XN3T2	Mycobacterium microti
+                    XN7H2	Mycobacterium pinnipedii
+                    XN1N2	Mycobacterium tuberculosis
+                    XN96Q	Non-tuberculous mycobacterium
+                        XN3L9	Mycobacterium kansasii
+                        XN5C1	Mycobacterium malmoense
+                        XN53D	Mycobacterium xenopi
+                        XN6PL	Mycobacterium asiaticum
+                        XN4MW	Mycobacterium simiae
+                        XN975	Mycobacterium szulgai
+                        XN74T	Mycobacterium scrofulaceum
+                        XN7YR	Mycobacterium haemophilum
+                        XN8ZX	Mycobacterium fortuitum
+                        XN8RB	Mycobacterium marinum
+                        XN9M0	Mycobacterium ulcerans
+                        XN3D3	Mycobacterium chelonei
+                        XN97H	Mycobacterium avium complex
+                            XN5LZ	Mycobacterium avium
+                                XN8FF	Mycobacterium avium hominissuis
+                                XN5NW	Mycobacterium avium paratuberculosis
+                                XN145	Mycobacterium avium silvaticum
+                            XN3ZQ	Mycobacterium intracellulare
+                            XN077	Mycobacterium chimaera
+                        XN4TQ	Mycobacterium abscessus complex
+                            XN7V4	Mycobacterium abscessus subsp. abscessus
+                            XN5SW	Mycobacterium abscessus subsp. massiliense
+                            XN017	Mycobacterium abscessus subsp. bolletii
+                        XN44M	Mycobacterium chelonae
+        XN3BH	Virus
+            XN000	Adenovirus
+                XN0R0	Atadenovirus
+                XN05K	Aviadenovirus
+                XN728	Ichtadenovirus
+                XN93P	Mastadenovirus
+                XN13L	Siadenovirus
+            XN6ME	Alphavirus
+                XN0SK	Aura virus
+                XN434	Babanki virus
+                XN5KQ	Barmah Forest virus
+                XN6XS	Bebaru virus
+                XN0UF	Cabassou virus
+                XN4ZB	Chikungunya virus
+                XN78T	Eastern equine encephalitis virus
+                XN26A	Everglades virus
+                XN87D	Kyzylagach virus
+                XN5ZC	Mayaro virus
+                XN1VS	Middelburg virus
+                XN34P	Mosso das Pedras virus
+                XN7PD	Mucambo virus
+                XN0H9	Ndumu virus
+                XN9WS	Ockelbo virus
+                XN6AD	o'nyong nyong virus
+                XN240	Paramana virus
+                XN3YZ	Pixuna virus
+                XN79Q	Río Negro virus
+                XN49A	Ross River virus
+                XN4D3	Salmon pancreatic disease virus
+                XN3D4	Semliki Forest virus
+                XN0D6	Sindbis virus
+                XN132	Sleeping Disease virus
+                XN5MK	Southern elephant seal virus
+                XN4ER	Tonate virus
+                XN2B3	Trocara virus
+                XN445	Venezuelan equine encephalitis virus
+                XN8PC	Whataroa virus
+                XN2CK	Western equine encephalitis virus
+            XN1BE	Arbovirus
+                XN5VQ	La Crosse virus
+            XN8AC	Arenavirus
+                XN2WG	Chapare virus
+                XN56K	Guanarito virus
+                XN2ZL	Junín virus
+                XN0CU	Lassa virus
+                XN77P	Lujo virus
+                XN4ZL	Lymphocytic choriomeningitis virus
+                XN45B	Machupo virus
+                XN55S	Sabiá virus
+            XN5VM	Bornavirus
+                XN395	Borna disease virus 1
+                XN125	variegated squirrel bornavirus 1
+            XN7S5	Bunyavirus
+                XN9UC	Amur virus
+                XN17V	Crimean-Congo haemorrhagic fever virus
+                XN16H	Dobrava virus
+                XN2QZ	gōu virus
+                XN3GW	Hantaan virus
+                XN8UR	Kurkino virus
+                XN8AF	Muju virus
+                XN4S8	Orthobunyavirus
+                    XN09U	Cristoli virus
+                    XN4U2	Oropouche orthobunyavirus
+                XN28L	Puumala virus
+                XN9PD	Saaremaa virus
+                XN3PV	Seoul virus
+                XN95V	Sochi virus
+                XN0E0	Soochong virus
+                XN9G5	Tula virus
+                XN2VY	Anajatuba virus
+                XN4AP	Andes virus
+                XN2C8	Araucária virus
+                XN2WJ	bayou virus
+                XN0A0	Bermejo virus
+                XN66E	Black Creek Canal virus
+                XN8LW	Blue River virus
+                XN18Y	Castelo dos Sonhos virus
+                XN6XF	El Moro Canyon virus
+                XN8G9	Juquitiba virus
+                XN6P0	Laguna Negra virus
+                XN2CJ	Lechiguanas virus
+                XN2BW	Maciel virus
+                XN3WK	Monongahela virus
+                XN5SF	Muleshoe virus
+                XN9VX	New York virus
+                XN9BY	Orán virus
+                XN5JV	Paranoá virus
+                XN65X	Pergamino virus
+                XN2VC	Río Mamoré virus
+                XN7R1	sin nombre virus
+                XN057	Tunari virus
+                XN8AQ	Araraquara virus
+                XN5VU	Phlebovirus
+                    XN2YW	Punta Toro virus
+                    XN7AS	Rift Valley fever phlebovirus
+                    XN72W	Sicilian phlebovirus
+                    XN7FG	Naples phlebovirus
+                    XN3V9	Toscana phlebovirus
+                XN3BT	Dabie bandavirus
+            XN9RK	Calicivirus
+                XN4EB	Lagovirus
+                XN8L1	Nebovirus
+                XN3Y2	Norovirus
+                XN9EH	Sapovirus
+                XN0R6	Vesivirus
+            XN83D	Coronavirus
+                XN0UA	Human coronavirus 229E
+                XN9KN	Human coronavirus HKU1
+                XN7CX	Human coronavirus OC43
+                XN3BD	Middle East respiratory syndrome coronavirus
+                XN5V7	Pipistrellus bat coronavirus HKU5
+                XN1N9	Rousettus bat coronavirus HKU9
+                XN1V8	Severe Acute Respiratory Syndrome coronavirus
+                XN1GJ	Tylonycteris bat coronavirus HKU4
+                XN109	SARS-CoV-2
+                    XN0HL	SARS-CoV-2 Alpha
+                    XN4Q7	SARS-CoV-2 Beta
+                    XN5BQ	SARS-CoV-2 Gamma
+                    XN8V6	SARS-CoV-2 Delta
+                    XN1GK	SARS-CoV-2 Epsilon
+                    XN3ZE	SARS-CoV-2 Zeta
+                    XN2V4	SARS-CoV-2 Eta
+                    XN4Q1	SARS-CoV-2 Theta
+                    XN3UD	SARS-CoV-2 Iota
+                    XN9LB	SARS-CoV-2 Kappa
+                    XN6AM	SARS-CoV-2 Lambda
+                    XN39J	SARS-CoV-2 Mu
+                    XN161	SARS-CoV-2 Omicron
+                        XN8Z4	BA.5
+                        XN4UD	BQ.1
+                        XN51Y	XBB
+                            XN72A	XBB.1.5
+                            XN201	XBB.1.16
+                            XN8RW	EG.5
+                            XN031	BA2.86
+                        XN3QV	BA.1
+                        XN53K	BA.2
+            XN2P0	Enterovirus
+                XN3MC	Coxsackievirus
+                XN2TU	Echovirus
+                XN3M0	Poliovirus
+                    XN6KZ	Wild poliovirus type 1
+                    XN9CF	Wild poliovirus type 2
+                    XN97R	Wild poliovirus type 3
+                    XN2T1	Circulating vaccine-derived poliovirus type 1
+                    XN1XN	Circulating vaccine-derived poliovirus type 2
+                    XN7UU	Circulating vaccine-derived poliovirus type 3
+                XN19Z	Rhinovirus
+            XN6R5	Filovirus
+                XN2LW	Genus Ebolavirus
+                    XN1EN	Ebola virus
+                    XN8JT	Bundibugyo virus
+                    XN9QG	Reston virus
+                    XN13U	Sudan virus
+                    XN8TT	Taï Forest virus
+                    XN12Y	Bombali virus
+                XN4XZ	Genus Marburgvirus
+                    XN3F2	Marburg virus
+                    XN5M2	Ravn virus
+            XN0AC	Flavivirus
+                XN4CA	Dengue virus
+                    XN22Z	Dengue virus 1
+                    XN4RL	Dengue virus 2
+                    XN9XQ	Dengue virus 3
+                    XN2EQ	Dengue virus 4
+                XN9ZK	Japanese encephalitis virus
+                XN5QW	Saint Louis encephalitis virus
+                XN0L1	Tick-borne encephalitis virus
+                    XN1MT	Tick-borne encephalitis virus-European subtype
+                    XN8WB	Tick-borne encephalitis virus-Far Eastern subtype
+                    XN4LG	Tick-borne encephalitis virus-Siberian subtype
+                XN4E1	West Nile virus
+                XN9S3	Yellow fever virus
+                XN1H2	Zika virus
+                XN7C2	Rocio virus
+                XN7W2	Alkhurma hemorrhagic fever virus
+                XN2JR	Kyasanur Forest disease virus
+            XN41M	Hepatitis virus
+                XN5XD	GB virus C
+                XN40D	Hepatitis A virus
+                XN0GA	Hepatitis B virus
+                XN1EZ	Hepatitis C virus
+                XN99N	Hepatitis D virus
+                XN7TG	Hepatitis E virus
+                XN6BW	Hepatitis F virus
+            XN7V1	Human herpesvirus
+                XN6DH	Ictalurvirus
+                XN9QL	Pityriasis Rosea virus
+                XN465	Alphaherpesvirinae
+                    XN42C	Mardivirus
+                    XN41T	Herpes simplex virus-1
+                    XN5V1	Herpes simplex virus-2
+                    XN0TA	Varicella zoster virus
+                    XN4P4	Iltovirus
+                XN8TA	Betaherpesvirinae
+                    XN3SQ	Cytomegalovirus
+                    XN5FN	Muromegalovirus
+                    XN1GF	Roseolavirus
+                        XN9NM	Roseolavirus A
+                        XN8AM	Roseolavirus B
+                XN2VN	Gammaherpesvirinae
+                    XN0R2	Epstein-Barr virus
+                    XN7NE	Rhadinovirus
+            XN487	Human immunodeficiency virus
+                XN8LD	Human immunodeficiency virus type 1
+                XN71W	Human immunodeficiency virus type 2
+            XN8JY	Human papillomavirus
+                XN2KP	Human papillomavirus 45
+                XN6LA	Human papillomavirus 1
+                XN2FC	Human papillomavirus 2
+                XN7DE	Human papillomavirus 6
+                XN7T9	Human papillomavirus 11
+                XN2NK	Human papillomavirus 16
+                XN97Y	Human papillomavirus 18
+                XN3HA	Human papillomavirus 31
+            XN1WJ	Human T-cell lymphotropic virus
+            XN5SG	Influenza virus
+                XN8WJ	Influenza A virus
+                    XN297	Influenza A H1N1 virus
+                    XN4TT	Influenza A H5N1 virus
+                    XN7JR	Influenza A H5N6 virus
+                    XN35G	Influenza A H7N9 virus
+                    XN2J2	Influenza A H1 virus
+                    XN9Z9	Influenza A H1N1v virus
+                    XN3VG	Influenza A H1N2v virus
+                    XN9SG	Influenza A H1N1 pdm2009 virus
+                    XN3UJ	Influenza A H1pdm09N2 2:6 reassortant influenza virus
+                    XN02Z	Swine influenza A H1N1 virus
+                    XN16M	Influenza A H1N2 variant
+                    XN79W	Influenza A H2N2 virus
+                    XN8WA	Influenza A H3 virus
+                    XN6WE	Influenza A H3N2 virus
+                    XN476	Swine influenza A H3N2 virus
+                    XN3UU	Influenza A H3N2 Panama/2007/99 virus
+                    XN9HE	Influenza A H3N2 Moscow/10/99 virus
+                    XN9FE	Influenza A H3N2v virus
+                    XN81W	Equine influenza A H3N8 virus
+                    XN6MR	Influenza A H5 virus
+                    XN5DQ	Influenza A H5N2 virus
+                    XN6MY	Influenza A H5N8 virus
+                    XN0AS	Influenza A H6N1 virus
+                    XN9GE	Influenza A H7N2 virus
+                    XN2SA	Influenza A H7N2 variant
+                    XN8Q3	Influenza A H7N3 virus
+                    XN5WA	Influenza A H7N4 virus
+                    XN8YT	Influenza A H7N7 virus
+                    XN71C	Influenza A H9 virus
+                    XN412	Influenza A H9N2 virus
+                    XN5SY	Influenza A H10N3 virus
+                    XN66Y	Influenza A H10N7 virus
+                    XN0MW	Influenza A H10N8 virus
+                XN8SG	Influenza B virus
+                XN8U3	Influenza C virus
+                XN67Q	Influenza D virus
+            XN33B	Lyssavirus
+                XN796	Rabies virus
+            XN8R7	Orthopolyomavirus
+                XN7UP	John Cunningham virus
+            XN82V	Paramyxovirus
+                XN98T	Henipavirus
+                    XN5PM	Cedar Virus
+                    XN53N	Hendra virus
+                    XN931	Nipah virus
+                XN513	Human metapneumovirus
+                XN186	Measles virus
+                XN22H	Mumps virus
+                XN6CR	Parainfluenza virus
+                XN4QJ	Rubulavirus
+            XN7X8	Parvovirus
+                XN8PS	Erythrovirus
+                XN447	Bocaparvovirus
+            XN8W9	Pneumovirus
+                XN275	Human respiratory syncytial virus
+            XN9WH	Polyomavirus
+                XN0TQ	BK polyoma virus
+            XN7UC	Poxvirus
+                XN32K	Orthopoxvirus
+                    XN3Y3	Buffalopox virus
+                    XN0AU	Cowpox virus
+                    XN2GM	Monkeypox virus
+                        XN4L3	Monkeypox virus Clade I
+                        XN1BH	Monkeypox virus Clade II
+                            XN00B	Monkeypox virus Clade IIa
+                            XN7VR	Monkeypox virus Clade IIb
+                    XN4Q0	Variola virus
+                    XN06N	Vaccinia virus
+                XN1M0	Parapox virus
+                    XN7JF	bovine papular stomatitis virus
+                    XN8E5	Orf virus
+                    XN8JR	pseudocowpox virus
+                XN0CV	Yatapox virus
+                    XN0K5	tanapox virus
+                    XN81C	yaba monkey tumour virus
+                XN5G8	Molluscipoxvirus
+                    XN7YE	Molluscum contagiosum virus
+            XN22T	Reovirus
+            XN6FR	Retrovirus
+                XN2R0	Alpharetrovirus
+                XN0TH	Betaretrovirus
+                XN787	Deltaretrovirus
+                XN6HX	Epsilonretrovirus
+                XN4K8	Gammaretrovirus
+                XN5R7	Lentivirus
+                XN6JB	Oncovirus
+            XN6N7	Rotavirus
+                XN6TN	Rotavirus A
+                XN55H	Rotavirus B
+                XN0F5	Rotavirus C
+                XN29P	Rotavirus D
+                XN71N	Rotavirus E
+            XN2F7	Rubivirus
+                XN2WE	Rubella virus
+            XN7R4	Astrovirus
+            XN6T9	Vesiculovirus
+                XN2BR	Chandipura virus
+                XN9XS	Vesicular stomatitis virus
+        XN8AY	Fungi
+            XN0WC	Aspergillus
+                XN6Q9	Aspergillus clavatus
+                XN6B8	Aspergillus flavus
+                XN5Z7	Aspergillus fumigatus
+                XN25K	Aspergillus terreus
+                XN7Q2	Aspergillus niger
+            XN4XX	Basidiobolus
+                XN4RM	Basidiobolus ranarum
+            XN08A	Blastomyces
+                XN14F	Blastomyces dermatitidis
+            XN3CL	Candida
+                XN31P	Candida albicans
+                XN72N	Candida auris
+                XN0RY	Candida haemulonii
+            XN066	Chromomycosis
+            XN106	Chrysosporium
+                XN8W1	Chrysosporium parvum
+            XN7Q9	Coccidioides
+                XN53F	Coccidioides immitis
+                XN5TT	Coccidioides posadasii
+            XN62A	Conidiobolus
+                XN3KM	Conidiobolus coronatus
+                XN4AQ	Conidiobolus incongruus
+            XN69C	Cryptococcus
+                XN0LE	Cryptococcus gattii
+                XN3EH	Cryptococcus neoformans
+            XN7WW	Dermatophyte fungi
+                XN655	Anthropophilic dermatophytes
+                    XN2T0	Epidermophyton floccosum
+                    XN3YF	Microsporum audouinii
+                    XN2R2	Microsporum ferrugineum
+                    XN8M6	Trichophyton concentricum
+                    XN628	Trichophyton gourvilii
+                    XN8BW	Trichophyton interdigitale
+                    XN96H	Trichophyton megninii
+                    XN2JF	Trichophyton rubrum
+                    XN53A	Trichophyton schoenleinii
+                    XN135	Trichophyton soudanense
+                    XN1K6	Trichophyton tonsurans
+                    XN31R	Trichophyton violaceum
+                    XN8BF	Trichophyton yaoundei
+                XN2SY	Zoophilic dermatophytes
+                    XN5ER	Microsporum canis
+                    XN6NM	Microsporum equinum
+                    XN5GR	Microsporum gallinae
+                    XN3WX	Microsporum nanum
+                    XN7JK	Microsporum persicolor
+                    XN3YG	Trichophyton equinum
+                    XN4DQ	Trichophyton mentagrophytes
+                    XN4H4	Trichophyton simii
+                    XN69S	Trichophyton verrucosum
+                XN1Z2	Geophilic dermatophytes
+                    XN2VZ	Microsporum gypseum
+                    XN7TP	Microsporum praecox
+            XN3AG	Geotrichum
+                XN0ES	Geotrichum candidum
+            XN9LU	Histoplasma
+                XN8VH	Histoplasma capsulatum
+                XN7YN	Histoplasma duboisii
+            XN119	Hortaea
+                XN0EF	Hortaea werneckii
+            XN3CM	Lacazia
+                XN3NU	Lacazia loboi
+            XN9ZX	Loboa
+            XN43L	Malassezia
+                XN25C	Malassezia furfur
+                XN0TE	Malassezia globosa fungus
+            XN9ZV	Microsporidia
+            XN1NU	Mucor
+                XN6QM	Rhizopus
+                    XN9KP	Rhizopus arrhizus
+            XN7RH	Paracoccidioides
+                XN5UX	Paracoccidioides brasiliensis
+            XN79A	Talaromyces
+                XN1ZF	Penicillium
+                    XN7JJ	Penicillium notatum
+                XN0LD	Talaromyces marneffei
+            XN4YW	Piedraia
+                XN6H7	Piedraia hortae
+            XN5XK	Pneumocystidomycetes
+            XN3NS	Pseudallescheria
+                XN6BV	Pseudallescheria boydii
+            XN720	Rhinosporidium
+                XN18W	Rhinosporidium seeberi
+            XN200	Sporothrix
+                XN6GM	Sporothrix schenckii
+            XN766	Trichosporon
+            XN0X5	Fusarium
+                XN55Z	Fusarium sporotrichioides
+                XN7KH	Fusarium incaratum-equiseti
+                XN1FQ	Fusarium chlamydosporum
+                XN5KR	Fusarium dimerum
+                XN6XG	Fusarium fujikuroi
+                XN3HT	Fusarium oxysporum
+                XN0E6	Fusarium solani
+            XN16V	Alternaria alternata
+            XN8XY	Cladosporium herbarum
+            XN7TH	Epicoccum purpurascens
+            XN79P	Mucor racemosus
+            XN6EG	Phoma
+            XN4FM	Stemphylium botryosum
+            XN93N	Curvularia lunata
+            XN0W9	Exserohilum
+                XN26M	Exserohilum rostratum
+                XN9SM	Exserohilum longirostratum
+                XN9LC	Exserohilum mcginnisii
+            XN4XH	Sarocladium
+                XN8VN	Sarocladium kiliense
+                XN7ZD	Sarocladium strictum
+        XN9S1	Parasites
+            	Helminths
+                XN9CG	Ancylostoma
+                    XN5V8	Ancylostoma duodenal
+                XN7A5	Angiostrongylus
+                    XN2UG	Angiostrongylus cantonensis
+                    XN23C	Angiostrongylus costaricensis
+                XN574	Anisakis
+                    XN9HA	Anisakis marina
+                XN9PQ	Ascaris
+                    XN97M	Ascaris lumbricoides
+                XN0JL	Brugia
+                    XN5RM	Brugia malayi
+                    XN80F	Brugia timori
+                XN8T0	Capillaria
+                    XN9DT	Capillaria philippinensis
+                XN9GC	Clonorchis
+                    XN5SV	Clonorchis sinensis
+                XN3QD	Dicrocoelium
+                XN6EF	Diphyllobothrium
+                    XN67S	Diphyllobothrium latum
+                    XN7UT	Diphyllobothrium species
+                XN570	Dipylidium
+                    XN20Y	Dipylidium caninum
+                XN15W	Dirofilaria
+                    XN3BX	Dirofilaria immitis
+                    XN7JS	Dirofilaria repens
+                XN7A6	Dracunculus
+                    XN9Q5	Dracunculus medinensis
+                XN84K	Echinococcus
+                    XN1H0	Echinococcus granulosus
+                    XN0K1	Echinococcus multilocularis
+                    XN6TQ	Echinococcus oligarthrus
+                    XN9LQ	Echinococcus vogeli
+                XN801	Echinostoma
+                XN1DG	Enterobius
+                    XN4AR	Enterobius vermicularis
+                XN1H3	Fasciola
+                    XN90A	Fasciola gigantica
+                    XN7X9	Fasciola hepatica
+                XN35Y	Fasciolopsis
+                    XN024	Fasciolopsis buski
+                XN0H2	Gnathostoma
+                    XN8DD	Gnathostoma hispidum
+                    XN8GS	Gnathostoma spinigerum
+                XN23M	Heterophyes
+                XN69Y	Hookworm
+                XN629	Hymenolepis
+                    XN9S5	Hymenolepis nana
+                XN8ZQ	Loa
+                    XN1QQ	Loa loa
+                XN5Z0	Mansonella
+                    XN6PZ	Mansonella ozzardi
+                    XN8AX	Mansonella perstans
+                    XN0JQ	Mansonella streptocerca
+                XN123	Metagonimus
+                XN3E8	Nanophyetus
+                XN9T3	Necator
+                    XN8K8	Necator americanus
+                XN7L5	Oesophagostomum
+                    XN0NZ	Oesophagostomum bifurcum
+                XN9R1	Onchocerca
+                    XN8T4	Onchocerca volvulus
+                XN91W	Opisthorchis
+                XN27A	Paragonimus
+                    XN0A6	Paragonimus westermani
+                XN9NR	Phylum Nemata
+                XN78L	Schistosoma
+                    XN86N	Schistosoma haematobium
+                        XN90N	Schistosoma matthei
+                    XN9FK	Schistosoma intercalatum
+                    XN1ZJ	Schistosoma japonicum
+                    XN8HD	Schistosoma mansoni
+                    XN9T7	Schistosoma mekongi
+                XN5B9	Sparganum
+                XN89M	Spirometra
+                XN07X	Strongyloides
+                    XN1KQ	Strongyloides stercoralis
+                XN5RB	Syngamus
+                    XN04L	Syngamus trachea
+                XN0D8	Taenia
+                    XN871	Taenia saginata
+                    XN8XE	Taenia solium
+                XN8DL	Ternidens
+                XN2L3	Toxocara
+                    XN7MR	Toxocara canis
+                    XN54C	Toxocara cati
+                XN597	Trichinella
+                    XN34A	Trichinella spiralis
+                XN025	Trichostrongylus
+                    XN4K7	Trichostrongylus colubriformis
+                XN4MM	Trichuris
+                    XN6UA	Trichuris trichiura
+                XN0H3	Wuchereria
+                    XN3V2	Wuchereria bancrofti
+                XN2DD	Halicephalobus
+                    XN10L	Halicephalobus gingivalis
+            	Protozoa
+                XN0HM	Acanthamoeba
+                XN7S2	Amoeba
+                XN9YX	Babesia
+                XN7ZS	Balantidium
+                    XN3H4	Balantidium coli
+                XN6UY	Blastocystis
+                    XN1M7	Blastocystis hominis
+                XN1XA	Coccidia
+                XN8LE	Cryptosporidium
+                    XN0NC	Cryptosporidium canis
+                    XN5SZ	Cryptosporidium felis
+                    XN4ZT	Cryptosporidium hominis
+                    XN4VU	Cryptosporidium meleagridis
+                    XN4MN	Cryptosporidium muris
+                    XN9BP	Cryptosporidium parvum
+                XN7VL	Cyclospora
+                    XN4BR	Cyclospora cayetanensis
+                XN3S1	Entamoeba
+                    XN82F	Entamoeba histolytica
+                XN6H5	Giardia
+                    XN94Z	Giardia lamblia
+                XN4Y2	Isospora
+                    XN9ZT	Isospora belli
+                XN8JE	Leishmania
+                    XN87Z	Leishmania aethiopica
+                    XN6DJ	Leishmania brasiliensis
+                    XN1M5	Leishmania donovani infantum
+                        XN3HN	Leishmania chagasii
+                    XN7EU	Leishmania major
+                    XN1EE	Leishmania mexicana
+                    XN95N	Leishmania tropica
+                XN1M1	Naegleria
+                    XN6EV	Naegleria fowleri
+                XN5FW	Plasmodium
+                    XN69B	Plasmodium falciparum
+                    XN7K1	Plasmodium malariae
+                    XN5WD	Plasmodium ovale
+                    XN217	Plasmodium vivax
+                    XN93K	Plasmodium knowlesi
+                    XN12A	Plasmodium cynomolgi
+                XN92F	Sarcocystis
+                XN7HC	Toxoplasma
+                    XN896	Toxoplasma gondii
+                XN316	Trichomonas
+                    XN7YM	Trichomonas vaginalis
+                XN9H4	Trypanosoma
+                    XN0C1	Trypanosoma brucei
+                        XN7TC	Trypanosoma brucei gambiense
+                        XN5C7	Trypanosoma brucei rhodesiense
+                    XN56V	Trypanosoma cruzi
+                XN7XH	Dientamoeba
+                    XN86U	Dientamoeba fragilis
+                XN30L	Retortamonas
+                    XN9K3	Retortamonas intestinalis
+                XN4BE	Chilomastix
+                    XN0UD	Chilomastix mesnili
+            	Lice and Mites
+                XN4RB	Demodex
+                XN9EL	Dermanyssus
+                XN59U	Vandellia cirrhosa
+                XN857	Infestation by beetle
+                XN00Z	Insect larva
+                XN2K0	Leech
+                XN9MA	Linguatula serrata
+                XN0ZB	Liponyssoides
+                XN0D5	Pediculus
+                XN84U	Phthirus
+                XN3E3	Sarcoptes
+                    XN5YU	Sarcoptes scabiei var. hominis
+                XN7Z8	Trombicula
+                XN6VS	Tunga
+                XN2GY	Porocephalidae
+            XN8CT	Screwworm
+                XN4JW	New World screwworm
+                XN8TR	Old World screwworm
+        	Other Pathogens
+            XN7AM	Prion
+            XN42T	Prototheca
+            XN47C	Pythium

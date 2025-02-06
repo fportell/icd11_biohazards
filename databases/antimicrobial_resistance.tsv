@@ -1,0 +1,123 @@
+	Finding of microorganism resistant to antimicrobial drugs
+    MG50	Finding of gram negative bacteria resistant to antimicrobial drugs
+        MG50.0	Antibiotic resistant Acinetobacter baumannii
+            MG50.00	Tetracycline resistant Acinetobacter baumannii
+            MG50.01	Aminoglycoside resistant Acinetobacter baumannii
+            MG50.02	Carbapenem resistant Acinetobacter baumannii
+            MG50.03	Polymyxin resistant Acinetobacter baumannii
+            MG50.0Y	Acinetobacter resistant to other antibiotic
+            MG50.0Z	Acinetobacter resistant to unspecified antibiotic
+        MG50.1	Antibiotic resistant Campylobacter
+            MG50.10	Fluoroquinolone resistant Campylobacter
+            MG50.1Y	Other specified antibiotic resistant Campylobacter
+            MG50.1Z	Campylobacter resistant to unspecified antibiotic
+        MG50.2	Antibiotic resistant Escherichia coli
+            MG50.20	Sulfonamide or trimethoprim resistant Escherichia coli
+            MG50.21	Fluoroquinolone resistant Escherichia coli
+            MG50.22	Third generation cephalosporin resistant Escherichia coli
+            MG50.23	Fourth-generation cephalosporins resistant Escherichia coli
+            MG50.24	Carbapenem resistant Escherichia coli
+            MG50.25	Polymyxin resistant Escherichia coli
+            MG50.26	Penicillin resistant Escherichia coli
+            MG50.27	Extended spectrum beta-lactamase producing Escherichia coli
+            MG50.2Y	Escherichia coli resistant to other antibiotic
+            MG50.2Z	Escherichia coli resistant to unspecified antibiotic
+        MG50.3	Antibiotic resistant Haemophilus influenzae
+            MG50.30	Ampicillin resistant Haemophilus influenzae
+            MG50.3Y	Other specified antibiotic resistant Haemophilus influenzae
+            MG50.3Z	Antibiotic resistant Haemophilus influenzae, unspecified
+        MG50.4	Antibiotic resistant Helicobacter pylori
+            MG50.40	Clarithromycin resistant Helicobacter pylori
+            MG50.4Y	Other specified antibiotic resistant Helicobacter pylori
+            MG50.4Z	Antibiotic resistant Helicobacter pylori, unspecified
+        MG50.5	Antibiotic resistant Klebsiella pneumoniae
+            MG50.50	Sulfonamide or trimethoprim resistant Klebsiella pneumoniae
+            MG50.51	Fluoroquinolone resistant Klebsiella pneumoniae
+            MG50.52	Third-generation cephalosporin resistant Klebsiella pneumoniae
+            MG50.53	Fourth-generation cephalosporin resistant Klebsiella pneumoniae
+            MG50.54	Carbapenem resistant Klebsiella pneumoniae
+            MG50.55	Polymyxin resistant Klebsiella pneumoniae
+            MG50.56	Extended-spectrum beta-lactamase producing Klebsiella pneumoniae
+            MG50.5Y	Klebsiella pneumoniae resistant to other antibiotic
+            MG50.5Z	Klebsiella pneumoniae resistant to unspecified antibiotic
+        MG50.6	Antibiotic resistant Neisseria gonorrhoeae
+            MG50.60	Third generation cephalosporin resistant Neisseria gonorrhoeae
+            MG50.61	Macrolide resistant Neisseria gonorrhoeae
+            MG50.62	Aminocyclitol resistant Neisseria gonorrhoeae
+            MG50.63	Fluoroquinolone resistant Neisseria gonorrhoeae
+            MG50.64	Aminoglycoside resistant Neisseria gonorrhoeae
+            MG50.6Y	Neisseria gonorrhoeae resistant to other antibiotic
+            MG50.6Z	Neisseria gonorrhoeae resistant to unspecified antibiotic
+        MG50.7	Antibiotic resistant Neisseria meningitidis
+            MG50.70	Penicillin resistant Neisseria meningitidis
+            MG50.7Y	Other specified antibiotic resistant Neisseria meningitidis
+            MG50.7Z	Antibiotic resistant Neisseria meningitidis, unspecified
+        MG50.8	Antibiotic resistant Pseudomonas aeruginosa
+            MG50.80	Carbapenem-resistant Pseudomonas aeruginosa
+            MG50.81	Polymyxin-resistant Pseudomonas aeruginosa
+            MG50.8Y	Pseudomonas aeruginosa resistant to other antibiotic
+            MG50.8Z	Pseudomonas aeruginosa resistant to unspecified antibiotic
+        MG50.9	Antibiotic resistant Salmonella
+            MG50.90	Fluoroquinolone resistant Salmonella
+            MG50.91	Third generation cephalosporin resistant Salmonella
+            MG50.92	Carbapenem resistant Salmonella
+            MG50.9Y	Salmonella resistant to other antibiotic
+            MG50.9Z	Salmonella resistant to unspecified antibiotic
+        MG50.A	Antibiotic resistant Shigella
+            MG50.A0	Carbapenem resistant Shigella
+            MG50.A1	Fluoroquinolone resistant Shigella
+            MG50.A2	Third-generation cephalosporins resistant Shigella
+            MG50.A3	Macrolides resistant Shigella
+            MG50.AY	Shigella resistant to other antibiotic
+            MG50.AZ	Shigella resistant to unspecified antibiotic
+        MG50.B	Antibiotic resistant Vibrio
+            MG50.B0	Fluoroquinolone resistant Vibrio
+            MG50.BY	Vibrio resistant to other antibiotic
+            MG50.BZ	Vibrio resistant to unspecified antibiotic
+        MG50.C	Other antibiotic resistant Enterobacterales
+            MG50.C0	Other carbapenem resistant Enterobacterales
+            MG50.C1	Other third-generation cephalosporin resistant Enterobacterales
+            MG50.CY	Other specified other antibiotic resistant Enterobacterales
+            MG50.CZ	Other antibiotic resistant Enterobacterales, unspecified
+        MG50.Y	Other specified finding of gram negative bacteria resistant to antimicrobial drugs
+        MG50.Z	Finding of gram negative bacteria resistant to antimicrobial drugs, unspecified
+    MG51	Finding of gram positive bacteria resistant to antimicrobial drugs
+        MG51.0	Antibiotic resistant Staphylococcus aureus
+            MG51.00	Methicillin resistant Staphylococcus aureus
+            MG51.01	Vancomycin resistant Staphylococcus aureus
+            MG51.02	Penicillinase-stable beta lactams resistant Staphylococcus aureus
+            MG51.0Y	Other specified antibiotic resistant Staphylococcus aureus
+            MG51.0Z	Antibiotic resistant Staphylococcus aureus, unspecified
+        MG51.1	Antibiotic resistant Streptococcus pneumoniae
+            MG51.10	Penicillin resistant Streptococcus pneumoniae
+            MG51.11	Sulfonamide and trimethoprim resistant Streptococcus pneumoniae
+            MG51.12	Third-generation cephalosporins resistant Streptococcus pneumoniae
+            MG51.1Y	Streptococcus pneumoniae resistant to other antibiotic
+            MG51.1Z	Streptococcus pneumoniae resistant to unspecified antibiotic
+        MG51.2	Antibiotic resistant Enterococcus
+            MG51.20	Vancomycin resistant Enterococcus
+            MG51.2Y	Enterococcus resistant to other antibiotic
+            MG51.2Z	Enteroccus resistant to unspecified antibiotic
+        MG51.Y	Other specified finding of gram positive bacteria resistant to antimicrobial drugs
+        MG51.Z	Finding of gram positive bacteria resistant to antimicrobial drugs, unspecified
+    MG52	Finding of bacteria, neither gram negative nor positive, resistant to antimicrobial drugs
+        MG52.0	Antibiotic resistant Mycobacterium
+            MG52.00	Multi-drug resistant Mycobacterium tuberculosis
+            MG52.01	Antibiotic resistant non-tuberculous Mycobacterium
+            MG52.02	Extensively drug-resistant mycobacterium tuberculosis
+            MG52.0Y	Other specified antibiotic resistant Mycobacterium
+            MG52.0Z	Antibiotic resistant Mycobacterium, unspecified
+        MG52.Y	Other specified finding of bacteria, neither gram negative nor positive, resistant to antimicrobial drugs
+        MG52.Z	Finding of bacteria, neither gram negative nor positive, resistant to antimicrobial drugs, unspecified
+    MG53	Finding of virus resistant to antimicrobial drugs
+        MG53.0	Antiretroviral therapy resistant Human immunodeficiency virus
+        MG53.Y	Other specified finding of virus resistant to antimicrobial drugs
+        MG53.Z	Finding of virus resistant to antimicrobial drugs, unspecified
+    MG54	Finding of fungus resistant to antimicrobial drugs
+    MG55	Finding of parasite resistant to antimicrobial drugs
+        MG55.0	Artemisinin resistant Plasmodium falciparum
+        MG55.Y	Other specified finding of parasite resistant to antimicrobial drugs
+        MG55.Z	Finding of parasite resistant to antimicrobial drugs, unspecified
+    MG56	Finding of microorganism resistant to other multiple antimicrobial drugs
+    MG5Y	Finding of other microorganism resistant to antimicrobial drugs
+    MG5Z	Finding of microorganism resistant to antimicrobial drugs, unspecified

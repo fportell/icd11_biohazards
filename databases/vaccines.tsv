@@ -1,0 +1,223 @@
+	Vaccines
+    XM3KV2	Bacterial vaccines
+        XM29K4	Cholera vaccines
+            XM3Z26	Cholera, inactivated, whole cell vaccines
+            XM72A0	Cholera, live attenuated vaccines
+            XM1FT6	Cholera, combinations with typhoid vaccine, inactivated, whole cell vaccines
+        XM11V3	Haemophilus influenzae B vaccines
+            XM6RG9	Hib, purified antigen conjugated vaccines
+            XM7F70	Hib, combinations with toxoids vaccines
+            XM81F7	Hib, combinations with pertussis and toxoids vaccines
+            XM0X86	Hib, combinations with meningococcus C, conjugated vaccines
+        XM2WV4	Meningococcal vaccines
+            XM92B2	Meningococcal monovalent purified polysaccharides antigen vaccines
+            XM5LC2	Meningococcal polyvalent purified polysaccharides antigen vaccines
+                XM3T39	Meningococcus A, C, bivalent purified polysaccharides antigen vaccines
+                XM2AR0	Meningococcus A, C, Y, W-135, tetravalent purified polysaccharides antigen vaccines
+                XM2EH7	Meningococcus A, C, Y, W-135, tetravalent purified polysaccharides antigen conjugated vaccines
+            XM18Y8	Meningococcus C, purified polysaccharides antigen conjugated vaccines
+            XM2280	Meningococcus A, purified polysaccharides antigen conjugated vaccines
+            XM9GJ1	Meningococcus B, outer membrane vesicle vaccines
+            XM1X81	Meningococcus B, multicomponent vaccines
+            XM37L5	Meningococcus A, purified polysaccharides antigen vaccines
+        XM43M9	Pertussis vaccines
+            XM45L8	Pertussis, inactivated, whole cell vaccines
+            XM62J1	Pertussis, purified antigen vaccines
+            XM2TK2	Pertussis, inactivated, whole cell, combinations with toxoids vaccines
+            XM4082	Pertussis, purified antigen, combinations with toxoids vaccines
+            XM2CV8	Vaccines pertussis with diphtheria
+        XM9EM7	Pneumococcal vaccines
+            XM9G97	Pneumococcal conjugate (13-valent) vaccines
+            XM2249	Pneumococcal polysaccharide 23-valent vaccines
+            XM91D7	Pneumococcus, purified polysaccharides antigen vaccines
+            XM96S7	Pneumococcus, purified polysaccharides antigen conjugated vaccines
+            XM4R39	Pneumococcus purified polysaccharides antigen and Haemophilus influenzae, conjugated vaccines
+        XM5L44	Tetanus vaccines
+            XM29H5	Tetanus toxoid vaccines
+            XM1G86	Tetanus toxoid, combinations with diphtheria toxoid vaccines
+            XM9AK2	Tetanus toxoid, combinations with tetanus immunoglobulin vaccines
+            XM31Q8	Tetanus, diphtheria, acellular pertussis vaccines
+                XM1PB8	Triple vaccines DPT
+                XM9ZL9	Pertussis vaccines (with diphtheria toxoid) (with tetanus toxoid)
+                XM9YH9	Diphtheria toxoid with tetanus toxoid with pertussis component vaccines
+            XM32Q5	Tetanus and diphtheria vaccines
+                XM4039	Vaccines diphtheria with tetanus
+                XM8XH5	Tetanus toxoid or vaccines toxoid with diphtheria toxoid
+        XM8BU8	Typhoid vaccines
+            XM33K4	Typhoid, oral, live attenuated vaccines
+            XM89G3	Typhoid, inactivated, whole cell vaccines
+            XM3SF6	Typhoid, purified polysaccharide antigen vaccines
+            XM9UB1	Typhoid-paratyphoid vaccines
+                XM3VD2	Vaccines TAB
+                XM95H3	Paratyphoid vaccines
+        XM8ZX8	Plague vaccines
+            XM3796	Plague, inactivated, whole cell vaccines
+        XM9SW5	Vaccines bacterial with other bacterial component
+        XM91J8	Vaccines rickettsial
+            XM3JJ2	Typhus (exanthematicus) vaccines
+                XM2NU8	Typhus exanthematicus, inactivated, whole cell vaccines
+            XM4F19	Vaccines rickettsial with bacterial component
+            XM0E84	Rocky Mountain spotted fever vaccines
+        XM5926	Vaccines bacterial mixed, not elsewhere classified
+        XM8NU9	Anthrax vaccines
+            XM2C05	Anthrax antigen vaccines
+        XM7PB3	Brucellosis vaccines
+            XM7RX8	Brucella antigen vaccines
+        XM8AW3	Diphtheria vaccines
+            XM86V7	Diphtheria toxoid vaccines
+            XM46V1	Diphtheria vaccines combination including pertussis
+            XM39K8	Diphtheria vaccines combination without pertussis
+            XM8YP9	Diphtheria vaccines combination
+        XM4639	Tuberculosis vaccines
+            XM8142	Tuberculosis, live attenuated vaccines
+    XM61M7	Viral vaccines
+        XM68M6	COVID-19 vaccines
+            XM1NL1	COVID-19 vaccines, inactivated virus
+                XM7HT3	CoronaVac®
+                XM8866	Covilo
+                XM9TQ1	KCONVAC
+                XM1G90	Covaxin
+                XM85P5	Covi-Vac
+                XM9FQ7	Hayat-Vax
+                XM97N6	QazVac
+                XM2YG8	COVIran Barekat
+                XM0K39	Covidful
+                XM0J98	FAKHRAVAC (MIVAC)
+                XM1FB4	Inactivated SARS-CoV-2 vaccine
+                XM86F7	Turkovac
+                XM42N8	VLA2001
+            XM5DF6	COVID-19 vaccines, live attenuated virus
+            XM9QW8	COVID-19 vaccines, non-replicating viral vector
+                XM4YL8	COVID-19 Vaccine AstraZeneca - Vaxzevria
+                XM97T2	Covishield®
+                XM6QV1	COVID-19 Vaccine Janssen
+                XM1AG7	Convidecia
+                XM5QM6	Sputnik-Light
+                XM4T09	Convidecia Air
+                XM2LP0	Convidecia Air XBB1.5.
+                XM6Z24	Gam-COVID-Vac (intranasal)
+                XM4PM4	Gam-COVID-Vac-M
+                XM5309	iNCOVACC
+                XM4N49	Jcovden
+                XM37C0	Sputnik-V
+            XM0CX4	COVID-19 vaccines, replicating viral vector
+                XM5BL0	DelNS1-2019-nCoV-RBD-OPT1
+            XM5JC5	COVID-19 vaccines, virus protein subunit
+                XM3CT4	Zifivax
+                XM8T18	Abdala
+                XM3PG0	Soberana-02
+                XM4EC8	MVC COVID-19
+                XM6SZ8	EpiVacCorona
+                XM0RV9	Soberana Plus
+                XM3SK8	Aurora-CoV
+                XM9P21	SpikoGen
+                XM9T65	NUVAXOVID
+                XM9N08	Razi COV PARS
+                XM6790	Bimervax
+                XM8R60	Bivalent Omicron
+                XM63N7	Corbevax
+                XM2NP9	Coviccine
+                XM0E93	Coviccine Trivalent (XBB.1.5+BA.5+Delta)
+                XM85Q5	Covovax
+                XM85Q8	EuCorVac-19
+                XM7E37	Indovac
+                XM7P85	Noora
+                XM2FM2	NUVAXOVID XBB1.5.
+                XM97Q5	PastoCovac
+                XM8BU1	PastoCovac Plus
+                XM9P29	Recombinant SARS-CoV-2 Vaccine (CHO Cell)
+                XM5YS2	SARS-COV-2 Bivalent
+                XM8ME2	SCB-2019
+                XM71X6	SCTV01C
+                XM62V8	SKYCovione
+                XM8267	Tetravalent SCTV01E
+                XM6WB0	V-01
+                XM9ZB6	Vidprevtyn Beta
+            XM1J92	COVID-19 vaccines, virus like particle
+                XM0BS6	Covifenz
+            XM6AT1	COVID-19 vaccines, DNA based
+                XM52P3	ZyCov-D
+            XM0GQ8	COVID-19 vaccines, RNA based
+                XM8NQ0	Comirnaty®
+                XM3DT5	COVID-19 Vaccine Moderna - Spikevax
+                XM5E97	AWcorna
+                XM1CQ8	Comirnaty Bivalent Original/Omicron BA.1
+                XM5U85	Comirnaty Bivalent Original/Omicron BA.4/BA.5
+                XM7U45	Comirnaty XBB.1.5.
+                XM6HM3	Daichirona
+                XM15E9	Duentai
+                XM2708	Duentai Bivalent (XBB.1.5+BQ.1)
+                XM3X29	Gemcovac-19
+                XM8FH6	Gemcovac-OM
+                XM6FF0	KOSTAIVE
+                XM0QH5	COVID-19 Vaccine Moderna - Spikevax Bivalent Original/Omicron BA.1
+                XM3984	COVID-19 Vaccine Moderna - Spikevax Bivalent Original/Omicron BA.4/BA.5
+                XM21B8	COVID-19 Vaccine Moderna - Spikevax XBB1.5.
+        XM38G7	Dengue vaccines
+        XM7P50	Ebola vaccines
+        XM0RC1	Encephalitis vaccines
+            XM8MP6	Encephalitis, tick borne, inactivated, whole virus
+            XM0LB5	Encephalitis, Japanese, inactivated, whole virus
+            XM47S0	Encephalitis, Japanese, live attenuated
+        XM1LR5	Influenza vaccines
+            XM8857	Influenza vaccines, inactivated, whole virus
+            XM5V64	Influenza vaccines, live attenuated
+            XM8MP2	Influenza vaccines, inactivated, split virus or surface antigen
+            XM9E16	Influenza vaccines, virus like particle
+            XM33X8	Influenza, purified antigen
+        XM6LL6	Hepatitis vaccines
+            XM9V38	Hepatitis B, purified antigen
+            XM2A12	Hepatitis A, inactivated, whole virus
+            XM03Y7	Combinations hepatitis vaccines
+        XM28X5	Measles vaccines
+            XM8L15	Measles, live attenuated
+            XM9439	Measles, combinations with mumps, live attenuated
+            XM8TF3	Measles, combinations with mumps and rubella, live attenuated
+            XM21H2	Measles, combinations with rubella, live attenuated
+            XM4AJ8	Measles, combinations with mumps, rubella and varicella, live attenuated
+        XM1131	Mumps vaccines
+            XM2340	Mumps, live attenuated
+        XM0N50	Poliomyelitis vaccines
+            XM4KG4	Orimune
+            XM1Y59	Vaccine sabin oral
+            XM2KH7	Diplovax
+            XM0VX8	Poliomyelitis oral, monovalent live attenuated
+            XM0KZ1	Poliomyelitis oral, trivalent, live attenuated
+            XM79H3	Poliomyelitis oral, bivalent, live attenuated
+            XM5V19	Poliomyelitis, trivalent, inactivated, whole virus
+        XM1CE0	Rotavirus diarrhoea vaccines
+            XM4GV0	Rota virus, live attenuated
+            XM4VG1	Rota virus, pentavalent, live, reassorted
+        XM7PP1	Rubella vaccines
+            XM9PS9	Rubella, live attenuated
+            XM3B09	Rubella, combinations with mumps, live attenuated
+        XM8DG3	Varicella zoster vaccines
+            XM0NS8	Varicella, live attenuated
+            XM1SS1	Zoster, live attenuated
+        XM9QP0	Papillomavirus vaccines
+            XM1821	Papillomavirus (human types 6,11,16,18)
+            XM9BT4	Papillomavirus (human types 16,18)
+            XM5CE9	Papillomavirus (human types 6,11,16,18,31,33,45,52,58)
+        XM95R0	Smallpox vaccine
+        XM6T09	Rabies vaccines
+            XM7BE8	Rabies, inactivated, whole virus
+        XM02Y0	Respiratory syncytial virus vaccines
+            XM69P6	Synagis
+        XM0N24	Yellow fever vaccines
+            XM3418	Yellow fever, live attenuated
+    XM7C66	Bacterial and viral vaccines, combined
+        XM8AW1	Diphtheria, poliomyelitis, tetanus vaccines
+        XM09Q7	Diphtheria, pertussis, poliomyelitis, tetanus vaccines
+        XM9744	Diphtheria, rubella, tetanus vaccines
+        XM41N3	Diphtheria, hepatitis B, pertussis, tetanus vaccines
+        XM1LX9	Diphtheria, hemophilus influenzae B, pertussis, poliomyelitis, tetanus vaccines
+        XM3G68	Diphtheria, hepatitis B, tetanus vaccines
+        XM32L7	Hemophilus influenzae B and hepatitis B vaccines
+        XM3JA6	Typhoid, hepatitis A vaccines
+        XM7JP3	Diphtheria, hemophilus influenzae B, pertussis, tetanus, hepatitis B vaccines
+        XM0LT9	Diphtheria, pertussis, poliomyelitis, tetanus, hepatitis B vaccines
+        XM5XP9	Diphtheria, hemophilus influenzae B, pertussis, tetanus-hepatitis B, meningococcus A + C vaccines
+        XM21E6	Diphtheria tetanus, acellular pertussis, inactivated polio virus, haemophilus Influenzae type B vaccines
+        XM84S1	Diphtheria, hepatitis B, tetanus, acellular pertussis, inactivated polio virus, haemophilus Influenzae type B vaccines
+        XM9JP8	Diphtheria, tetanus, acellular pertussis, inactivated polio virus vaccines
+        XM01H1	Hemophilus influenzae B and poliomyelitis vaccines

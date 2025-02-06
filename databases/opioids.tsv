@@ -1,0 +1,130 @@
+	Opioids
+    	Opioids or related analgesics and agents affecting opioid receptors
+        XM05B3	Diamorphine
+        XM69R4	Morphine, morphine derivatives and metabolites
+            XM39E2	14-hydroxydihydro-morphinone
+            XM5CY8	Acemorphan
+            XM0E25	Benzomorphan
+            XM8YM7	Benzyl morphine
+            XM0BB1	Blue velvet
+            XM45R8	Desomorphine
+            XM4T95	Dihydromorphine
+            XM3473	Hydromorphinol
+            XM8SD7	Hydromorphone
+            XM78E0	Metopon
+            XM7VL7	Morpholinylethylmorphine
+            XM7W06	Nicomorphine
+            XM9BE3	Normorphine
+            XM64M0	Oxymorphone
+            XM1KZ5	Morphine
+            XM0P98	Benzylmorphine
+            XM7ZJ1	Myrophine
+        XM4ES0	Opium
+            XM2T93	Opium alkaloids (total)
+            XM69X3	Opium alkaloids standardized powdered
+            XM91H1	Opium alkaloids tincture (camphorated)
+            XM1EE2	Laudanum
+            XM1YK2	Papaveretum
+            XM1LB8	Paregoric
+        XM4SL9	Oxycodone
+            XM79K2	Acetyldihydrocodeinone
+            XM7HX3	Eucodal
+        XM9UH3	Nalfurafine
+        XM4587	Codeine, codeine derivatives and other opioids used in cough suppression
+            XM3DS6	Acetyldihydrocodeine
+            XM05R0	Antitussive codeine mixture
+            XM3YP8	Cliradon
+            XM4046	Desocodeine
+            XM06K5	Dihydrocodeine
+            XM77C9	Dihydroisocodeine
+            XM9UN6	Hycodan
+            XM0YG5	Hydroxydihydrocodeinone
+            XM07U7	Percodan
+            XM5NP7	Piminodine
+            XM3WN9	Ethylmorphine
+            XM8E09	Hydrocodone
+            XM6RX7	Noscapine
+            XM4QV7	Pholcodine
+            XM9UV0	Dextromethorphan
+            XM2358	Thebacon
+            XM7V96	Dimemorfan
+            XM5PZ4	Normethadone
+        XM1ZY9	Methadone, methadone derivatives and other drugs used to treat opioid addictive disorders
+            XM7XP1	Methadone
+                XM9RG7	Levo-iso-methadone
+        XM4MV8	Opioid anaesthetics
+            XM4G88	Alfentanil
+            XM1EF3	Sufentanil
+            XM7YQ6	Anileridine
+            XM0YQ0	Remifentanil
+        	Opioid receptor antagonists
+            XM7TT0	Antagonist narcotic analgesic
+            XM0850	Cyclazocine
+            XM65J2	Levallorphan
+            XM4HP3	Morphine antagonist
+            XM14T9	Naloxone
+            XM2M16	Naltrexone
+            XM9BM4	Narcotic antagonist
+            XM5DJ2	Opiate antagonists
+            XM3TK0	Methylnaltrexone bromide
+            XM4GP3	Alvimopan
+            XM93Z3	Naloxegol
+            XM6KY8	Opioid antagonist
+        XM4S22	Other opioid analgesics, natural, synthetic and semi-synthetic
+            XM30T6	Prodine
+            XM9907	Antitussive opiate
+            XM6C31	Cough mixture containing opiates
+            XM8ZF5	Dextrorphan
+            XM1K75	Difencloxazine
+            XM1HE9	Dilaudid
+            XM9SW6	Dipipanone
+            XM81P5	Dromoran
+            XM4EW3	Eptazocine
+            XM6CK0	Ethoheptazine
+            XM35C1	Heptalgin
+            XM5F21	Levo-dromoran
+            XM4P40	Levopropoxyphene
+            XM1R71	Levorphanol
+            XM0GS3	Meperidine
+            XM8PP7	Narcotic synthetic
+            XM8MP5	Nisentil
+            XM7S23	Opioid
+            XM04Z5	Phenadoxone
+            XM2542	Phenazocine
+            XM9B34	Phenomorphan
+            XM72D5	Pipadone
+            XM39L3	Profadol
+            XM9AZ5	Promedol
+            XM3E08	Propoxyphene
+            XM6625	Racemoramide
+            XM8804	Thebaine
+            XM09H6	Tilidine
+            XM7KC0	Tramadol
+            XM5UK3	Viminol
+            XM9Y28	Diphenoxylate
+            XM86N4	Loperamide
+            XM9NL3	Phenylpiperidine derivatives
+                XM9HP7	Ketobemidone
+                XM76M8	Fentanyl
+            XM8286	Diphenylpropylamine derivatives
+                XM3246	Dextromoramide
+                XM55Z5	Piritramide
+                XM8GB8	Dextropropoxyphene
+                XM5GN5	Bezitramide
+            XM1QE0	Benzomorphan derivatives
+                XM9K14	Pentazocine
+            XM09R6	Morphinan derivatives
+                XM1682	Butorphanol
+                XM4P05	Nalbuphine
+            XM9Z94	Buprenorphine
+            XM02X7	Etorphine
+            XM3PK7	Acetorphine
+            XM0K66	Phenoperidine
+            XM40T9	Meptazinol
+            XM0GU8	Drotebanol
+            XM7VK6	Loperamide oxide
+            XM13Q9	Dezocine
+            XM25Z3	Tapentadol
+            XM1G85	Oliceridine
+        XM4PD9	Nalmefene
+        XM4M74	Difelikefalin
