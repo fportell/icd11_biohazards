@@ -1,0 +1,122 @@
+{
+  "title": "Exposure to extreme forces of nature",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1491356379",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1491356379",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/850137482"
+  ],
+  "child": [
+    {
+      "title": "Victim of lightning",
+      "code": "PJ00",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1295772309",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1295772309",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    },
+    {
+      "title": "Victim of earthquake",
+      "code": "PJ01",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/700289973",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#700289973",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    },
+    {
+      "title": "Victim of cataclysmic earth movements caused by earthquake",
+      "code": "PJ02",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/287610231",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#287610231",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    },
+    {
+      "title": "Victim of tsunami",
+      "code": "PJ03",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1837231441",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1837231441",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    },
+    {
+      "title": "Victim of volcanic eruption",
+      "code": "PJ04",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/526124884",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#526124884",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    },
+    {
+      "title": "Victim of avalanche, landslide or other earth movements",
+      "code": "PJ05",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/395675088",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#395675088",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    },
+    {
+      "title": "Victim of cataclysmic storm",
+      "code": "PJ06",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1444009771",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1444009771",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    },
+    {
+      "title": "Victim of flood",
+      "code": "PJ07",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/802885284",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#802885284",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    },
+    {
+      "title": "Exposure to other specified forces of nature",
+      "code": "PJ0Y",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1491356379/other",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1491356379/other",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    },
+    {
+      "title": "Exposure to unspecified forces of nature",
+      "code": "PJ0Z",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1491356379/unspecified",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1491356379/unspecified",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1491356379"
+      ],
+      "child": []
+    }
+  ]
+}

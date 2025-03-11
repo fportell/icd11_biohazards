@@ -1,0 +1,59 @@
+	Other or unspecified effects of external causes
+    NF00	Effects of radiation, not elsewhere classified
+    NF01	Effects of heat
+        NF01.0	Heat stroke
+        NF01.1	Heat syncope
+        NF01.2	Heat exhaustion due to fluid depletion
+        NF01.3	Heat fatigue, transient
+        NF01.Y	Other specified effects of heat
+        NF01.Z	Effects of heat, unspecified
+    NF02	Hypothermia
+    NF03	Other effects of reduced temperature
+        NF03.0	Chilblains
+        NF03.1	Immersion hand or foot
+        NF03.Y	Other specified effects of reduced temperature
+        NF03.Z	Unspecified effects of reduced temperature
+    NF04	Effects of air pressure or water pressure
+        NF04.0	Otitic barotrauma
+        NF04.1	Sinus barotrauma
+        NF04.2	Caisson disease
+        NF04.3	Effects of high-pressure fluids
+        NF04.Y	Other specified effects of air pressure or water pressure
+        NF04.Z	Effects of air pressure or water pressure, unspecified
+    NF05	Asphyxiation
+    NF06	Effects of strenuous physical exercise
+        NF06.0	Exertional heat stroke
+        NF06.1	Post exercise postural hypotension
+        NF06.2	Post exertional dehydration
+        NF06.3	Exercise muscle cramp
+        NF06.Y	Other specified effects of strenuous physical exercise
+        NF06.Z	Effects of strenuous physical exercise, unspecified
+    NF07	Effects of other deprivation
+        NF07.0	Effects of hunger
+        NF07.1	Effects of thirst
+        NF07.2	Exhaustion due to exposure
+        NF07.Y	Other specified effects of deprivation
+        NF07.Z	Effects of other deprivation, unspecified
+    NF08	Effects of certain specified external causes
+        NF08.0	Effects of lightning
+        NF08.1	Drowning or nonfatal submersion
+        NF08.2	Effects of vibration
+            NF08.20	Hand and arm vibration syndrome
+            NF08.2Y	Other specified effects of vibration
+            NF08.2Z	Effects of vibration, unspecified
+        NF08.3	Motion sickness
+        NF08.4	Effects of electric current
+    NF09	Adverse effects, not elsewhere classified
+    NF0A	Certain early complications of trauma, not elsewhere classified
+        NF0A.0	Air embolism, traumatic, not elsewhere classified
+        NF0A.1	Fat embolism, traumatic, not elsewhere classified
+        NF0A.2	Traumatic secondary or recurrent haemorrhage, not elsewhere classified
+        NF0A.3	Post traumatic wound infection, not elsewhere classified
+        NF0A.4	Traumatic shock, not elsewhere classified
+        NF0A.5	Traumatic anuria, not elsewhere classified
+        NF0A.6	Traumatic ischaemia of muscle, not elsewhere classified
+        NF0A.7	Traumatic subcutaneous emphysema, not elsewhere classified
+        NF0A.Y	Other early complication of trauma, not elsewhere classified
+        NF0A.Z	Early complications of trauma, not elsewhere classified
+    NF0Y	Other specified effects of external causes
+    NF0Z	Unspecified effects of external causes

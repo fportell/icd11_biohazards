@@ -1,0 +1,74 @@
+	Gas, fumes or vapour
+    XM3GS6	Bromine vapor
+    XM8XZ6	Carbon dioxide
+    XM1X11	Carbon monoxide
+        XM8MR4	Blast furnace gas
+        XM7SP6	Carbon monoxide from engine exhaust gas
+            XM7R97	Carbon monoxide from engine driven electrical generator
+            XM2LM9	Carbon monoxide from motor vehicle exhaust
+        XM4QD5	Carbon monoxide from incomplete combustion of charcoal
+        XM2EK4	Carbon monoxide from incomplete combustion of coal
+        XM7NG7	Carbon monoxide from incomplete combustion of coke
+        XM9675	Carbon monoxide from incomplete combustion of fuel gas
+            XM1MB6	Carbon monoxide from incomplete combustion of acetylene
+            XM5TT8	Carbon monoxide from incomplete combustion of coal gas
+            XM1JF3	Carbon monoxide from incomplete combustion of producer gas
+            XM3ES0	Carbon monoxide from incomplete combustion of utility gas
+                XM5XY1	Carbon monoxide from incomplete combustion of liquefied petroleum gas
+                    XM45F2	Carbon monoxide from incomplete combustion of butane
+                    XM3UB7	Carbon monoxide from incomplete combustion of propane
+                XM6708	Carbon monoxide from incomplete combustion of utility natural gas
+            XM9ZV7	Carbon monoxide from incomplete combustion of water gas
+        XM8WR8	Carbon monoxide from incomplete combustion of wood
+    XM0GT6	Chlorine
+    XM3KE4	Cyanic acid
+    XM8Z33	Diazomethane
+    XM70H1	Diborane
+    XM6UG7	Dichloroethyl sulfide
+    XM0YQ4	Ethidium chloride
+    XM1947	Ethylene
+    XM5EU1	Ferrovanadium
+    XM9SB2	Fluorine
+    XM0TV9	Formaldehyde
+    XM0JJ6	Helium
+    XM5LN6	Hydrocarbon gas
+        XM3FZ1	Acetylene
+        XM8GS7	Coal gas
+        XM53K7	Liquefied petroleum gas
+            XM76Q9	Propane
+            XM4653	Butane
+        XM6BD0	Natural gas
+            XM56Q2	Methane
+        XM6993	Producer gas
+        XM4X82	Water gas
+    XM8ZY7	Hydrogen
+    XM7FL0	Hydrogen sulfide
+    XM74J0	Iodine vapor
+    XM2JX3	Lacrimogenic gas
+        XM9FN5	Bromobenzylcyanide
+        XM2N89	Chloroacetone
+        XM7J14	Chloroacetophenone
+        XM41V6	Ethyl iodoacetate
+        XM3RL0	Mace lacrimogenic gas
+        XM6RK9	Methyl chloroformate
+    XM29D2	Methyl chloride
+    XM4FU5	Methyl mercaptan
+    XM16X6	Mustard gas
+    XM69M3	Nitrogen oxide
+        XM05F4	Nitrogen dioxide
+    XM1418	Nonchlorofluorocarbon refrigerant gas
+    XM54H2	Ozone
+    XM91W5	Phosgene
+    XM3D40	Polyester fumes
+    XM1663	Polytetrafluoroethylene
+    XM8242	Propylene
+    XM2598	Sulfur oxides
+        XM0Z74	Sulfur dioxide
+    XM3NH9	Aerosol spray, not elsewhere classified
+    XM1D37	Firedamp, not elsewhere classified
+    XM61G0	Nerve gas, not elsewhere classified
+    XM60X6	Oil fumes, not elsewhere classified
+    XM1EM9	Sewer gas, not elsewhere classified
+    XM6QK6	Smog, not elsewhere classified
+    XM9N00	Smoke, not elsewhere classified
+    XM0G86	Sternutator gas, not elsewhere classified

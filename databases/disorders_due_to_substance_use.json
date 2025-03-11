@@ -1,0 +1,4599 @@
+{
+  "title": "Disorders due to substance use",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/590211325",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#590211325",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/1602669465"
+  ],
+  "child": [
+    {
+      "title": "Disorders due to use of alcohol",
+      "code": "6C40",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1676588433",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1676588433",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of alcohol",
+          "code": "6C40.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/766814084",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#766814084",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of alcohol",
+          "code": "6C40.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/714690795",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#714690795",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of alcohol, episodic",
+              "code": "6C40.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/397237014",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#397237014",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/714690795"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of alcohol, continuous",
+              "code": "6C40.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1761440261",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1761440261",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/714690795"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of alcohol, unspecified",
+              "code": "6C40.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/714690795/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#714690795/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/714690795"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Alcohol dependence",
+          "code": "6C40.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1580466198",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1580466198",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": [
+            {
+              "title": "Alcohol dependence, current use, continuous",
+              "code": "6C40.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/582014993",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#582014993",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1580466198"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol dependence, current use, episodic",
+              "code": "6C40.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/490388233",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#490388233",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1580466198"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol dependence, early full remission",
+              "code": "6C40.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1836362492",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1836362492",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1580466198"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol dependence, sustained partial remission",
+              "code": "6C40.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/931320871",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#931320871",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1580466198"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol dependence, sustained full remission",
+              "code": "6C40.24",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1447256030",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1447256030",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1580466198"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol dependence, unspecified",
+              "code": "6C40.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1580466198/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1580466198/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1580466198"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Alcohol intoxication",
+          "code": "6C40.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1339202943",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1339202943",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": []
+        },
+        {
+          "title": "Alcohol withdrawal",
+          "code": "6C40.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/998231424",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#998231424",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": [
+            {
+              "title": "Alcohol withdrawal, uncomplicated",
+              "code": "6C40.40",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/500976312",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#500976312",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/998231424"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol withdrawal with perceptual disturbances",
+              "code": "6C40.41",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/844301129",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#844301129",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/998231424"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol withdrawal with seizures",
+              "code": "6C40.42",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1217641719",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1217641719",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/998231424"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol withdrawal with perceptual disturbances and seizures",
+              "code": "6C40.43",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/232349777",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#232349777",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/998231424"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol withdrawal, unspecified",
+              "code": "6C40.4Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/998231424/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#998231424/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/998231424"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Alcohol-induced delirium",
+          "code": "6C40.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1217486356",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1217486356",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": []
+        },
+        {
+          "title": "Alcohol-induced psychotic disorder",
+          "code": "6C40.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/769299330",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#769299330",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": [
+            {
+              "title": "Alcohol-induced psychotic disorder with hallucinations",
+              "code": "6C40.60",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/226414625",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#226414625",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/769299330"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol-induced psychotic disorder with delusions",
+              "code": "6C40.61",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1767310182",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1767310182",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/769299330"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol-induced psychotic disorder with mixed psychotic symptoms",
+              "code": "6C40.62",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/111589839",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#111589839",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/769299330"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol-induced psychotic disorder, unspecified",
+              "code": "6C40.6Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/769299330/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#769299330/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/769299330"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Certain specified alcohol-induced mental or behavioural disorders",
+          "code": "6C40.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1012312104",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1012312104",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": [
+            {
+              "title": "Alcohol-induced mood disorder",
+              "code": "6C40.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/804785400",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#804785400",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1012312104"
+              ],
+              "child": []
+            },
+            {
+              "title": "Alcohol-induced anxiety disorder",
+              "code": "6C40.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2068155409",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2068155409",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1012312104"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of alcohol",
+          "code": "6C40.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1676588433/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1676588433/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of alcohol, unspecified",
+          "code": "6C40.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1676588433/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1676588433/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1676588433"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of cannabis",
+      "code": "6C41",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1913137404",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1913137404",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of cannabis",
+          "code": "6C41.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/854520906",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#854520906",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of cannabis",
+          "code": "6C41.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/937834582",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#937834582",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of cannabis, episodic",
+              "code": "6C41.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1305859927",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1305859927",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/937834582"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of cannabis, continuous",
+              "code": "6C41.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/487177880",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#487177880",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/937834582"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of cannabis, unspecified",
+              "code": "6C41.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/937834582/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#937834582/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/937834582"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Cannabis dependence",
+          "code": "6C41.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1129015467",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1129015467",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": [
+            {
+              "title": "Cannabis dependence, current use",
+              "code": "6C41.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/373645975",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#373645975",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1129015467"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cannabis dependence, early full remission",
+              "code": "6C41.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/911861819",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#911861819",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1129015467"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cannabis dependence, sustained partial remission",
+              "code": "6C41.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/740218593",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#740218593",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1129015467"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cannabis dependence, sustained full remission",
+              "code": "6C41.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/750347921",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#750347921",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1129015467"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cannabis dependence, unspecified",
+              "code": "6C41.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1129015467/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1129015467/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1129015467"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Cannabis intoxication",
+          "code": "6C41.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1387132352",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1387132352",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": []
+        },
+        {
+          "title": "Cannabis withdrawal",
+          "code": "6C41.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/637576511",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#637576511",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": []
+        },
+        {
+          "title": "Cannabis-induced delirium",
+          "code": "6C41.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1441674923",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1441674923",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": []
+        },
+        {
+          "title": "Cannabis-induced psychotic disorder",
+          "code": "6C41.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/816184127",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#816184127",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain specified cannabis-induced mental or behavioural disorders",
+          "code": "6C41.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/597251719",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#597251719",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": [
+            {
+              "title": "Cannabis-induced mood disorder",
+              "code": "6C41.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1141591590",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1141591590",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/597251719"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cannabis-induced anxiety disorder",
+              "code": "6C41.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1978307484",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1978307484",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/597251719"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of cannabis",
+          "code": "6C41.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1913137404/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1913137404/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of cannabis, unspecified",
+          "code": "6C41.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1913137404/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1913137404/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1913137404"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of synthetic cannabinoids",
+      "code": "6C42",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/804833492",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#804833492",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of synthetic cannabinoids",
+          "code": "6C42.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/912934263",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#912934263",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of synthetic cannabinoids",
+          "code": "6C42.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1055626783",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1055626783",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of synthetic cannabinoids, episodic",
+              "code": "6C42.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/329717941",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#329717941",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1055626783"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of synthetic cannabinoids, continuous",
+              "code": "6C42.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1501431632",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1501431632",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1055626783"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified harmful pattern of use of synthetic cannabinoids",
+              "code": "6C42.1Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1055626783/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1055626783/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1055626783"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of synthetic cannabinoids, unspecified",
+              "code": "6C42.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1055626783/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1055626783/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1055626783"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Synthetic cannabinoid dependence",
+          "code": "6C42.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/686500513",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#686500513",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": [
+            {
+              "title": "Synthetic cannabinoid dependence, current use",
+              "code": "6C42.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/333795413",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#333795413",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/686500513"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cannabinoid dependence, early full remission",
+              "code": "6C42.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2648920",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2648920",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/686500513"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cannabinoid dependence, sustained partial remission",
+              "code": "6C42.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1253260365",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1253260365",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/686500513"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cannabinoid dependence, sustained full remission",
+              "code": "6C42.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/819411618",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#819411618",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/686500513"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified synthetic cannabinoid dependence",
+              "code": "6C42.2Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/686500513/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#686500513/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/686500513"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cannabinoid dependence, unspecified",
+              "code": "6C42.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/686500513/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#686500513/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/686500513"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Synthetic cannabinoid intoxication",
+          "code": "6C42.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/508603587",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#508603587",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": []
+        },
+        {
+          "title": "Synthetic cannabinoid withdrawal",
+          "code": "6C42.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/397276103",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#397276103",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": []
+        },
+        {
+          "title": "Synthetic cannabinoid-induced delirium",
+          "code": "6C42.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/138091123",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#138091123",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": []
+        },
+        {
+          "title": "Synthetic cannabinoid-induced psychotic disorder",
+          "code": "6C42.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1995589534",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1995589534",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain specified synthetic cannabinoids-induced mental or behavioural disorders",
+          "code": "6C42.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/738827515",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#738827515",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": [
+            {
+              "title": "Synthetic cannabinoid-induced mood disorder",
+              "code": "6C42.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/925940030",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#925940030",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/738827515"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cannabinoid-induced anxiety disorder",
+              "code": "6C42.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1396644446",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1396644446",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/738827515"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of synthetic cannabinoids",
+          "code": "6C42.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/804833492/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#804833492/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of synthetic cannabinoids, unspecified",
+          "code": "6C42.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/804833492/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#804833492/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/804833492"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of opioids",
+      "code": "6C43",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/111507461",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#111507461",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of opioids",
+          "code": "6C43.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/398872858",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#398872858",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of opioids",
+          "code": "6C43.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/912365674",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#912365674",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of opioids, episodic",
+              "code": "6C43.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/676082180",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#676082180",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/912365674"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of opioids, continuous",
+              "code": "6C43.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/224696144",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#224696144",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/912365674"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of opioids, unspecified",
+              "code": "6C43.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/912365674/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#912365674/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/912365674"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Opioid dependence",
+          "code": "6C43.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1120716949",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1120716949",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": [
+            {
+              "title": "Opioid dependence, current use",
+              "code": "6C43.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1229687244",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1229687244",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1120716949"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opioid dependence, early full remission",
+              "code": "6C43.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1023217081",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1023217081",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1120716949"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opioid dependence, sustained partial remission",
+              "code": "6C43.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/157120957",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#157120957",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1120716949"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opioid dependence, sustained full remission",
+              "code": "6C43.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/36859167",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#36859167",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1120716949"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opioid dependence, unspecified",
+              "code": "6C43.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1120716949/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1120716949/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1120716949"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Opioid intoxication",
+          "code": "6C43.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1395283456",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1395283456",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": []
+        },
+        {
+          "title": "Opioid withdrawal",
+          "code": "6C43.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/663160065",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#663160065",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": []
+        },
+        {
+          "title": "Opioid-induced delirium",
+          "code": "6C43.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1416205973",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1416205973",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": []
+        },
+        {
+          "title": "Opioid-induced psychotic disorder",
+          "code": "6C43.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/824335105",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#824335105",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain specified opioid-induced mental or behavioural disorders",
+          "code": "6C43.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1014265857",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1014265857",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": [
+            {
+              "title": "Opioid-induced mood disorder",
+              "code": "6C43.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/119512795",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#119512795",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1014265857"
+              ],
+              "child": []
+            },
+            {
+              "title": "Opioid-induced anxiety disorder",
+              "code": "6C43.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/963759045",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#963759045",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1014265857"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of opioids",
+          "code": "6C43.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/111507461/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#111507461/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of opioids, unspecified",
+          "code": "6C43.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/111507461/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#111507461/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/111507461"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of sedatives, hypnotics or anxiolytics",
+      "code": "6C44",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/390325614",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#390325614",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of sedatives, hypnotics or anxiolytics",
+          "code": "6C44.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/475820054",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#475820054",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of sedatives, hypnotics or anxiolytics",
+          "code": "6C44.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/723448021",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#723448021",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of sedatives, hypnotics or anxiolytics, episodic",
+              "code": "6C44.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/601232140",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#601232140",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/723448021"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of sedatives, hypnotics or anxiolytics, continuous",
+              "code": "6C44.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1559048211",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1559048211",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/723448021"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of sedatives, hypnotics or anxiolytics, unspecified",
+              "code": "6C44.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/723448021/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#723448021/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/723448021"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Sedative, hypnotic or anxiolytic dependence",
+          "code": "6C44.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1605607466",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1605607466",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": [
+            {
+              "title": "Sedative, hypnotic or anxiolytic dependence, current use",
+              "code": "6C44.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1346050331",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1346050331",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1605607466"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sedative, hypnotic or anxiolytic dependence, early full remission",
+              "code": "6C44.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2141068069",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2141068069",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1605607466"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sedative, hypnotic or anxiolytic dependence, sustained partial remission",
+              "code": "6C44.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/627598840",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#627598840",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1605607466"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sedative, hypnotic or anxiolytic dependence, sustained full remission",
+              "code": "6C44.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1151987203",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1151987203",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1605607466"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sedative, hypnotic or anxiolytic dependence, unspecified",
+              "code": "6C44.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1605607466/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1605607466/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1605607466"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Sedative, hypnotic or anxiolytic intoxication",
+          "code": "6C44.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1314209089",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1314209089",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": []
+        },
+        {
+          "title": "Sedative, hypnotic or anxiolytic withdrawal",
+          "code": "6C44.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/989359552",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#989359552",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": [
+            {
+              "title": "Sedative, hypnotic or anxiolytic withdrawal, uncomplicated",
+              "code": "6C44.40",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/405069624",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#405069624",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/989359552"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sedative, hypnotic or anxiolytic withdrawal, with perceptual disturbances",
+              "code": "6C44.41",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1065937748",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1065937748",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/989359552"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sedative, hypnotic or anxiolytic withdrawal, with seizures",
+              "code": "6C44.42",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1298868599",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1298868599",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/989359552"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sedative, hypnotic or anxiolytic withdrawal, with perceptual disturbances and seizures",
+              "code": "6C44.43",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1087947331",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1087947331",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/989359552"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sedative, hypnotic or anxiolytic withdrawal, unspecified",
+              "code": "6C44.4Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/989359552/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#989359552/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/989359552"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Sedative, hypnotic or anxiolytic-induced delirium",
+          "code": "6C44.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1226243628",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1226243628",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": []
+        },
+        {
+          "title": "Sedative, hypnotic or anxiolytic-induced psychotic disorder",
+          "code": "6C44.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/744305598",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#744305598",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain specified sedatives, hypnotics or anxiolytic-induced mental or behavioural disorders",
+          "code": "6C44.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1954860287",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1954860287",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": [
+            {
+              "title": "Sedative, hypnotic or anxiolytic-induced mood disorder",
+              "code": "6C44.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/890653406",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#890653406",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1954860287"
+              ],
+              "child": []
+            },
+            {
+              "title": "Sedative, hypnotic or anxiolytic-induced anxiety disorder",
+              "code": "6C44.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1506172532",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1506172532",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1954860287"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of sedatives, hypnotics or anxiolytics",
+          "code": "6C44.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/390325614/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#390325614/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of sedatives, hypnotics or anxiolytics, unspecified",
+          "code": "6C44.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/390325614/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#390325614/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/390325614"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of cocaine",
+      "code": "6C45",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1689089786",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1689089786",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of cocaine",
+          "code": "6C45.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/318767128",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#318767128",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of cocaine",
+          "code": "6C45.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/275218837",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#275218837",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of cocaine, episodic",
+              "code": "6C45.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1179645529",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1179645529",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/275218837"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of cocaine, continuous",
+              "code": "6C45.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/378773400",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#378773400",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/275218837"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of cocaine, unspecified",
+              "code": "6C45.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/275218837/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#275218837/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/275218837"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Cocaine dependence",
+          "code": "6C45.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1691013484",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1691013484",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": [
+            {
+              "title": "Cocaine dependence, current use",
+              "code": "6C45.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1870512253",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1870512253",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1691013484"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine dependence, early full remission",
+              "code": "6C45.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1347425045",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1347425045",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1691013484"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine dependence, sustained partial remission",
+              "code": "6C45.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1424852267",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1424852267",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1691013484"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine dependence, sustained full remission",
+              "code": "6C45.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/909638838",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#909638838",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1691013484"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine dependence, unspecified",
+              "code": "6C45.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1691013484/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1691013484/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1691013484"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Cocaine intoxication",
+          "code": "6C45.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1965837313",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1965837313",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": []
+        },
+        {
+          "title": "Cocaine withdrawal",
+          "code": "6C45.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/25238782",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#25238782",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": []
+        },
+        {
+          "title": "Cocaine-induced delirium",
+          "code": "6C45.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1919913834",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1919913834",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": []
+        },
+        {
+          "title": "Cocaine-induced psychotic disorder",
+          "code": "6C45.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/388252416",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#388252416",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": [
+            {
+              "title": "Cocaine-induced psychotic disorder with hallucinations",
+              "code": "6C45.60",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1824621163",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1824621163",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/388252416"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine-induced psychotic disorder with delusions",
+              "code": "6C45.61",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1460899805",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1460899805",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/388252416"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine-induced psychotic disorder with mixed psychotic symptoms",
+              "code": "6C45.62",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1130659925",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1130659925",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/388252416"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine-induced psychotic disorder, unspecified",
+              "code": "6C45.6Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/388252416/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#388252416/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/388252416"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Certain specified cocaine-induced mental or behavioural disorders",
+          "code": "6C45.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1081029366",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1081029366",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": [
+            {
+              "title": "Cocaine-induced mood disorder",
+              "code": "6C45.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/480277067",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#480277067",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1081029366"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine-induced anxiety disorder",
+              "code": "6C45.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1176625878",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1176625878",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1081029366"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine-induced obsessive-compulsive or related disorder",
+              "code": "6C45.72",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/330885524",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#330885524",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1081029366"
+              ],
+              "child": []
+            },
+            {
+              "title": "Cocaine-induced impulse control disorder",
+              "code": "6C45.73",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1995290731",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1995290731",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1081029366"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of cocaine",
+          "code": "6C45.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1689089786/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1689089786/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of cocaine, unspecified",
+          "code": "6C45.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1689089786/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1689089786/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1689089786"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of stimulants including amphetamines, methamphetamine or methcathinone",
+      "code": "6C46",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1016273204",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1016273204",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of stimulants including amphetamines, methamphetamine or methcathinone",
+          "code": "6C46.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1772665991",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1772665991",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of stimulants including amphetamines, methamphetamine or methcathinone",
+          "code": "6C46.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/211765524",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#211765524",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of stimulants including amphetamines, methamphetamine or methcathinone, episodic",
+              "code": "6C46.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/385389976",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#385389976",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/211765524"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of stimulants including amphetamines, methamphetamine or methcathinone, continuous",
+              "code": "6C46.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1136092121",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1136092121",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/211765524"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of stimulants including amphetamines, methamphetamine and methcathinone, unspecified",
+              "code": "6C46.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/211765524/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#211765524/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/211765524"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Stimulant dependence including amphetamines, methamphetamine or methcathinone",
+          "code": "6C46.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2016549355",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2016549355",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": [
+            {
+              "title": "Stimulant dependence including amphetamines, methamphetamine or methcathinone, current use",
+              "code": "6C46.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/651438062",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#651438062",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2016549355"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant dependence including amphetamines, methamphetamine or methcathinone, early full remission",
+              "code": "6C46.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/113814852",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#113814852",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2016549355"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant dependence including amphetamines, methamphetamine or methcathinone, sustained partial remission",
+              "code": "6C46.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/671215150",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#671215150",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2016549355"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant dependence including amphetamines, methamphetamine or methcathinone, sustained full remission",
+              "code": "6C46.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/912062138",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#912062138",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2016549355"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant dependence including amphetamines, methamphetamine or methcathinone, unspecified",
+              "code": "6C46.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2016549355/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2016549355/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2016549355"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Stimulant intoxication including amphetamines, methamphetamine or methcathinone",
+          "code": "6C46.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1775535234",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1775535234",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": []
+        },
+        {
+          "title": "Stimulant withdrawal including amphetamines, methamphetamine or methcathinone",
+          "code": "6C46.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/494523519",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#494523519",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": []
+        },
+        {
+          "title": "Stimulant-induced delirium including amphetamines, methamphetamine or methcathinone",
+          "code": "6C46.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/951103658",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#951103658",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": []
+        },
+        {
+          "title": "Stimulant-induced psychotic disorder including amphetamines, methamphetamine or methcathinone",
+          "code": "6C46.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/199002751",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#199002751",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": [
+            {
+              "title": "Stimulant-induced psychotic disorder including amphetamines, methamphetamine or methcathinone with hallucinations",
+              "code": "6C46.60",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1500592979",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1500592979",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/199002751"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant-induced psychotic disorder including amphetamines, methamphetamine or methcathinone with delusions",
+              "code": "6C46.61",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1292252379",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1292252379",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/199002751"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant-induced psychotic disorder including amphetamines but excluding caffeine or cocaine with mixed psychotic symptoms",
+              "code": "6C46.62",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/48956638",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#48956638",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/199002751"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant-induced psychotic disorder including amphetamines, methamphetamine or methcathinone, unspecified",
+              "code": "6C46.6Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/199002751/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#199002751/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/199002751"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Certain specified stimulant-induced mental or behavioural disorders including amphetamines, methamphetamine or methcathinone",
+          "code": "6C46.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2096250471",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2096250471",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": [
+            {
+              "title": "Stimulant-induced mood disorder including amphetamines, methamphetamine or methcathinone",
+              "code": "6C46.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/724783925",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#724783925",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2096250471"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant-induced anxiety disorder including amphetamines, methamphetamine or methcathinone",
+              "code": "6C46.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1627021441",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1627021441",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2096250471"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant-induced obsessive-compulsive or related disorder including amphetamines, methamphetamine or methcathinone",
+              "code": "6C46.72",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1830469239",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1830469239",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2096250471"
+              ],
+              "child": []
+            },
+            {
+              "title": "Stimulant-induced impulse control disorder including amphetamines, methamphetamine or methcathinone",
+              "code": "6C46.73",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/143679922",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#143679922",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2096250471"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of stimulants including amphetamines, methamphetamine or methcathinone",
+          "code": "6C46.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1016273204/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1016273204/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of stimulants including amphetamines, methamphetamine or methcathinone, unspecified",
+          "code": "6C46.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1016273204/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1016273204/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1016273204"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of synthetic cathinones",
+      "code": "6C47",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1605818663",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1605818663",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of synthetic cathinones",
+          "code": "6C47.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1563509056",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1563509056",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of synthetic cathinones",
+          "code": "6C47.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2057206901",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2057206901",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of synthetic cathinones, episodic",
+              "code": "6C47.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/659900369",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#659900369",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2057206901"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful use of synthetic cathinones, continuous",
+              "code": "6C47.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1929333008",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1929333008",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2057206901"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified harmful pattern of use of synthetic cathinones",
+              "code": "6C47.1Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2057206901/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2057206901/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2057206901"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of synthetic cathinones, unspecified",
+              "code": "6C47.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2057206901/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2057206901/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2057206901"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Synthetic cathinone dependence",
+          "code": "6C47.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2070676103",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2070676103",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": [
+            {
+              "title": "Synthetic cathinone dependence, current use",
+              "code": "6C47.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1771470438",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1771470438",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2070676103"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone dependence, early full remission",
+              "code": "6C47.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1643918100",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1643918100",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2070676103"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone dependence, sustained partial remission",
+              "code": "6C47.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/873755949",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#873755949",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2070676103"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone dependence, sustained full remission",
+              "code": "6C47.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1359176422",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1359176422",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2070676103"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified synthetic cathinone dependence",
+              "code": "6C47.2Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2070676103/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2070676103/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2070676103"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone dependence, unspecified",
+              "code": "6C47.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2070676103/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2070676103/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2070676103"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Synthetic cathinone intoxication",
+          "code": "6C47.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1599283639",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1599283639",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": []
+        },
+        {
+          "title": "Synthetic cathinone withdrawal",
+          "code": "6C47.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1587633989",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1587633989",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": []
+        },
+        {
+          "title": "Synthetic cathinone-induced delirium",
+          "code": "6C47.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1526280683",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1526280683",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": []
+        },
+        {
+          "title": "Synthetic cathinone-induced psychotic disorder",
+          "code": "6C47.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1005846640",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1005846640",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": [
+            {
+              "title": "Synthetic cathinone-induced psychotic disorder with hallucinations",
+              "code": "6C47.60",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1432030282",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1432030282",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1005846640"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone-induced psychotic disorder with delusions",
+              "code": "6C47.61",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1955362756",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1955362756",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1005846640"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone-induced psychotic disorder with mixed psychotic symptoms",
+              "code": "6C47.62",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/89854667",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#89854667",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1005846640"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone-induced psychotic disorder, unspecified",
+              "code": "6C47.6Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1005846640/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1005846640/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1005846640"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Certain specified synthetic cathinone-induced mental or behavioural disorders",
+          "code": "6C47.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1562167865",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1562167865",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": [
+            {
+              "title": "Synthetic cathinone-induced mood disorder",
+              "code": "6C47.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/507076012",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#507076012",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1562167865"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone-induced anxiety disorder",
+              "code": "6C47.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1423983191",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1423983191",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1562167865"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone-induced obsessive-compulsive or related syndrome",
+              "code": "6C47.72",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/511382862",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#511382862",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1562167865"
+              ],
+              "child": []
+            },
+            {
+              "title": "Synthetic cathinone-induced impulse control disorder",
+              "code": "6C47.73",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1259373199",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1259373199",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1562167865"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of synthetic cathinones",
+          "code": "6C47.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1605818663/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1605818663/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of synthetic cathinones, unspecified",
+          "code": "6C47.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1605818663/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1605818663/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1605818663"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of caffeine",
+      "code": "6C48",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/31898480",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#31898480",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of caffeine",
+          "code": "6C48.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/207246302",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#207246302",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/31898480"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of caffeine",
+          "code": "6C48.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1252561403",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1252561403",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/31898480"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of caffeine, episodic",
+              "code": "6C48.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1935765699",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1935765699",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1252561403"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of caffeine, continuous",
+              "code": "6C48.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1290474459",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1290474459",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1252561403"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of caffeine, unspecified",
+              "code": "6C48.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1252561403/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1252561403/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1252561403"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Caffeine intoxication",
+          "code": "6C48.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1648213213",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1648213213",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/31898480"
+          ],
+          "child": []
+        },
+        {
+          "title": "Caffeine withdrawal",
+          "code": "6C48.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1569910443",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1569910443",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/31898480"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain specified caffeine-induced mental or behavioural disorders",
+          "code": "6C48.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1710844294",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1710844294",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/31898480"
+          ],
+          "child": [
+            {
+              "title": "Caffeine-induced anxiety disorder",
+              "code": "6C48.40",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1115271910",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1115271910",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1710844294"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of caffeine",
+          "code": "6C48.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/31898480/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#31898480/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/31898480"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of caffeine, unspecified",
+          "code": "6C48.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/31898480/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#31898480/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/31898480"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of hallucinogens",
+      "code": "6C49",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1967909777",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1967909777",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of hallucinogens",
+          "code": "6C49.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1995632461",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1995632461",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1967909777"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of hallucinogens",
+          "code": "6C49.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/219736364",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#219736364",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1967909777"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of hallucinogens, episodic",
+              "code": "6C49.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/275556525",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#275556525",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/219736364"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of hallucinogens, continuous",
+              "code": "6C49.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1868008370",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1868008370",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/219736364"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of hallucinogens, unspecified",
+              "code": "6C49.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/219736364/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#219736364/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/219736364"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Hallucinogen dependence",
+          "code": "6C49.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2041952725",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2041952725",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1967909777"
+          ],
+          "child": [
+            {
+              "title": "Hallucinogen dependence, current use",
+              "code": "6C49.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/847208228",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#847208228",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2041952725"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hallucinogen dependence, early full remission",
+              "code": "6C49.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/585026718",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#585026718",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2041952725"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hallucinogen dependence, sustained partial remission",
+              "code": "6C49.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/644045474",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#644045474",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2041952725"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hallucinogen dependence, sustained full remission",
+              "code": "6C49.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/655301620",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#655301620",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2041952725"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hallucinogen dependence, unspecified",
+              "code": "6C49.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2041952725/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2041952725/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2041952725"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Hallucinogen intoxication",
+          "code": "6C49.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1750279358",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1750279358",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1967909777"
+          ],
+          "child": []
+        },
+        {
+          "title": "Hallucinogen-induced delirium",
+          "code": "6C49.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1863378901",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1863378901",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1967909777"
+          ],
+          "child": []
+        },
+        {
+          "title": "Hallucinogen-induced psychotic disorder",
+          "code": "6C49.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/173746753",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#173746753",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1967909777"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain specified hallucinogen-induced mental or behavioural disorders",
+          "code": "6C49.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1265787402",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1265787402",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1967909777"
+          ],
+          "child": [
+            {
+              "title": "Hallucinogen-induced mood disorder",
+              "code": "6C49.60",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/162562386",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#162562386",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1265787402"
+              ],
+              "child": []
+            },
+            {
+              "title": "Hallucinogen-induced anxiety disorder",
+              "code": "6C49.61",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1245150953",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1245150953",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1265787402"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of hallucinogens",
+          "code": "6C49.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1967909777/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1967909777/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1967909777"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of hallucinogens, unspecified",
+          "code": "6C49.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1967909777/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1967909777/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1967909777"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of nicotine",
+      "code": "6C4A",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/268445189",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#268445189",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of nicotine",
+          "code": "6C4A.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1356720300",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1356720300",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/268445189"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of nicotine",
+          "code": "6C4A.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/299901355",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#299901355",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/268445189"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of nicotine, episodic",
+              "code": "6C4A.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1979010552",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1979010552",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/299901355"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of nicotine, continuous",
+              "code": "6C4A.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1249849058",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1249849058",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/299901355"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of nicotine, unspecified",
+              "code": "6C4A.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/299901355/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#299901355/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/299901355"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Nicotine dependence",
+          "code": "6C4A.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1699574100",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1699574100",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/268445189"
+          ],
+          "child": [
+            {
+              "title": "Nicotine dependence, current use",
+              "code": "6C4A.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/719650647",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#719650647",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1699574100"
+              ],
+              "child": []
+            },
+            {
+              "title": "Nicotine dependence, early full remission",
+              "code": "6C4A.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/88210793",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#88210793",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1699574100"
+              ],
+              "child": []
+            },
+            {
+              "title": "Nicotine dependence, sustained partial remission",
+              "code": "6C4A.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/986422897",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#986422897",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1699574100"
+              ],
+              "child": []
+            },
+            {
+              "title": "Nicotine dependence, sustained full remission",
+              "code": "6C4A.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/980168193",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#980168193",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1699574100"
+              ],
+              "child": []
+            },
+            {
+              "title": "Nicotine dependence, unspecified",
+              "code": "6C4A.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1699574100/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1699574100/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1699574100"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Nicotine intoxication",
+          "code": "6C4A.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1957424191",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1957424191",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/268445189"
+          ],
+          "child": []
+        },
+        {
+          "title": "Nicotine withdrawal",
+          "code": "6C4A.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/441538",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#441538",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/268445189"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified disorders due to use of nicotine",
+          "code": "6C4A.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/268445189/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#268445189/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/268445189"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of nicotine, unspecified",
+          "code": "6C4A.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/268445189/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#268445189/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/268445189"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of volatile inhalants",
+      "code": "6C4B",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1835610951",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1835610951",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of volatile inhalants",
+          "code": "6C4B.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/893652479",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#893652479",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of volatile inhalants",
+          "code": "6C4B.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1600451095",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1600451095",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of volatile inhalants, episodic",
+              "code": "6C4B.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1704485952",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1704485952",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1600451095"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of volatile inhalants, continuous",
+              "code": "6C4B.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1879955576",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1879955576",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1600451095"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of volatile inhalants, unspecified",
+              "code": "6C4B.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1600451095/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1600451095/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1600451095"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Volatile inhalant dependence",
+          "code": "6C4B.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/734634730",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#734634730",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": [
+            {
+              "title": "Volatile inhalant dependence, current use",
+              "code": "6C4B.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/539693275",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#539693275",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/734634730"
+              ],
+              "child": []
+            },
+            {
+              "title": "Volatile inhalant dependence, early full remission",
+              "code": "6C4B.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/861459960",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#861459960",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/734634730"
+              ],
+              "child": []
+            },
+            {
+              "title": "Volatile inhalant dependence, sustained partial remission",
+              "code": "6C4B.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1844888971",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1844888971",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/734634730"
+              ],
+              "child": []
+            },
+            {
+              "title": "Volatile inhalant dependence, sustained full remission",
+              "code": "6C4B.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/486397896",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#486397896",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/734634730"
+              ],
+              "child": []
+            },
+            {
+              "title": "Volatile inhalant dependence, unspecified",
+              "code": "6C4B.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/734634730/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#734634730/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/734634730"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Volatile inhalant intoxication",
+          "code": "6C4B.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/976174979",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#976174979",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": []
+        },
+        {
+          "title": "Volatile inhalant withdrawal",
+          "code": "6C4B.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1317171068",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1317171068",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": []
+        },
+        {
+          "title": "Volatile inhalant-induced delirium",
+          "code": "6C4B.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1030552808",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1030552808",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": []
+        },
+        {
+          "title": "Volatile inhalant-induced psychotic disorder",
+          "code": "6C4B.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1478963582",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1478963582",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain specified volatile inhalants-induced mental or behavioural disorders",
+          "code": "6C4B.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1416233126",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1416233126",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": [
+            {
+              "title": "Volatile inhalant-induced mood disorder",
+              "code": "6C4B.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/652700225",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#652700225",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1416233126"
+              ],
+              "child": []
+            },
+            {
+              "title": "Volatile inhalant-induced anxiety disorder",
+              "code": "6C4B.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1918560936",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1918560936",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1416233126"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of volatile inhalants",
+          "code": "6C4B.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1835610951/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1835610951/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of volatile inhalants, unspecified",
+          "code": "6C4B.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1835610951/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1835610951/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1835610951"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of MDMA or related drugs, including MDA",
+      "code": "6C4C",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1218193465",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1218193465",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of MDMA or related drugs, including MDA",
+          "code": "6C4C.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1334295394",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1334295394",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of MDMA or related drugs, including MDA",
+          "code": "6C4C.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1662953838",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1662953838",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": [
+            {
+              "title": "Harmful use of MDMA or related drugs, including MDA, episodic",
+              "code": "6C4C.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/817666175",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#817666175",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1662953838"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful use of MDMA or related drugs, including MDA, continuous",
+              "code": "6C4C.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2136057978",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2136057978",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1662953838"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of MDMA or related drugs, including MDA, unspecified",
+              "code": "6C4C.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1662953838/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1662953838/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1662953838"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "MDMA or related drug dependence, including MDA",
+          "code": "6C4C.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/473001402",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#473001402",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": [
+            {
+              "title": "MDMA or related drug dependence, including MDA, current use",
+              "code": "6C4C.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/599461536",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#599461536",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/473001402"
+              ],
+              "child": []
+            },
+            {
+              "title": "MDMA or related drug dependence, including MDA, early full remission",
+              "code": "6C4C.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/203295904",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#203295904",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/473001402"
+              ],
+              "child": []
+            },
+            {
+              "title": "MDMA or related drug dependence, including MDA, sustained partial remission",
+              "code": "6C4C.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/213499118",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#213499118",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/473001402"
+              ],
+              "child": []
+            },
+            {
+              "title": "MDMA or related drug dependence, including MDA, sustained full remission",
+              "code": "6C4C.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1774027011",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1774027011",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/473001402"
+              ],
+              "child": []
+            },
+            {
+              "title": "MDMA or related drug dependence, including MDA, unspecified",
+              "code": "6C4C.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/473001402/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#473001402/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/473001402"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "MDMA or related drug intoxication, including MDA",
+          "code": "6C4C.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1574982062",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1574982062",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": []
+        },
+        {
+          "title": "MDMA or related drug withdrawal, including MDA",
+          "code": "6C4C.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1791864244",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1791864244",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": []
+        },
+        {
+          "title": "MDMA or related drug-induced delirium, including MDA",
+          "code": "6C4C.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1828722493",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1828722493",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": []
+        },
+        {
+          "title": "MDMA or related drug-induced psychotic disorder, including MDA",
+          "code": "6C4C.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1589999330",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1589999330",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain specified MDMA or related drug-induced mental or behavioural disorders, including MDA",
+          "code": "6C4C.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1157653052",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1157653052",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": [
+            {
+              "title": "MDMA or related drug-induced mood disorder, including MDA",
+              "code": "6C4C.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/268614690",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#268614690",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1157653052"
+              ],
+              "child": []
+            },
+            {
+              "title": "MDMA or related drug-induced anxiety disorder",
+              "code": "6C4C.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/325981339",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#325981339",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1157653052"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of MDMA or related drugs, including MDA",
+          "code": "6C4C.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1218193465/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1218193465/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of MDMA or related drugs, including MDA, unspecified",
+          "code": "6C4C.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1218193465/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1218193465/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1218193465"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of dissociative drugs including ketamine and phencyclidine [PCP]",
+      "code": "6C4D",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/470484338",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#470484338",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of dissociative drugs including ketamine or PCP",
+          "code": "6C4D.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/706633269",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#706633269",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/470484338"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of dissociative drugs, including ketamine or PCP",
+          "code": "6C4D.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1418561556",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1418561556",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/470484338"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of dissociative drugs including ketamine or PCP, episodic",
+              "code": "6C4D.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2059548662",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2059548662",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1418561556"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of dissociative drugs including ketamine or PCP, continuous",
+              "code": "6C4D.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/100209899",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#100209899",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1418561556"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of dissociative drugs, including ketamine or PCP, unspecified",
+              "code": "6C4D.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1418561556/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1418561556/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1418561556"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Dissociative drug dependence including ketamine or PCP",
+          "code": "6C4D.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1177354811",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1177354811",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/470484338"
+          ],
+          "child": [
+            {
+              "title": "Dissociative drug dependence including Ketamine or PCP, current use",
+              "code": "6C4D.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/916072624",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#916072624",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1177354811"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dissociative drug dependence including ketamine or PCP, early full remission",
+              "code": "6C4D.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/101610314",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#101610314",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1177354811"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dissociative drug dependence including Ketamine or PCP, sustained partial remission",
+              "code": "6C4D.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2036226651",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2036226651",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1177354811"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dissociative drug dependence including Ketamine or PCP, sustained full remission",
+              "code": "6C4D.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/380625140",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#380625140",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1177354811"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dissociative drug dependence including ketamine or PCP, unspecified",
+              "code": "6C4D.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1177354811/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1177354811/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1177354811"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Dissociative drug intoxication including Ketamine or PCP",
+          "code": "6C4D.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1192105868",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1192105868",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/470484338"
+          ],
+          "child": []
+        },
+        {
+          "title": "Dissociative drug-induced delirium including ketamine or PCP",
+          "code": "6C4D.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/216587818",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#216587818",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/470484338"
+          ],
+          "child": []
+        },
+        {
+          "title": "Dissociative drug-induced psychotic disorder including Ketamine or PCP",
+          "code": "6C4D.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/666288373",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#666288373",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/470484338"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain specified dissociative drug-induced mental or behavioural disorders, including ketamine and phencyclidine [PCP]",
+          "code": "6C4D.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1379043297",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1379043297",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/470484338"
+          ],
+          "child": [
+            {
+              "title": "Dissociative drug-induced mood disorder including Ketamine or PCP",
+              "code": "6C4D.60",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1866047295",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1866047295",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1379043297"
+              ],
+              "child": []
+            },
+            {
+              "title": "Dissociative drug-induced anxiety disorder including Ketamine or PCP",
+              "code": "6C4D.61",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1552098464",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1552098464",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1379043297"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of dissociative drugs including ketamine and phencyclidine [PCP]",
+          "code": "6C4D.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/470484338/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#470484338/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/470484338"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of dissociative drugs including ketamine and phencyclidine [PCP], unspecified",
+          "code": "6C4D.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/470484338/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#470484338/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/470484338"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of other specified psychoactive substances, including medications",
+      "code": "6C4E",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/136511187",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#136511187",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of other specified psychoactive substance",
+          "code": "6C4E.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1835736371",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1835736371",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of other specified psychoactive substance",
+          "code": "6C4E.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/754209924",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#754209924",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of other specified psychoactive substance, episodic",
+              "code": "6C4E.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1215969203",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1215969203",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/754209924"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of other specified psychoactive substance, continuous",
+              "code": "6C4E.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/311183726",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#311183726",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/754209924"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of other specified psychoactive substance, unspecified",
+              "code": "6C4E.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/754209924/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#754209924/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/754209924"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified psychoactive substance dependence",
+          "code": "6C4E.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1934475925",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1934475925",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": [
+            {
+              "title": "Other specified psychoactive substance dependence, current use",
+              "code": "6C4E.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/392011264",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#392011264",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1934475925"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified psychoactive substance dependence, early full remission",
+              "code": "6C4E.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/678448488",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#678448488",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1934475925"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified psychoactive substance dependence, sustained partial remission",
+              "code": "6C4E.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1486482667",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1486482667",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1934475925"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified psychoactive substance dependence, sustained full remission",
+              "code": "6C4E.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/929584708",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#929584708",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1934475925"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified psychoactive substance dependence, unspecified",
+              "code": "6C4E.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1934475925/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1934475925/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1934475925"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified psychoactive substance intoxication",
+          "code": "6C4E.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/327038878",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#327038878",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified psychoactive substance withdrawal",
+          "code": "6C4E.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2022008391",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2022008391",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": [
+            {
+              "title": "Other specified psychoactive substance withdrawal, uncomplicated",
+              "code": "6C4E.40",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2084106361",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2084106361",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2022008391"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified psychoactive substance withdrawal, with perceptual disturbances",
+              "code": "6C4E.41",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/221504052",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#221504052",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2022008391"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified psychoactive substance withdrawal, with seizures",
+              "code": "6C4E.42",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/949196336",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#949196336",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2022008391"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified psychoactive substance withdrawal, with perceptual disturbances and seizures",
+              "code": "6C4E.43",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/707980387",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#707980387",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2022008391"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified psychoactive substance withdrawal, unspecified",
+              "code": "6C4E.4Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2022008391/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2022008391/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2022008391"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Delirium induced by other specified psychoactive substance including medications",
+          "code": "6C4E.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/563360873",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#563360873",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": []
+        },
+        {
+          "title": "Psychotic disorder induced by other specified psychoactive substance",
+          "code": "6C4E.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1044767723",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1044767723",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain other specified psychoactive substance-induced mental or behavioural disorders",
+          "code": "6C4E.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/487787932",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#487787932",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": [
+            {
+              "title": "Mood disorder induced by other specified psychoactive substance",
+              "code": "6C4E.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1906889712",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1906889712",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/487787932"
+              ],
+              "child": []
+            },
+            {
+              "title": "Anxiety disorder induced by other specified psychoactive substance",
+              "code": "6C4E.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/509176135",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#509176135",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/487787932"
+              ],
+              "child": []
+            },
+            {
+              "title": "Obsessive-compulsive or related disorder induced by other specified psychoactive substance",
+              "code": "6C4E.72",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/69097373",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#69097373",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/487787932"
+              ],
+              "child": []
+            },
+            {
+              "title": "Impulse control disorder induced by other specified psychoactive substance",
+              "code": "6C4E.73",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/657890038",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#657890038",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/487787932"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of other specified psychoactive substances, including medications",
+          "code": "6C4E.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/136511187/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#136511187/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of other specified psychoactive substances, including medications, unspecified",
+          "code": "6C4E.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/136511187/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#136511187/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/136511187"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of multiple specified psychoactive substances, including medications",
+      "code": "6C4F",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/601226803",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#601226803",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of multiple specified psychoactive substances",
+          "code": "6C4F.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1729466996",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1729466996",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of multiple specified psychoactive substances",
+          "code": "6C4F.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1719901309",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1719901309",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of multiple specified psychoactive substances, episodic",
+              "code": "6C4F.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1025518626",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1025518626",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1719901309"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of multiple specified psychoactive substances, continuous",
+              "code": "6C4F.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/319592412",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#319592412",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1719901309"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of multiple specified psychoactive substances, unspecified",
+              "code": "6C4F.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1719901309/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1719901309/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1719901309"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Multiple specified psychoactive substances dependence",
+          "code": "6C4F.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/853273682",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#853273682",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": [
+            {
+              "title": "Multiple specified psychoactive substances dependence, current use",
+              "code": "6C4F.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2109222603",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2109222603",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/853273682"
+              ],
+              "child": []
+            },
+            {
+              "title": "Multiple specified psychoactive substances dependence, early full remission",
+              "code": "6C4F.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/487973986",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#487973986",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/853273682"
+              ],
+              "child": []
+            },
+            {
+              "title": "Multiple specified psychoactive substances dependence, sustained partial remission",
+              "code": "6C4F.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2113562155",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2113562155",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/853273682"
+              ],
+              "child": []
+            },
+            {
+              "title": "Multiple specified psychoactive substances dependence, sustained full remission",
+              "code": "6C4F.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1622774364",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1622774364",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/853273682"
+              ],
+              "child": []
+            },
+            {
+              "title": "Multiple specified psychoactive substances dependence, unspecified",
+              "code": "6C4F.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/853273682/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#853273682/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/853273682"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Intoxication due to multiple specified psychoactive substances",
+          "code": "6C4F.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1121505208",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1121505208",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": []
+        },
+        {
+          "title": "Multiple specified psychoactive substances withdrawal",
+          "code": "6C4F.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1583329300",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1583329300",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": [
+            {
+              "title": "Multiple specified psychoactive substances withdrawal, uncomplicated",
+              "code": "6C4F.40",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1051734617",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1051734617",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1583329300"
+              ],
+              "child": []
+            },
+            {
+              "title": "Multiple specified psychoactive substances withdrawal, with perceptual disturbances",
+              "code": "6C4F.41",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1856037350",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1856037350",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1583329300"
+              ],
+              "child": []
+            },
+            {
+              "title": "Multiple specified psychoactive substances withdrawal, with seizures",
+              "code": "6C4F.42",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/293485161",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#293485161",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1583329300"
+              ],
+              "child": []
+            },
+            {
+              "title": "Multiple specified psychoactive substances withdrawal, with perceptual disturbances and seizures",
+              "code": "6C4F.43",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1328927370",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1328927370",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1583329300"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified multiple specified psychoactive substances withdrawal",
+              "code": "6C4F.4Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1583329300/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1583329300/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1583329300"
+              ],
+              "child": []
+            },
+            {
+              "title": "Multiple specified psychoactive substances withdrawal, unspecified",
+              "code": "6C4F.4Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1583329300/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1583329300/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1583329300"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Delirium induced by multiple specified psychoactive substances including medications",
+          "code": "6C4F.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/768380303",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#768380303",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": []
+        },
+        {
+          "title": "Psychotic disorder induced by multiple specified psychoactive substances",
+          "code": "6C4F.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1183869990",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1183869990",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain multiple specified psychoactive substances-induced mental or behavioural disorders",
+          "code": "6C4F.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/538219245",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#538219245",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": [
+            {
+              "title": "Mood disorder induced by multiple specified psychoactive substances",
+              "code": "6C4F.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1733810838",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1733810838",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/538219245"
+              ],
+              "child": []
+            },
+            {
+              "title": "Anxiety disorder induced by multiple specified psychoactive substances",
+              "code": "6C4F.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1198710764",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1198710764",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/538219245"
+              ],
+              "child": []
+            },
+            {
+              "title": "Obsessive-compulsive or related disorder induced by multiple specified psychoactive substances",
+              "code": "6C4F.72",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2039807396",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2039807396",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/538219245"
+              ],
+              "child": []
+            },
+            {
+              "title": "Impulse control syndrome induced by multiple specified psychoactive substances",
+              "code": "6C4F.73",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/856664761",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#856664761",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/538219245"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of multiple specified psychoactive substances, including medications",
+          "code": "6C4F.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/601226803/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#601226803/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of multiple specified psychoactive substances, including medications, unspecified",
+          "code": "6C4F.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/601226803/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#601226803/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/601226803"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of unknown or unspecified psychoactive substances",
+      "code": "6C4G",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1414319298",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1414319298",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of unknown or unspecified psychoactive substances",
+          "code": "6C4G.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/272358857",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#272358857",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of unknown or unspecified psychoactive substance",
+          "code": "6C4G.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/341458101",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#341458101",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of unknown or unspecified psychoactive substance, episodic",
+              "code": "6C4G.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/74269862",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#74269862",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/341458101"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of unknown or unspecified psychoactive substance, continuous",
+              "code": "6C4G.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1349477728",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1349477728",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/341458101"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of unknown or unspecified psychoactive substance, unspecified",
+              "code": "6C4G.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/341458101/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#341458101/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/341458101"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Unknown or unspecified psychoactive substance dependence",
+          "code": "6C4G.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2143971168",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2143971168",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": [
+            {
+              "title": "Unknown or unspecified psychoactive substance dependence, current use",
+              "code": "6C4G.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2026388610",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2026388610",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2143971168"
+              ],
+              "child": []
+            },
+            {
+              "title": "Unknown or unspecified psychoactive substance dependence, early full remission",
+              "code": "6C4G.21",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1490335276",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1490335276",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2143971168"
+              ],
+              "child": []
+            },
+            {
+              "title": "Unknown or unspecified psychoactive substance dependence, sustained partial remission",
+              "code": "6C4G.22",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1981674818",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1981674818",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2143971168"
+              ],
+              "child": []
+            },
+            {
+              "title": "Unknown or unspecified psychoactive substance dependence, sustained full remission",
+              "code": "6C4G.23",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1749085654",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1749085654",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2143971168"
+              ],
+              "child": []
+            },
+            {
+              "title": "Unknown or unspecified psychoactive substance dependence, substance and state of remission unspecified",
+              "code": "6C4G.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2143971168/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2143971168/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2143971168"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Intoxication due to unknown or unspecified psychoactive substance",
+          "code": "6C4G.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1870346724",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1870346724",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": []
+        },
+        {
+          "title": "Withdrawal due to unknown or unspecified psychoactive substance",
+          "code": "6C4G.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/219731531",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#219731531",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": [
+            {
+              "title": "Withdrawal due to unknown or unspecified psychoactive substance, uncomplicated",
+              "code": "6C4G.40",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1826184626",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1826184626",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/219731531"
+              ],
+              "child": []
+            },
+            {
+              "title": "Withdrawal due to unknown or unspecified psychoactive substance, with perceptual disturbances",
+              "code": "6C4G.41",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2024690232",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2024690232",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/219731531"
+              ],
+              "child": []
+            },
+            {
+              "title": "Withdrawal due to unknown or unspecified psychoactive substance, with seizures",
+              "code": "6C4G.42",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/927162941",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#927162941",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/219731531"
+              ],
+              "child": []
+            },
+            {
+              "title": "Withdrawal due to unknown or unspecified psychoactive, with perceptual disturbances and seizures",
+              "code": "6C4G.43",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1488115862",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1488115862",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/219731531"
+              ],
+              "child": []
+            },
+            {
+              "title": "Withdrawal due to unknown or unspecified psychoactive substance, unspecified",
+              "code": "6C4G.4Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/219731531/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#219731531/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/219731531"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Delirium induced by unknown or unspecified psychoactive substance",
+          "code": "6C4G.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/131545543",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#131545543",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": []
+        },
+        {
+          "title": "Psychotic disorder induced by unknown or unspecified psychoactive substance",
+          "code": "6C4G.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1155529213",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1155529213",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": []
+        },
+        {
+          "title": "Certain unknown or unspecified psychoactive substance-induced mental or behavioural disorders",
+          "code": "6C4G.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/595694101",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#595694101",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": [
+            {
+              "title": "Mood disorder induced by unknown or unspecified psychoactive substance",
+              "code": "6C4G.70",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1010613155",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1010613155",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/595694101"
+              ],
+              "child": []
+            },
+            {
+              "title": "Anxiety disorder induced by unknown or unspecified psychoactive substance",
+              "code": "6C4G.71",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/62314683",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#62314683",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/595694101"
+              ],
+              "child": []
+            },
+            {
+              "title": "Obsessive-compulsive or related disorder induced by unknown or unspecified psychoactive substance",
+              "code": "6C4G.72",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/118181509",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#118181509",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/595694101"
+              ],
+              "child": []
+            },
+            {
+              "title": "Impulse control disorder induced by unknown or unspecified psychoactive substance",
+              "code": "6C4G.73",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/396542224",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#396542224",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/595694101"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of unknown or unspecified psychoactive substances",
+          "code": "6C4G.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1414319298/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1414319298/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of unknown or unspecified psychoactive substances, unspecified",
+          "code": "6C4G.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1414319298/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1414319298/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1414319298"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Disorders due to use of non-psychoactive substances",
+      "code": "6C4H",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/247116319",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#247116319",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": [
+        {
+          "title": "Episode of harmful use of non-psychoactive substances",
+          "code": "6C4H.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1852395328",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1852395328",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/247116319"
+          ],
+          "child": []
+        },
+        {
+          "title": "Harmful pattern of use of non-psychoactive substances",
+          "code": "6C4H.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2055037621",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2055037621",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/247116319"
+          ],
+          "child": [
+            {
+              "title": "Harmful pattern of use of non-psychoactive substances, episodic",
+              "code": "6C4H.10",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/992393585",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#992393585",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2055037621"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of non-psychoactive substances, continuous",
+              "code": "6C4H.11",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1959496054",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1959496054",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2055037621"
+              ],
+              "child": []
+            },
+            {
+              "title": "Harmful pattern of use of non-psychoactive substances, unspecified",
+              "code": "6C4H.1Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2055037621/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2055037621/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/2055037621"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Other specified disorders due to use of non-psychoactive substances",
+          "code": "6C4H.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/247116319/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#247116319/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/247116319"
+          ],
+          "child": []
+        },
+        {
+          "title": "Disorders due to use of non-psychoactive substances, unspecified",
+          "code": "6C4H.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/247116319/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#247116319/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/247116319"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Other specified disorders due to substance use",
+      "code": "6C4Y",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/590211325/other",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#590211325/other",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": []
+    },
+    {
+      "title": "Disorders due to substance use, unspecified",
+      "code": "6C4Z",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/590211325/unspecified",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#590211325/unspecified",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/590211325"
+      ],
+      "child": []
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "title": "Armed conflict",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/2143219175",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2143219175",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/850137482"
+  ],
+  "child": [
+    {
+      "title": "Explosion of marine weapons during armed conflict",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1857281413",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1857281413",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": [
+        {
+          "title": "Explosion of depth-charge or marine mine during armed conflict",
+          "code": "PJ60",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/171818674",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#171818674",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1857281413"
+          ],
+          "child": []
+        },
+        {
+          "title": "Explosion of torpedo during armed conflict",
+          "code": "PJ61",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1417041489",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1417041489",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1857281413"
+          ],
+          "child": []
+        },
+        {
+          "title": "Explosion of sea-based artillery shell during armed conflict",
+          "code": "PJ62",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1787851801",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1787851801",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1857281413"
+          ],
+          "child": []
+        },
+        {
+          "title": "Explosion of other marine weapons during armed conflict",
+          "code": "PJ6Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1857281413/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1857281413/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1857281413"
+          ],
+          "child": []
+        },
+        {
+          "title": "Explosion of unspecified marine weapon",
+          "code": "PJ6Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1857281413/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1857281413/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1857281413"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Attack on or destruction of aircraft during armed conflict",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1462185542",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1462185542",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": [
+        {
+          "title": "Attack on or destruction of aircraft during armed conflict due to enemy fire or explosives",
+          "code": "PJ70",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/288303327",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#288303327",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1462185542"
+          ],
+          "child": []
+        },
+        {
+          "title": "Attack on or destruction of aircraft during armed conflict due to collision with other aircraft",
+          "code": "PJ71",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/510875869",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#510875869",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1462185542"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other destruction of aircraft during armed conflict",
+          "code": "PJ7Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1462185542/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1462185542/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1462185542"
+          ],
+          "child": []
+        },
+        {
+          "title": "Unspecified destruction of aircraft during armed conflict",
+          "code": "PJ7Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1462185542/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1462185542/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1462185542"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Other explosions or fragments during armed conflict",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/596278969",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#596278969",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": [
+        {
+          "title": "Explosion of missile during armed conflict",
+          "code": "PJ80",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/619252263",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#619252263",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/596278969"
+          ],
+          "child": []
+        },
+        {
+          "title": "Explosion of aerial bomb during armed conflict",
+          "code": "PJ81",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1440454584",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1440454584",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/596278969"
+          ],
+          "child": []
+        },
+        {
+          "title": "Explosion of munitions or weapons during armed conflict",
+          "code": "PJ82",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/70859509",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#70859509",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/596278969"
+          ],
+          "child": []
+        },
+        {
+          "title": "Explosion of improvised explosive device during armed conflict",
+          "code": "PJ83",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1581364920",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1581364920",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/596278969"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other explosion or fragments during armed conflict",
+          "code": "PJ8Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/596278969/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#596278969/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/596278969"
+          ],
+          "child": []
+        },
+        {
+          "title": "Unspecified explosion or fragments during armed conflict",
+          "code": "PJ8Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/596278969/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#596278969/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/596278969"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Fires, conflagrations or hot substances during armed conflict",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/440114554",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#440114554",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": [
+        {
+          "title": "Use of gasoline bomb during armed conflict",
+          "code": "PJ90",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/183567564",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#183567564",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/440114554"
+          ],
+          "child": []
+        },
+        {
+          "title": "Use of flamethrower during armed conflict",
+          "code": "PJ91",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/166717481",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#166717481",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/440114554"
+          ],
+          "child": []
+        },
+        {
+          "title": "Use of incendiary bullets during armed conflict",
+          "code": "PJ92",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/151654585",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#151654585",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/440114554"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified fires, conflagrations or hot substances during armed conflict",
+          "code": "PJ9Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/440114554/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#440114554/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/440114554"
+          ],
+          "child": []
+        },
+        {
+          "title": "Unspecified fire, conflagration or hot substance during armed conflict",
+          "code": "PJ9Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/440114554/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#440114554/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/440114554"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Firearm discharge or other forms of conventional warfare during armed conflict",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/592240375",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#592240375",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": [
+        {
+          "title": "Use of rubber bullets during armed conflict",
+          "code": "PK00",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/858708568",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#858708568",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/592240375"
+          ],
+          "child": []
+        },
+        {
+          "title": "Use of firearm pellets during armed conflict",
+          "code": "PK01",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1708683404",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1708683404",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/592240375"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other firearms discharge during armed conflict",
+          "code": "PK02",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1398529558",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1398529558",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/592240375"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other weapons use during armed conflict",
+          "code": "PK03",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1581385280",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1581385280",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/592240375"
+          ],
+          "child": []
+        },
+        {
+          "title": "Unarmed combat during armed conflict",
+          "code": "PK04",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1358362136",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1358362136",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/592240375"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other and unspecified forms of conventional weapons use during armed conflict",
+          "code": "PK0Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/592240375/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#592240375/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/592240375"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Use of nuclear weapons during armed conflict",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1348791597",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1348791597",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": [
+        {
+          "title": "Thermal or blast effects of nuclear weapon during armed conflict",
+          "code": "PK10",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1406479498",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1406479498",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1348791597"
+          ],
+          "child": []
+        },
+        {
+          "title": "Nuclear radiation effects of nuclear weapon during armed conflict",
+          "code": "PK11",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1665234800",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1665234800",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1348791597"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other and unspecified effect of nuclear weapon during armed conflict",
+          "code": "PK1Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1348791597/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1348791597/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1348791597"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Use of biological weapons during armed conflict",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/617201106",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#617201106",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": [
+        {
+          "title": "Use of weaponised micro-organisms during armed conflict",
+          "code": "PK20",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/185294458",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#185294458",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/617201106"
+          ],
+          "child": []
+        },
+        {
+          "title": "Use of other specified biological weapons during armed conflict",
+          "code": "PK2Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/617201106/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#617201106/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/617201106"
+          ],
+          "child": []
+        },
+        {
+          "title": "Use of unspecified biological weapons during armed conflict",
+          "code": "PK2Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/617201106/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#617201106/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/617201106"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Chemical weapons or other forms of unconventional warfare during armed conflict",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/340856240",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#340856240",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": [
+        {
+          "title": "Use of chemical weapons during armed conflict",
+          "code": "PK30",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/735801002",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#735801002",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/340856240"
+          ],
+          "child": []
+        },
+        {
+          "title": "Use of lasers or other energetic beams or fields during armed conflict",
+          "code": "PK31",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1423986103",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1423986103",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/340856240"
+          ],
+          "child": []
+        },
+        {
+          "title": "Use of electric weapons during armed conflict",
+          "code": "PK32",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/272487947",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#272487947",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/340856240"
+          ],
+          "child": []
+        },
+        {
+          "title": "Use of autonomous or semi-autonomous machines as weapons during armed conflict",
+          "code": "PK33",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1892832320",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1892832320",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/340856240"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other and unspecified forms of unconventional warfare during armed conflict",
+          "code": "PK3Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/340856240/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#340856240/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/340856240"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Injury event occurring after cessation of armed conflict",
+      "code": "",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1022059782",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1022059782",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": [
+        {
+          "title": "Explosion of mine after cessation of armed conflict",
+          "code": "PK40",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1440647483",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1440647483",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1022059782"
+          ],
+          "child": []
+        },
+        {
+          "title": "Explosion of bomb after cessation of armed conflict",
+          "code": "PK41",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1820207416",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1820207416",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1022059782"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other and unspecified event after cessation of armed conflict",
+          "code": "PK4Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1022059782/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1022059782/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1022059782"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Other specified weapon or attack during armed conflict",
+      "code": "PK6Y",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/2143219175/other",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2143219175/other",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unspecified weapon or attack during armed conflict",
+      "code": "PK6Z",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/2143219175/unspecified",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2143219175/unspecified",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/2143219175"
+      ],
+      "child": []
+    }
+  ]
+}

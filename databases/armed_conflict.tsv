@@ -1,0 +1,52 @@
+	Armed conflict
+    	Explosion of marine weapons during armed conflict
+        PJ60	Explosion of depth-charge or marine mine during armed conflict
+        PJ61	Explosion of torpedo during armed conflict
+        PJ62	Explosion of sea-based artillery shell during armed conflict
+        PJ6Y	Explosion of other marine weapons during armed conflict
+        PJ6Z	Explosion of unspecified marine weapon
+    	Attack on or destruction of aircraft during armed conflict
+        PJ70	Attack on or destruction of aircraft during armed conflict due to enemy fire or explosives
+        PJ71	Attack on or destruction of aircraft during armed conflict due to collision with other aircraft
+        PJ7Y	Other destruction of aircraft during armed conflict
+        PJ7Z	Unspecified destruction of aircraft during armed conflict
+    	Other explosions or fragments during armed conflict
+        PJ80	Explosion of missile during armed conflict
+        PJ81	Explosion of aerial bomb during armed conflict
+        PJ82	Explosion of munitions or weapons during armed conflict
+        PJ83	Explosion of improvised explosive device during armed conflict
+        PJ8Y	Other explosion or fragments during armed conflict
+        PJ8Z	Unspecified explosion or fragments during armed conflict
+    	Fires, conflagrations or hot substances during armed conflict
+        PJ90	Use of gasoline bomb during armed conflict
+        PJ91	Use of flamethrower during armed conflict
+        PJ92	Use of incendiary bullets during armed conflict
+        PJ9Y	Other specified fires, conflagrations or hot substances during armed conflict
+        PJ9Z	Unspecified fire, conflagration or hot substance during armed conflict
+    	Firearm discharge or other forms of conventional warfare during armed conflict
+        PK00	Use of rubber bullets during armed conflict
+        PK01	Use of firearm pellets during armed conflict
+        PK02	Other firearms discharge during armed conflict
+        PK03	Other weapons use during armed conflict
+        PK04	Unarmed combat during armed conflict
+        PK0Z	Other and unspecified forms of conventional weapons use during armed conflict
+    	Use of nuclear weapons during armed conflict
+        PK10	Thermal or blast effects of nuclear weapon during armed conflict
+        PK11	Nuclear radiation effects of nuclear weapon during armed conflict
+        PK1Z	Other and unspecified effect of nuclear weapon during armed conflict
+    	Use of biological weapons during armed conflict
+        PK20	Use of weaponised micro-organisms during armed conflict
+        PK2Y	Use of other specified biological weapons during armed conflict
+        PK2Z	Use of unspecified biological weapons during armed conflict
+    	Chemical weapons or other forms of unconventional warfare during armed conflict
+        PK30	Use of chemical weapons during armed conflict
+        PK31	Use of lasers or other energetic beams or fields during armed conflict
+        PK32	Use of electric weapons during armed conflict
+        PK33	Use of autonomous or semi-autonomous machines as weapons during armed conflict
+        PK3Z	Other and unspecified forms of unconventional warfare during armed conflict
+    	Injury event occurring after cessation of armed conflict
+        PK40	Explosion of mine after cessation of armed conflict
+        PK41	Explosion of bomb after cessation of armed conflict
+        PK4Z	Other and unspecified event after cessation of armed conflict
+    PK6Y	Other specified weapon or attack during armed conflict
+    PK6Z	Unspecified weapon or attack during armed conflict

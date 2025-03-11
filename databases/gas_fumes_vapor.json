@@ -1,0 +1,826 @@
+{
+  "title": "Gas, fumes or vapour",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1805108872",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1805108872",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/332114775"
+  ],
+  "child": [
+    {
+      "title": "Bromine vapor",
+      "code": "XM3GS6",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/847503986",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#847503986",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Carbon dioxide",
+      "code": "XM8XZ6",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1897677356",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1897677356",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Carbon monoxide",
+      "code": "XM1X11",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/546694511",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#546694511",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": [
+        {
+          "title": "Blast furnace gas",
+          "code": "XM8MR4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1411229074",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1411229074",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/546694511"
+          ],
+          "child": []
+        },
+        {
+          "title": "Carbon monoxide from engine exhaust gas",
+          "code": "XM7SP6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1439078796",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1439078796",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/546694511"
+          ],
+          "child": [
+            {
+              "title": "Carbon monoxide from engine driven electrical generator",
+              "code": "XM7R97",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1272961117",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1272961117",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1439078796"
+              ],
+              "child": []
+            },
+            {
+              "title": "Carbon monoxide from motor vehicle exhaust",
+              "code": "XM2LM9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1047481739",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1047481739",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1439078796"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Carbon monoxide from incomplete combustion of charcoal",
+          "code": "XM4QD5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/823820135",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#823820135",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/546694511"
+          ],
+          "child": []
+        },
+        {
+          "title": "Carbon monoxide from incomplete combustion of coal",
+          "code": "XM2EK4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/10894474",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#10894474",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/546694511"
+          ],
+          "child": []
+        },
+        {
+          "title": "Carbon monoxide from incomplete combustion of coke",
+          "code": "XM7NG7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1418038167",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1418038167",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/546694511"
+          ],
+          "child": []
+        },
+        {
+          "title": "Carbon monoxide from incomplete combustion of fuel gas",
+          "code": "XM9675",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/365980155",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#365980155",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/546694511"
+          ],
+          "child": [
+            {
+              "title": "Carbon monoxide from incomplete combustion of acetylene",
+              "code": "XM1MB6",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1598766816",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1598766816",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/365980155"
+              ],
+              "child": []
+            },
+            {
+              "title": "Carbon monoxide from incomplete combustion of coal gas",
+              "code": "XM5TT8",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/242480458",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#242480458",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/365980155"
+              ],
+              "child": []
+            },
+            {
+              "title": "Carbon monoxide from incomplete combustion of producer gas",
+              "code": "XM1JF3",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/527731833",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#527731833",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/365980155"
+              ],
+              "child": []
+            },
+            {
+              "title": "Carbon monoxide from incomplete combustion of utility gas",
+              "code": "XM3ES0",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1170258500",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1170258500",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/365980155"
+              ],
+              "child": [
+                {
+                  "title": "Carbon monoxide from incomplete combustion of liquefied petroleum gas",
+                  "code": "XM5XY1",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/1911514661",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1911514661",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1170258500"
+                  ],
+                  "child": [
+                    {
+                      "title": "Carbon monoxide from incomplete combustion of butane",
+                      "code": "XM45F2",
+                      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1168879692",
+                      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1168879692",
+                      "gphin": false,
+                      "parent": [
+                        "http://id.who.int/icd/release/11/2024-01/mms/1911514661"
+                      ],
+                      "child": []
+                    },
+                    {
+                      "title": "Carbon monoxide from incomplete combustion of propane",
+                      "code": "XM3UB7",
+                      "uri": "http://id.who.int/icd/release/11/2024-01/mms/733526317",
+                      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#733526317",
+                      "gphin": false,
+                      "parent": [
+                        "http://id.who.int/icd/release/11/2024-01/mms/1911514661"
+                      ],
+                      "child": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Carbon monoxide from incomplete combustion of utility natural gas",
+                  "code": "XM6708",
+                  "uri": "http://id.who.int/icd/release/11/2024-01/mms/2140868148",
+                  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2140868148",
+                  "gphin": false,
+                  "parent": [
+                    "http://id.who.int/icd/release/11/2024-01/mms/1170258500"
+                  ],
+                  "child": []
+                }
+              ]
+            },
+            {
+              "title": "Carbon monoxide from incomplete combustion of water gas",
+              "code": "XM9ZV7",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/364602357",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#364602357",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/365980155"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Carbon monoxide from incomplete combustion of wood",
+          "code": "XM8WR8",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/28424938",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#28424938",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/546694511"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Chlorine",
+      "code": "XM0GT6",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1967402116",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1967402116",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Cyanic acid",
+      "code": "XM3KE4",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/157835284",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#157835284",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Diazomethane",
+      "code": "XM8Z33",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1494464933",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1494464933",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Diborane",
+      "code": "XM70H1",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1238966291",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1238966291",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Dichloroethyl sulfide",
+      "code": "XM6UG7",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/2094982247",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2094982247",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Ethidium chloride",
+      "code": "XM0YQ4",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/859034724",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#859034724",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Ethylene",
+      "code": "XM1947",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1991687067",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1991687067",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Ferrovanadium",
+      "code": "XM5EU1",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/2031039241",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2031039241",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Fluorine",
+      "code": "XM9SB2",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/2143914992",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2143914992",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Formaldehyde",
+      "code": "XM0TV9",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/340335879",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#340335879",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Helium",
+      "code": "XM0JJ6",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/414547906",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#414547906",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Hydrocarbon gas",
+      "code": "XM5LN6",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/679908426",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#679908426",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": [
+        {
+          "title": "Acetylene",
+          "code": "XM3FZ1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1653813711",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1653813711",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/679908426"
+          ],
+          "child": []
+        },
+        {
+          "title": "Coal gas",
+          "code": "XM8GS7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/999806987",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#999806987",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/679908426"
+          ],
+          "child": []
+        },
+        {
+          "title": "Liquefied petroleum gas",
+          "code": "XM53K7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1574299817",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1574299817",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/679908426"
+          ],
+          "child": [
+            {
+              "title": "Propane",
+              "code": "XM76Q9",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/2096604809",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2096604809",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1574299817"
+              ],
+              "child": []
+            },
+            {
+              "title": "Butane",
+              "code": "XM4653",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1107380733",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1107380733",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/1574299817"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Natural gas",
+          "code": "XM6BD0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/906492830",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#906492830",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/679908426"
+          ],
+          "child": [
+            {
+              "title": "Methane",
+              "code": "XM56Q2",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1033755282",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1033755282",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/906492830"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Producer gas",
+          "code": "XM6993",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/73825313",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#73825313",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/679908426"
+          ],
+          "child": []
+        },
+        {
+          "title": "Water gas",
+          "code": "XM4X82",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2051725662",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2051725662",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/679908426"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Hydrogen",
+      "code": "XM8ZY7",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1469380027",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1469380027",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Hydrogen sulfide",
+      "code": "XM7FL0",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1268911820",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1268911820",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Iodine vapor",
+      "code": "XM74J0",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/35109260",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#35109260",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Lacrimogenic gas",
+      "code": "XM2JX3",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/2123139152",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2123139152",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": [
+        {
+          "title": "Bromobenzylcyanide",
+          "code": "XM9FN5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/468751765",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#468751765",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2123139152"
+          ],
+          "child": []
+        },
+        {
+          "title": "Chloroacetone",
+          "code": "XM2N89",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/787960289",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#787960289",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2123139152"
+          ],
+          "child": []
+        },
+        {
+          "title": "Chloroacetophenone",
+          "code": "XM7J14",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1366016654",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1366016654",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2123139152"
+          ],
+          "child": []
+        },
+        {
+          "title": "Ethyl iodoacetate",
+          "code": "XM41V6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1684801276",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1684801276",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2123139152"
+          ],
+          "child": []
+        },
+        {
+          "title": "Mace lacrimogenic gas",
+          "code": "XM3RL0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1261239380",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1261239380",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2123139152"
+          ],
+          "child": []
+        },
+        {
+          "title": "Methyl chloroformate",
+          "code": "XM6RK9",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/456929259",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#456929259",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2123139152"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Methyl chloride",
+      "code": "XM29D2",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/668656712",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#668656712",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Methyl mercaptan",
+      "code": "XM4FU5",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1549554025",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1549554025",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Mustard gas",
+      "code": "XM16X6",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/151218716",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#151218716",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Nitrogen oxide",
+      "code": "XM69M3",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1005330233",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1005330233",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": [
+        {
+          "title": "Nitrogen dioxide",
+          "code": "XM05F4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1586496254",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1586496254",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1005330233"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Nonchlorofluorocarbon refrigerant gas",
+      "code": "XM1418",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/155263738",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#155263738",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Ozone",
+      "code": "XM54H2",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/840818132",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#840818132",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Phosgene",
+      "code": "XM91W5",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1725665885",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1725665885",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Polyester fumes",
+      "code": "XM3D40",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/919290340",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#919290340",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Polytetrafluoroethylene",
+      "code": "XM1663",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1179249263",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1179249263",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Propylene",
+      "code": "XM8242",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/311404002",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#311404002",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Sulfur oxides",
+      "code": "XM2598",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/277696118",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#277696118",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": [
+        {
+          "title": "Sulfur dioxide",
+          "code": "XM0Z74",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1346751294",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1346751294",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/277696118"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Aerosol spray, not elsewhere classified",
+      "code": "XM3NH9",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1017669139",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1017669139",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Firedamp, not elsewhere classified",
+      "code": "XM1D37",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1827767617",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1827767617",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Nerve gas, not elsewhere classified",
+      "code": "XM61G0",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/486399060",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#486399060",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Oil fumes, not elsewhere classified",
+      "code": "XM60X6",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/203294476",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#203294476",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Sewer gas, not elsewhere classified",
+      "code": "XM1EM9",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1501082539",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1501082539",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Smog, not elsewhere classified",
+      "code": "XM6QK6",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1644140916",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1644140916",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Smoke, not elsewhere classified",
+      "code": "XM9N00",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/319167520",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#319167520",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    },
+    {
+      "title": "Sternutator gas, not elsewhere classified",
+      "code": "XM0G86",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/637655126",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#637655126",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/1805108872"
+      ],
+      "child": []
+    }
+  ]
+}

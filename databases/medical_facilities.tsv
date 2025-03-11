@@ -1,0 +1,13 @@
+	Factors related to medical facilities and other health care
+    QB10	Medical services not available in home
+    QB11	Person awaiting admission to adequate facility elsewhere
+    QB12	Waiting period for investigation or treatment other than awaiting admission to adequate facility elsewhere
+        QB12.0	Organ transplant candidate
+        QB12.Y	Other specified waiting period for investigation or treatment other than awaiting admission to adequate facility elsewhere
+        QB12.Z	Waiting period for investigation or treatment other than awaiting admission to adequate facility elsewhere, unspecified
+    QB13	Unavailability or inaccessibility of helping agencies other than health care facilities
+    QB14	Unavailability or inaccessibility of health care facilities
+    QB15	Medical services not available in current medical facility
+    QB16	Respite care
+    QB1Y	Other specified factors related to medical facilities and other health care
+    QB1Z	Factors related to medical facilities and other health care, unspecified

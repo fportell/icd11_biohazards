@@ -5,8 +5,11 @@ import time
 
 
 # Your ICD API credentials
-client_id = ${{ secrets.ICD_CLIENT_ID }}
-client_secret = ${{ secrets.ICD_CLIENT_API_KEY }}
+#client_id = ${{ secrets.ICD_CLIENT_ID }}
+#client_secret = ${{ secrets.ICD_CLIENT_API_KEY }}
+client_id = '790fde83-5c52-448b-b681-627a309a8946_d27186e1-3bbc-4c31-a2e3-b367eb5e222a'
+client_secret = 'pGTKUx0EHuSib8nHrJd/YGpWOZt2F913mtgI3EReS2Y='
+
 token_endpoint = 'https://icdaccessmanagement.who.int/connect/token'
 scope = 'icdapi_access'
 grant_type = 'client_credentials'
@@ -114,7 +117,25 @@ def save_json_to_file(hierarchy, filename):
 # top_level_uri = 'http://id.who.int/icd/release/11/2024-01/mms/71556738'
 
 # Top level for Finding of microorganism resistant to antimicrobial drugs (1882742628)
-top_level_uri = 'http://id.who.int/icd/release/11/2024-01/mms/1882742628'
+# top_level_uri = 'http://id.who.int/icd/release/11/2024-01/mms/1882742628'
+
+# Top level for Disorders due to substance use
+#top_level_uri = 'http://id.who.int/icd/release/11/2024-01/mms/590211325'
+
+# Top level for other external causes
+# top_level_uri = 'http://id.who.int/icd/release/11/2024-01/mms/609351978'
+
+# Top level for armed comflict
+#top_level_uri = 'http://id.who.int/icd/release/11/2024-01/mms/2143219175'
+
+# Top level for extreme forces of nature
+# top_level_uri = 'http://id.who.int/icd/release/11/2024-01/mms/1491356379'
+
+# Top level for medical facilities
+# top_level_uri = 'http://id.who.int/icd/release/11/2024-01/mms/343867322'
+
+# Top level for Gas, fumes or vapour
+top_level_uri = 'http://id.who.int/icd/release/11/2024-01/mms/1805108872'
 
 
 
@@ -128,5 +149,6 @@ full_hierarchy = build_hierarchy(top_level_uri)
 print_hierarchy(full_hierarchy)
 
 # Save the hierarchy to a JSON file
-save_json_to_file(full_hierarchy, 'antimicrobial_resistance.json')
-print("\nHierarchy saved to 'antimicrobial_resistance.json'")
+save_json_to_file(full_hierarchy, 'gas_fumes_vapor.json')
+print("\nHierarchy saved to 'disorders_due_to_substance_use.json'")
+

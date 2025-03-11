@@ -1,0 +1,145 @@
+{
+  "title": "Factors related to medical facilities and other health care",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/343867322",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#343867322",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/1206995198"
+  ],
+  "child": [
+    {
+      "title": "Medical services not available in home",
+      "code": "QB10",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/540187578",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#540187578",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/343867322"
+      ],
+      "child": []
+    },
+    {
+      "title": "Person awaiting admission to adequate facility elsewhere",
+      "code": "QB11",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1165579820",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1165579820",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/343867322"
+      ],
+      "child": []
+    },
+    {
+      "title": "Waiting period for investigation or treatment other than awaiting admission to adequate facility elsewhere",
+      "code": "QB12",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/835978963",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#835978963",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/343867322"
+      ],
+      "child": [
+        {
+          "title": "Organ transplant candidate",
+          "code": "QB12.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/380574348",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#380574348",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/835978963"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified waiting period for investigation or treatment other than awaiting admission to adequate facility elsewhere",
+          "code": "QB12.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/835978963/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#835978963/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/835978963"
+          ],
+          "child": []
+        },
+        {
+          "title": "Waiting period for investigation or treatment other than awaiting admission to adequate facility elsewhere, unspecified",
+          "code": "QB12.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/835978963/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#835978963/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/835978963"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Unavailability or inaccessibility of helping agencies other than health care facilities",
+      "code": "QB13",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/661739731",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#661739731",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/343867322"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unavailability or inaccessibility of health care facilities",
+      "code": "QB14",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1419758407",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1419758407",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/343867322"
+      ],
+      "child": []
+    },
+    {
+      "title": "Medical services not available in current medical facility",
+      "code": "QB15",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/197219552",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#197219552",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/343867322"
+      ],
+      "child": []
+    },
+    {
+      "title": "Respite care",
+      "code": "QB16",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1111135559",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1111135559",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/343867322"
+      ],
+      "child": []
+    },
+    {
+      "title": "Other specified factors related to medical facilities and other health care",
+      "code": "QB1Y",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/343867322/other",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#343867322/other",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/343867322"
+      ],
+      "child": []
+    },
+    {
+      "title": "Factors related to medical facilities and other health care, unspecified",
+      "code": "QB1Z",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/343867322/unspecified",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#343867322/unspecified",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/343867322"
+      ],
+      "child": []
+    }
+  ]
+}

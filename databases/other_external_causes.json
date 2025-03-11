@@ -1,0 +1,658 @@
+{
+  "title": "Other or unspecified effects of external causes",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/609351978",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#609351978",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/435227771"
+  ],
+  "child": [
+    {
+      "title": "Effects of radiation, not elsewhere classified",
+      "code": "NF00",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1820454",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1820454",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": []
+    },
+    {
+      "title": "Effects of heat",
+      "code": "NF01",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1699744436",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1699744436",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": [
+        {
+          "title": "Heat stroke",
+          "code": "NF01.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/965393145",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#965393145",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1699744436"
+          ],
+          "child": []
+        },
+        {
+          "title": "Heat syncope",
+          "code": "NF01.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1556182893",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1556182893",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1699744436"
+          ],
+          "child": []
+        },
+        {
+          "title": "Heat exhaustion due to fluid depletion",
+          "code": "NF01.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1294461448",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1294461448",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1699744436"
+          ],
+          "child": []
+        },
+        {
+          "title": "Heat fatigue, transient",
+          "code": "NF01.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/791667961",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#791667961",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1699744436"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified effects of heat",
+          "code": "NF01.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1699744436/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1699744436/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1699744436"
+          ],
+          "child": []
+        },
+        {
+          "title": "Effects of heat, unspecified",
+          "code": "NF01.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1699744436/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1699744436/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1699744436"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Hypothermia",
+      "code": "NF02",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/406396914",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#406396914",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": []
+    },
+    {
+      "title": "Other effects of reduced temperature",
+      "code": "NF03",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/2104676964",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2104676964",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": [
+        {
+          "title": "Chilblains",
+          "code": "NF03.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/247295056",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#247295056",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2104676964"
+          ],
+          "child": []
+        },
+        {
+          "title": "Immersion hand or foot",
+          "code": "NF03.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1811325382",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1811325382",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2104676964"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified effects of reduced temperature",
+          "code": "NF03.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2104676964/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2104676964/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2104676964"
+          ],
+          "child": []
+        },
+        {
+          "title": "Unspecified effects of reduced temperature",
+          "code": "NF03.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2104676964/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2104676964/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/2104676964"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Effects of air pressure or water pressure",
+      "code": "NF04",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1098633535",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1098633535",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": [
+        {
+          "title": "Otitic barotrauma",
+          "code": "NF04.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/317319304",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#317319304",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1098633535"
+          ],
+          "child": []
+        },
+        {
+          "title": "Sinus barotrauma",
+          "code": "NF04.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2007115038",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2007115038",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1098633535"
+          ],
+          "child": []
+        },
+        {
+          "title": "Caisson disease",
+          "code": "NF04.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1715779703",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1715779703",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1098633535"
+          ],
+          "child": []
+        },
+        {
+          "title": "Effects of high-pressure fluids",
+          "code": "NF04.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/363473891",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#363473891",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1098633535"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified effects of air pressure or water pressure",
+          "code": "NF04.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1098633535/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1098633535/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1098633535"
+          ],
+          "child": []
+        },
+        {
+          "title": "Effects of air pressure or water pressure, unspecified",
+          "code": "NF04.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1098633535/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1098633535/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1098633535"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Asphyxiation",
+      "code": "NF05",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/607132843",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#607132843",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": []
+    },
+    {
+      "title": "Effects of strenuous physical exercise",
+      "code": "NF06",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/321220961",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#321220961",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": [
+        {
+          "title": "Exertional heat stroke",
+          "code": "NF06.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/833004294",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#833004294",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/321220961"
+          ],
+          "child": []
+        },
+        {
+          "title": "Post exercise postural hypotension",
+          "code": "NF06.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/104170108",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#104170108",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/321220961"
+          ],
+          "child": []
+        },
+        {
+          "title": "Post exertional dehydration",
+          "code": "NF06.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/971534089",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#971534089",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/321220961"
+          ],
+          "child": []
+        },
+        {
+          "title": "Exercise muscle cramp",
+          "code": "NF06.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/22397407",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#22397407",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/321220961"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified effects of strenuous physical exercise",
+          "code": "NF06.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/321220961/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#321220961/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/321220961"
+          ],
+          "child": []
+        },
+        {
+          "title": "Effects of strenuous physical exercise, unspecified",
+          "code": "NF06.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/321220961/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#321220961/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/321220961"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Effects of other deprivation",
+      "code": "NF07",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/903250370",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#903250370",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": [
+        {
+          "title": "Effects of hunger",
+          "code": "NF07.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/325994680",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#325994680",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/903250370"
+          ],
+          "child": []
+        },
+        {
+          "title": "Effects of thirst",
+          "code": "NF07.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1982170402",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1982170402",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/903250370"
+          ],
+          "child": []
+        },
+        {
+          "title": "Exhaustion due to exposure",
+          "code": "NF07.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/42522077",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#42522077",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/903250370"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified effects of deprivation",
+          "code": "NF07.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/903250370/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#903250370/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/903250370"
+          ],
+          "child": []
+        },
+        {
+          "title": "Effects of other deprivation, unspecified",
+          "code": "NF07.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/903250370/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#903250370/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/903250370"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Effects of certain specified external causes",
+      "code": "NF08",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/594796480",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#594796480",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": [
+        {
+          "title": "Effects of lightning",
+          "code": "NF08.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/888140151",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#888140151",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/594796480"
+          ],
+          "child": []
+        },
+        {
+          "title": "Drowning or nonfatal submersion",
+          "code": "NF08.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1369717987",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1369717987",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/594796480"
+          ],
+          "child": []
+        },
+        {
+          "title": "Effects of vibration",
+          "code": "NF08.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/621374492",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#621374492",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/594796480"
+          ],
+          "child": [
+            {
+              "title": "Hand and arm vibration syndrome",
+              "code": "NF08.20",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/1598961655",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1598961655",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/621374492"
+              ],
+              "child": []
+            },
+            {
+              "title": "Other specified effects of vibration",
+              "code": "NF08.2Y",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/621374492/other",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#621374492/other",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/621374492"
+              ],
+              "child": []
+            },
+            {
+              "title": "Effects of vibration, unspecified",
+              "code": "NF08.2Z",
+              "uri": "http://id.who.int/icd/release/11/2024-01/mms/621374492/unspecified",
+              "icdurl": "https://icd.who.int/browse/2024-01/mms/en#621374492/unspecified",
+              "gphin": false,
+              "parent": [
+                "http://id.who.int/icd/release/11/2024-01/mms/621374492"
+              ],
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": "Motion sickness",
+          "code": "NF08.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1078108554",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1078108554",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/594796480"
+          ],
+          "child": []
+        },
+        {
+          "title": "Effects of electric current",
+          "code": "NF08.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/866923038",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#866923038",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/594796480"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Adverse effects, not elsewhere classified",
+      "code": "NF09",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1341937641",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1341937641",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": []
+    },
+    {
+      "title": "Certain early complications of trauma, not elsewhere classified",
+      "code": "NF0A",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/716675709",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#716675709",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": [
+        {
+          "title": "Air embolism, traumatic, not elsewhere classified",
+          "code": "NF0A.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2079097589",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2079097589",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        },
+        {
+          "title": "Fat embolism, traumatic, not elsewhere classified",
+          "code": "NF0A.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/514281313",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#514281313",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        },
+        {
+          "title": "Traumatic secondary or recurrent haemorrhage, not elsewhere classified",
+          "code": "NF0A.2",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1779048350",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1779048350",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        },
+        {
+          "title": "Post traumatic wound infection, not elsewhere classified",
+          "code": "NF0A.3",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/255971852",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#255971852",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        },
+        {
+          "title": "Traumatic shock, not elsewhere classified",
+          "code": "NF0A.4",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/2091860384",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2091860384",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        },
+        {
+          "title": "Traumatic anuria, not elsewhere classified",
+          "code": "NF0A.5",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/434408458",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#434408458",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        },
+        {
+          "title": "Traumatic ischaemia of muscle, not elsewhere classified",
+          "code": "NF0A.6",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1833557237",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1833557237",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        },
+        {
+          "title": "Traumatic subcutaneous emphysema, not elsewhere classified",
+          "code": "NF0A.7",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/134353249",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#134353249",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other early complication of trauma, not elsewhere classified",
+          "code": "NF0A.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/716675709/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#716675709/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        },
+        {
+          "title": "Early complications of trauma, not elsewhere classified",
+          "code": "NF0A.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/716675709/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#716675709/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/716675709"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Other specified effects of external causes",
+      "code": "NF0Y",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/609351978/other",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#609351978/other",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unspecified effects of external causes",
+      "code": "NF0Z",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/609351978/unspecified",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#609351978/unspecified",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/609351978"
+      ],
+      "child": []
+    }
+  ]
+}

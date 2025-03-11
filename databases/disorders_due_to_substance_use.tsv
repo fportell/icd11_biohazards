@@ -1,0 +1,411 @@
+	Disorders due to substance use
+    6C40	Disorders due to use of alcohol
+        6C40.0	Episode of harmful use of alcohol
+        6C40.1	Harmful pattern of use of alcohol
+            6C40.10	Harmful pattern of use of alcohol, episodic
+            6C40.11	Harmful pattern of use of alcohol, continuous
+            6C40.1Z	Harmful pattern of use of alcohol, unspecified
+        6C40.2	Alcohol dependence
+            6C40.20	Alcohol dependence, current use, continuous
+            6C40.21	Alcohol dependence, current use, episodic
+            6C40.22	Alcohol dependence, early full remission
+            6C40.23	Alcohol dependence, sustained partial remission
+            6C40.24	Alcohol dependence, sustained full remission
+            6C40.2Z	Alcohol dependence, unspecified
+        6C40.3	Alcohol intoxication
+        6C40.4	Alcohol withdrawal
+            6C40.40	Alcohol withdrawal, uncomplicated
+            6C40.41	Alcohol withdrawal with perceptual disturbances
+            6C40.42	Alcohol withdrawal with seizures
+            6C40.43	Alcohol withdrawal with perceptual disturbances and seizures
+            6C40.4Z	Alcohol withdrawal, unspecified
+        6C40.5	Alcohol-induced delirium
+        6C40.6	Alcohol-induced psychotic disorder
+            6C40.60	Alcohol-induced psychotic disorder with hallucinations
+            6C40.61	Alcohol-induced psychotic disorder with delusions
+            6C40.62	Alcohol-induced psychotic disorder with mixed psychotic symptoms
+            6C40.6Z	Alcohol-induced psychotic disorder, unspecified
+        6C40.7	Certain specified alcohol-induced mental or behavioural disorders
+            6C40.70	Alcohol-induced mood disorder
+            6C40.71	Alcohol-induced anxiety disorder
+        6C40.Y	Other specified disorders due to use of alcohol
+        6C40.Z	Disorders due to use of alcohol, unspecified
+    6C41	Disorders due to use of cannabis
+        6C41.0	Episode of harmful use of cannabis
+        6C41.1	Harmful pattern of use of cannabis
+            6C41.10	Harmful pattern of use of cannabis, episodic
+            6C41.11	Harmful pattern of use of cannabis, continuous
+            6C41.1Z	Harmful pattern of use of cannabis, unspecified
+        6C41.2	Cannabis dependence
+            6C41.20	Cannabis dependence, current use
+            6C41.21	Cannabis dependence, early full remission
+            6C41.22	Cannabis dependence, sustained partial remission
+            6C41.23	Cannabis dependence, sustained full remission
+            6C41.2Z	Cannabis dependence, unspecified
+        6C41.3	Cannabis intoxication
+        6C41.4	Cannabis withdrawal
+        6C41.5	Cannabis-induced delirium
+        6C41.6	Cannabis-induced psychotic disorder
+        6C41.7	Certain specified cannabis-induced mental or behavioural disorders
+            6C41.70	Cannabis-induced mood disorder
+            6C41.71	Cannabis-induced anxiety disorder
+        6C41.Y	Other specified disorders due to use of cannabis
+        6C41.Z	Disorders due to use of cannabis, unspecified
+    6C42	Disorders due to use of synthetic cannabinoids
+        6C42.0	Episode of harmful use of synthetic cannabinoids
+        6C42.1	Harmful pattern of use of synthetic cannabinoids
+            6C42.10	Harmful pattern of use of synthetic cannabinoids, episodic
+            6C42.11	Harmful pattern of use of synthetic cannabinoids, continuous
+            6C42.1Y	Other specified harmful pattern of use of synthetic cannabinoids
+            6C42.1Z	Harmful pattern of use of synthetic cannabinoids, unspecified
+        6C42.2	Synthetic cannabinoid dependence
+            6C42.20	Synthetic cannabinoid dependence, current use
+            6C42.21	Synthetic cannabinoid dependence, early full remission
+            6C42.22	Synthetic cannabinoid dependence, sustained partial remission
+            6C42.23	Synthetic cannabinoid dependence, sustained full remission
+            6C42.2Y	Other specified synthetic cannabinoid dependence
+            6C42.2Z	Synthetic cannabinoid dependence, unspecified
+        6C42.3	Synthetic cannabinoid intoxication
+        6C42.4	Synthetic cannabinoid withdrawal
+        6C42.5	Synthetic cannabinoid-induced delirium
+        6C42.6	Synthetic cannabinoid-induced psychotic disorder
+        6C42.7	Certain specified synthetic cannabinoids-induced mental or behavioural disorders
+            6C42.70	Synthetic cannabinoid-induced mood disorder
+            6C42.71	Synthetic cannabinoid-induced anxiety disorder
+        6C42.Y	Other specified disorders due to use of synthetic cannabinoids
+        6C42.Z	Disorders due to use of synthetic cannabinoids, unspecified
+    6C43	Disorders due to use of opioids
+        6C43.0	Episode of harmful use of opioids
+        6C43.1	Harmful pattern of use of opioids
+            6C43.10	Harmful pattern of use of opioids, episodic
+            6C43.11	Harmful pattern of use of opioids, continuous
+            6C43.1Z	Harmful pattern of use of opioids, unspecified
+        6C43.2	Opioid dependence
+            6C43.20	Opioid dependence, current use
+            6C43.21	Opioid dependence, early full remission
+            6C43.22	Opioid dependence, sustained partial remission
+            6C43.23	Opioid dependence, sustained full remission
+            6C43.2Z	Opioid dependence, unspecified
+        6C43.3	Opioid intoxication
+        6C43.4	Opioid withdrawal
+        6C43.5	Opioid-induced delirium
+        6C43.6	Opioid-induced psychotic disorder
+        6C43.7	Certain specified opioid-induced mental or behavioural disorders
+            6C43.70	Opioid-induced mood disorder
+            6C43.71	Opioid-induced anxiety disorder
+        6C43.Y	Other specified disorders due to use of opioids
+        6C43.Z	Disorders due to use of opioids, unspecified
+    6C44	Disorders due to use of sedatives, hypnotics or anxiolytics
+        6C44.0	Episode of harmful use of sedatives, hypnotics or anxiolytics
+        6C44.1	Harmful pattern of use of sedatives, hypnotics or anxiolytics
+            6C44.10	Harmful pattern of use of sedatives, hypnotics or anxiolytics, episodic
+            6C44.11	Harmful pattern of use of sedatives, hypnotics or anxiolytics, continuous
+            6C44.1Z	Harmful pattern of use of sedatives, hypnotics or anxiolytics, unspecified
+        6C44.2	Sedative, hypnotic or anxiolytic dependence
+            6C44.20	Sedative, hypnotic or anxiolytic dependence, current use
+            6C44.21	Sedative, hypnotic or anxiolytic dependence, early full remission
+            6C44.22	Sedative, hypnotic or anxiolytic dependence, sustained partial remission
+            6C44.23	Sedative, hypnotic or anxiolytic dependence, sustained full remission
+            6C44.2Z	Sedative, hypnotic or anxiolytic dependence, unspecified
+        6C44.3	Sedative, hypnotic or anxiolytic intoxication
+        6C44.4	Sedative, hypnotic or anxiolytic withdrawal
+            6C44.40	Sedative, hypnotic or anxiolytic withdrawal, uncomplicated
+            6C44.41	Sedative, hypnotic or anxiolytic withdrawal, with perceptual disturbances
+            6C44.42	Sedative, hypnotic or anxiolytic withdrawal, with seizures
+            6C44.43	Sedative, hypnotic or anxiolytic withdrawal, with perceptual disturbances and seizures
+            6C44.4Z	Sedative, hypnotic or anxiolytic withdrawal, unspecified
+        6C44.5	Sedative, hypnotic or anxiolytic-induced delirium
+        6C44.6	Sedative, hypnotic or anxiolytic-induced psychotic disorder
+        6C44.7	Certain specified sedatives, hypnotics or anxiolytic-induced mental or behavioural disorders
+            6C44.70	Sedative, hypnotic or anxiolytic-induced mood disorder
+            6C44.71	Sedative, hypnotic or anxiolytic-induced anxiety disorder
+        6C44.Y	Other specified disorders due to use of sedatives, hypnotics or anxiolytics
+        6C44.Z	Disorders due to use of sedatives, hypnotics or anxiolytics, unspecified
+    6C45	Disorders due to use of cocaine
+        6C45.0	Episode of harmful use of cocaine
+        6C45.1	Harmful pattern of use of cocaine
+            6C45.10	Harmful pattern of use of cocaine, episodic
+            6C45.11	Harmful pattern of use of cocaine, continuous
+            6C45.1Z	Harmful pattern of use of cocaine, unspecified
+        6C45.2	Cocaine dependence
+            6C45.20	Cocaine dependence, current use
+            6C45.21	Cocaine dependence, early full remission
+            6C45.22	Cocaine dependence, sustained partial remission
+            6C45.23	Cocaine dependence, sustained full remission
+            6C45.2Z	Cocaine dependence, unspecified
+        6C45.3	Cocaine intoxication
+        6C45.4	Cocaine withdrawal
+        6C45.5	Cocaine-induced delirium
+        6C45.6	Cocaine-induced psychotic disorder
+            6C45.60	Cocaine-induced psychotic disorder with hallucinations
+            6C45.61	Cocaine-induced psychotic disorder with delusions
+            6C45.62	Cocaine-induced psychotic disorder with mixed psychotic symptoms
+            6C45.6Z	Cocaine-induced psychotic disorder, unspecified
+        6C45.7	Certain specified cocaine-induced mental or behavioural disorders
+            6C45.70	Cocaine-induced mood disorder
+            6C45.71	Cocaine-induced anxiety disorder
+            6C45.72	Cocaine-induced obsessive-compulsive or related disorder
+            6C45.73	Cocaine-induced impulse control disorder
+        6C45.Y	Other specified disorders due to use of cocaine
+        6C45.Z	Disorders due to use of cocaine, unspecified
+    6C46	Disorders due to use of stimulants including amphetamines, methamphetamine or methcathinone
+        6C46.0	Episode of harmful use of stimulants including amphetamines, methamphetamine or methcathinone
+        6C46.1	Harmful pattern of use of stimulants including amphetamines, methamphetamine or methcathinone
+            6C46.10	Harmful pattern of use of stimulants including amphetamines, methamphetamine or methcathinone, episodic
+            6C46.11	Harmful pattern of use of stimulants including amphetamines, methamphetamine or methcathinone, continuous
+            6C46.1Z	Harmful pattern of use of stimulants including amphetamines, methamphetamine and methcathinone, unspecified
+        6C46.2	Stimulant dependence including amphetamines, methamphetamine or methcathinone
+            6C46.20	Stimulant dependence including amphetamines, methamphetamine or methcathinone, current use
+            6C46.21	Stimulant dependence including amphetamines, methamphetamine or methcathinone, early full remission
+            6C46.22	Stimulant dependence including amphetamines, methamphetamine or methcathinone, sustained partial remission
+            6C46.23	Stimulant dependence including amphetamines, methamphetamine or methcathinone, sustained full remission
+            6C46.2Z	Stimulant dependence including amphetamines, methamphetamine or methcathinone, unspecified
+        6C46.3	Stimulant intoxication including amphetamines, methamphetamine or methcathinone
+        6C46.4	Stimulant withdrawal including amphetamines, methamphetamine or methcathinone
+        6C46.5	Stimulant-induced delirium including amphetamines, methamphetamine or methcathinone
+        6C46.6	Stimulant-induced psychotic disorder including amphetamines, methamphetamine or methcathinone
+            6C46.60	Stimulant-induced psychotic disorder including amphetamines, methamphetamine or methcathinone with hallucinations
+            6C46.61	Stimulant-induced psychotic disorder including amphetamines, methamphetamine or methcathinone with delusions
+            6C46.62	Stimulant-induced psychotic disorder including amphetamines but excluding caffeine or cocaine with mixed psychotic symptoms
+            6C46.6Z	Stimulant-induced psychotic disorder including amphetamines, methamphetamine or methcathinone, unspecified
+        6C46.7	Certain specified stimulant-induced mental or behavioural disorders including amphetamines, methamphetamine or methcathinone
+            6C46.70	Stimulant-induced mood disorder including amphetamines, methamphetamine or methcathinone
+            6C46.71	Stimulant-induced anxiety disorder including amphetamines, methamphetamine or methcathinone
+            6C46.72	Stimulant-induced obsessive-compulsive or related disorder including amphetamines, methamphetamine or methcathinone
+            6C46.73	Stimulant-induced impulse control disorder including amphetamines, methamphetamine or methcathinone
+        6C46.Y	Other specified disorders due to use of stimulants including amphetamines, methamphetamine or methcathinone
+        6C46.Z	Disorders due to use of stimulants including amphetamines, methamphetamine or methcathinone, unspecified
+    6C47	Disorders due to use of synthetic cathinones
+        6C47.0	Episode of harmful use of synthetic cathinones
+        6C47.1	Harmful pattern of use of synthetic cathinones
+            6C47.10	Harmful pattern of use of synthetic cathinones, episodic
+            6C47.11	Harmful use of synthetic cathinones, continuous
+            6C47.1Y	Other specified harmful pattern of use of synthetic cathinones
+            6C47.1Z	Harmful pattern of use of synthetic cathinones, unspecified
+        6C47.2	Synthetic cathinone dependence
+            6C47.20	Synthetic cathinone dependence, current use
+            6C47.21	Synthetic cathinone dependence, early full remission
+            6C47.22	Synthetic cathinone dependence, sustained partial remission
+            6C47.23	Synthetic cathinone dependence, sustained full remission
+            6C47.2Y	Other specified synthetic cathinone dependence
+            6C47.2Z	Synthetic cathinone dependence, unspecified
+        6C47.3	Synthetic cathinone intoxication
+        6C47.4	Synthetic cathinone withdrawal
+        6C47.5	Synthetic cathinone-induced delirium
+        6C47.6	Synthetic cathinone-induced psychotic disorder
+            6C47.60	Synthetic cathinone-induced psychotic disorder with hallucinations
+            6C47.61	Synthetic cathinone-induced psychotic disorder with delusions
+            6C47.62	Synthetic cathinone-induced psychotic disorder with mixed psychotic symptoms
+            6C47.6Z	Synthetic cathinone-induced psychotic disorder, unspecified
+        6C47.7	Certain specified synthetic cathinone-induced mental or behavioural disorders
+            6C47.70	Synthetic cathinone-induced mood disorder
+            6C47.71	Synthetic cathinone-induced anxiety disorder
+            6C47.72	Synthetic cathinone-induced obsessive-compulsive or related syndrome
+            6C47.73	Synthetic cathinone-induced impulse control disorder
+        6C47.Y	Other specified disorders due to use of synthetic cathinones
+        6C47.Z	Disorders due to use of synthetic cathinones, unspecified
+    6C48	Disorders due to use of caffeine
+        6C48.0	Episode of harmful use of caffeine
+        6C48.1	Harmful pattern of use of caffeine
+            6C48.10	Harmful pattern of use of caffeine, episodic
+            6C48.11	Harmful pattern of use of caffeine, continuous
+            6C48.1Z	Harmful pattern of use of caffeine, unspecified
+        6C48.2	Caffeine intoxication
+        6C48.3	Caffeine withdrawal
+        6C48.4	Certain specified caffeine-induced mental or behavioural disorders
+            6C48.40	Caffeine-induced anxiety disorder
+        6C48.Y	Other specified disorders due to use of caffeine
+        6C48.Z	Disorders due to use of caffeine, unspecified
+    6C49	Disorders due to use of hallucinogens
+        6C49.0	Episode of harmful use of hallucinogens
+        6C49.1	Harmful pattern of use of hallucinogens
+            6C49.10	Harmful pattern of use of hallucinogens, episodic
+            6C49.11	Harmful pattern of use of hallucinogens, continuous
+            6C49.1Z	Harmful pattern of use of hallucinogens, unspecified
+        6C49.2	Hallucinogen dependence
+            6C49.20	Hallucinogen dependence, current use
+            6C49.21	Hallucinogen dependence, early full remission
+            6C49.22	Hallucinogen dependence, sustained partial remission
+            6C49.23	Hallucinogen dependence, sustained full remission
+            6C49.2Z	Hallucinogen dependence, unspecified
+        6C49.3	Hallucinogen intoxication
+        6C49.4	Hallucinogen-induced delirium
+        6C49.5	Hallucinogen-induced psychotic disorder
+        6C49.6	Certain specified hallucinogen-induced mental or behavioural disorders
+            6C49.60	Hallucinogen-induced mood disorder
+            6C49.61	Hallucinogen-induced anxiety disorder
+        6C49.Y	Other specified disorders due to use of hallucinogens
+        6C49.Z	Disorders due to use of hallucinogens, unspecified
+    6C4A	Disorders due to use of nicotine
+        6C4A.0	Episode of harmful use of nicotine
+        6C4A.1	Harmful pattern of use of nicotine
+            6C4A.10	Harmful pattern of use of nicotine, episodic
+            6C4A.11	Harmful pattern of use of nicotine, continuous
+            6C4A.1Z	Harmful pattern of use of nicotine, unspecified
+        6C4A.2	Nicotine dependence
+            6C4A.20	Nicotine dependence, current use
+            6C4A.21	Nicotine dependence, early full remission
+            6C4A.22	Nicotine dependence, sustained partial remission
+            6C4A.23	Nicotine dependence, sustained full remission
+            6C4A.2Z	Nicotine dependence, unspecified
+        6C4A.3	Nicotine intoxication
+        6C4A.4	Nicotine withdrawal
+        6C4A.Y	Other specified disorders due to use of nicotine
+        6C4A.Z	Disorders due to use of nicotine, unspecified
+    6C4B	Disorders due to use of volatile inhalants
+        6C4B.0	Episode of harmful use of volatile inhalants
+        6C4B.1	Harmful pattern of use of volatile inhalants
+            6C4B.10	Harmful pattern of use of volatile inhalants, episodic
+            6C4B.11	Harmful pattern of use of volatile inhalants, continuous
+            6C4B.1Z	Harmful pattern of use of volatile inhalants, unspecified
+        6C4B.2	Volatile inhalant dependence
+            6C4B.20	Volatile inhalant dependence, current use
+            6C4B.21	Volatile inhalant dependence, early full remission
+            6C4B.22	Volatile inhalant dependence, sustained partial remission
+            6C4B.23	Volatile inhalant dependence, sustained full remission
+            6C4B.2Z	Volatile inhalant dependence, unspecified
+        6C4B.3	Volatile inhalant intoxication
+        6C4B.4	Volatile inhalant withdrawal
+        6C4B.5	Volatile inhalant-induced delirium
+        6C4B.6	Volatile inhalant-induced psychotic disorder
+        6C4B.7	Certain specified volatile inhalants-induced mental or behavioural disorders
+            6C4B.70	Volatile inhalant-induced mood disorder
+            6C4B.71	Volatile inhalant-induced anxiety disorder
+        6C4B.Y	Other specified disorders due to use of volatile inhalants
+        6C4B.Z	Disorders due to use of volatile inhalants, unspecified
+    6C4C	Disorders due to use of MDMA or related drugs, including MDA
+        6C4C.0	Episode of harmful use of MDMA or related drugs, including MDA
+        6C4C.1	Harmful pattern of use of MDMA or related drugs, including MDA
+            6C4C.10	Harmful use of MDMA or related drugs, including MDA, episodic
+            6C4C.11	Harmful use of MDMA or related drugs, including MDA, continuous
+            6C4C.1Z	Harmful pattern of use of MDMA or related drugs, including MDA, unspecified
+        6C4C.2	MDMA or related drug dependence, including MDA
+            6C4C.20	MDMA or related drug dependence, including MDA, current use
+            6C4C.21	MDMA or related drug dependence, including MDA, early full remission
+            6C4C.22	MDMA or related drug dependence, including MDA, sustained partial remission
+            6C4C.23	MDMA or related drug dependence, including MDA, sustained full remission
+            6C4C.2Z	MDMA or related drug dependence, including MDA, unspecified
+        6C4C.3	MDMA or related drug intoxication, including MDA
+        6C4C.4	MDMA or related drug withdrawal, including MDA
+        6C4C.5	MDMA or related drug-induced delirium, including MDA
+        6C4C.6	MDMA or related drug-induced psychotic disorder, including MDA
+        6C4C.7	Certain specified MDMA or related drug-induced mental or behavioural disorders, including MDA
+            6C4C.70	MDMA or related drug-induced mood disorder, including MDA
+            6C4C.71	MDMA or related drug-induced anxiety disorder
+        6C4C.Y	Other specified disorders due to use of MDMA or related drugs, including MDA
+        6C4C.Z	Disorders due to use of MDMA or related drugs, including MDA, unspecified
+    6C4D	Disorders due to use of dissociative drugs including ketamine and phencyclidine [PCP]
+        6C4D.0	Episode of harmful use of dissociative drugs including ketamine or PCP
+        6C4D.1	Harmful pattern of use of dissociative drugs, including ketamine or PCP
+            6C4D.10	Harmful pattern of use of dissociative drugs including ketamine or PCP, episodic
+            6C4D.11	Harmful pattern of use of dissociative drugs including ketamine or PCP, continuous
+            6C4D.1Z	Harmful pattern of use of dissociative drugs, including ketamine or PCP, unspecified
+        6C4D.2	Dissociative drug dependence including ketamine or PCP
+            6C4D.20	Dissociative drug dependence including Ketamine or PCP, current use
+            6C4D.21	Dissociative drug dependence including ketamine or PCP, early full remission
+            6C4D.22	Dissociative drug dependence including Ketamine or PCP, sustained partial remission
+            6C4D.23	Dissociative drug dependence including Ketamine or PCP, sustained full remission
+            6C4D.2Z	Dissociative drug dependence including ketamine or PCP, unspecified
+        6C4D.3	Dissociative drug intoxication including Ketamine or PCP
+        6C4D.4	Dissociative drug-induced delirium including ketamine or PCP
+        6C4D.5	Dissociative drug-induced psychotic disorder including Ketamine or PCP
+        6C4D.6	Certain specified dissociative drug-induced mental or behavioural disorders, including ketamine and phencyclidine [PCP]
+            6C4D.60	Dissociative drug-induced mood disorder including Ketamine or PCP
+            6C4D.61	Dissociative drug-induced anxiety disorder including Ketamine or PCP
+        6C4D.Y	Other specified disorders due to use of dissociative drugs including ketamine and phencyclidine [PCP]
+        6C4D.Z	Disorders due to use of dissociative drugs including ketamine and phencyclidine [PCP], unspecified
+    6C4E	Disorders due to use of other specified psychoactive substances, including medications
+        6C4E.0	Episode of harmful use of other specified psychoactive substance
+        6C4E.1	Harmful pattern of use of other specified psychoactive substance
+            6C4E.10	Harmful pattern of use of other specified psychoactive substance, episodic
+            6C4E.11	Harmful pattern of use of other specified psychoactive substance, continuous
+            6C4E.1Z	Harmful pattern of use of other specified psychoactive substance, unspecified
+        6C4E.2	Other specified psychoactive substance dependence
+            6C4E.20	Other specified psychoactive substance dependence, current use
+            6C4E.21	Other specified psychoactive substance dependence, early full remission
+            6C4E.22	Other specified psychoactive substance dependence, sustained partial remission
+            6C4E.23	Other specified psychoactive substance dependence, sustained full remission
+            6C4E.2Z	Other specified psychoactive substance dependence, unspecified
+        6C4E.3	Other specified psychoactive substance intoxication
+        6C4E.4	Other specified psychoactive substance withdrawal
+            6C4E.40	Other specified psychoactive substance withdrawal, uncomplicated
+            6C4E.41	Other specified psychoactive substance withdrawal, with perceptual disturbances
+            6C4E.42	Other specified psychoactive substance withdrawal, with seizures
+            6C4E.43	Other specified psychoactive substance withdrawal, with perceptual disturbances and seizures
+            6C4E.4Z	Other specified psychoactive substance withdrawal, unspecified
+        6C4E.5	Delirium induced by other specified psychoactive substance including medications
+        6C4E.6	Psychotic disorder induced by other specified psychoactive substance
+        6C4E.7	Certain other specified psychoactive substance-induced mental or behavioural disorders
+            6C4E.70	Mood disorder induced by other specified psychoactive substance
+            6C4E.71	Anxiety disorder induced by other specified psychoactive substance
+            6C4E.72	Obsessive-compulsive or related disorder induced by other specified psychoactive substance
+            6C4E.73	Impulse control disorder induced by other specified psychoactive substance
+        6C4E.Y	Other specified disorders due to use of other specified psychoactive substances, including medications
+        6C4E.Z	Disorders due to use of other specified psychoactive substances, including medications, unspecified
+    6C4F	Disorders due to use of multiple specified psychoactive substances, including medications
+        6C4F.0	Episode of harmful use of multiple specified psychoactive substances
+        6C4F.1	Harmful pattern of use of multiple specified psychoactive substances
+            6C4F.10	Harmful pattern of use of multiple specified psychoactive substances, episodic
+            6C4F.11	Harmful pattern of use of multiple specified psychoactive substances, continuous
+            6C4F.1Z	Harmful pattern of use of multiple specified psychoactive substances, unspecified
+        6C4F.2	Multiple specified psychoactive substances dependence
+            6C4F.20	Multiple specified psychoactive substances dependence, current use
+            6C4F.21	Multiple specified psychoactive substances dependence, early full remission
+            6C4F.22	Multiple specified psychoactive substances dependence, sustained partial remission
+            6C4F.23	Multiple specified psychoactive substances dependence, sustained full remission
+            6C4F.2Z	Multiple specified psychoactive substances dependence, unspecified
+        6C4F.3	Intoxication due to multiple specified psychoactive substances
+        6C4F.4	Multiple specified psychoactive substances withdrawal
+            6C4F.40	Multiple specified psychoactive substances withdrawal, uncomplicated
+            6C4F.41	Multiple specified psychoactive substances withdrawal, with perceptual disturbances
+            6C4F.42	Multiple specified psychoactive substances withdrawal, with seizures
+            6C4F.43	Multiple specified psychoactive substances withdrawal, with perceptual disturbances and seizures
+            6C4F.4Y	Other specified multiple specified psychoactive substances withdrawal
+            6C4F.4Z	Multiple specified psychoactive substances withdrawal, unspecified
+        6C4F.5	Delirium induced by multiple specified psychoactive substances including medications
+        6C4F.6	Psychotic disorder induced by multiple specified psychoactive substances
+        6C4F.7	Certain multiple specified psychoactive substances-induced mental or behavioural disorders
+            6C4F.70	Mood disorder induced by multiple specified psychoactive substances
+            6C4F.71	Anxiety disorder induced by multiple specified psychoactive substances
+            6C4F.72	Obsessive-compulsive or related disorder induced by multiple specified psychoactive substances
+            6C4F.73	Impulse control syndrome induced by multiple specified psychoactive substances
+        6C4F.Y	Other specified disorders due to use of multiple specified psychoactive substances, including medications
+        6C4F.Z	Disorders due to use of multiple specified psychoactive substances, including medications, unspecified
+    6C4G	Disorders due to use of unknown or unspecified psychoactive substances
+        6C4G.0	Episode of harmful use of unknown or unspecified psychoactive substances
+        6C4G.1	Harmful pattern of use of unknown or unspecified psychoactive substance
+            6C4G.10	Harmful pattern of use of unknown or unspecified psychoactive substance, episodic
+            6C4G.11	Harmful pattern of use of unknown or unspecified psychoactive substance, continuous
+            6C4G.1Z	Harmful pattern of use of unknown or unspecified psychoactive substance, unspecified
+        6C4G.2	Unknown or unspecified psychoactive substance dependence
+            6C4G.20	Unknown or unspecified psychoactive substance dependence, current use
+            6C4G.21	Unknown or unspecified psychoactive substance dependence, early full remission
+            6C4G.22	Unknown or unspecified psychoactive substance dependence, sustained partial remission
+            6C4G.23	Unknown or unspecified psychoactive substance dependence, sustained full remission
+            6C4G.2Z	Unknown or unspecified psychoactive substance dependence, substance and state of remission unspecified
+        6C4G.3	Intoxication due to unknown or unspecified psychoactive substance
+        6C4G.4	Withdrawal due to unknown or unspecified psychoactive substance
+            6C4G.40	Withdrawal due to unknown or unspecified psychoactive substance, uncomplicated
+            6C4G.41	Withdrawal due to unknown or unspecified psychoactive substance, with perceptual disturbances
+            6C4G.42	Withdrawal due to unknown or unspecified psychoactive substance, with seizures
+            6C4G.43	Withdrawal due to unknown or unspecified psychoactive, with perceptual disturbances and seizures
+            6C4G.4Z	Withdrawal due to unknown or unspecified psychoactive substance, unspecified
+        6C4G.5	Delirium induced by unknown or unspecified psychoactive substance
+        6C4G.6	Psychotic disorder induced by unknown or unspecified psychoactive substance
+        6C4G.7	Certain unknown or unspecified psychoactive substance-induced mental or behavioural disorders
+            6C4G.70	Mood disorder induced by unknown or unspecified psychoactive substance
+            6C4G.71	Anxiety disorder induced by unknown or unspecified psychoactive substance
+            6C4G.72	Obsessive-compulsive or related disorder induced by unknown or unspecified psychoactive substance
+            6C4G.73	Impulse control disorder induced by unknown or unspecified psychoactive substance
+        6C4G.Y	Other specified disorders due to use of unknown or unspecified psychoactive substances
+        6C4G.Z	Disorders due to use of unknown or unspecified psychoactive substances, unspecified
+    6C4H	Disorders due to use of non-psychoactive substances
+        6C4H.0	Episode of harmful use of non-psychoactive substances
+        6C4H.1	Harmful pattern of use of non-psychoactive substances
+            6C4H.10	Harmful pattern of use of non-psychoactive substances, episodic
+            6C4H.11	Harmful pattern of use of non-psychoactive substances, continuous
+            6C4H.1Z	Harmful pattern of use of non-psychoactive substances, unspecified
+        6C4H.Y	Other specified disorders due to use of non-psychoactive substances
+        6C4H.Z	Disorders due to use of non-psychoactive substances, unspecified
+    6C4Y	Other specified disorders due to substance use
+    6C4Z	Disorders due to substance use, unspecified
