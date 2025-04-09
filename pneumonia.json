@@ -1,0 +1,290 @@
+{
+  "title": "Pneumonia",
+  "code": "CA40",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/142052508",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#142052508",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/915779102"
+  ],
+  "child": [
+    {
+      "title": "Bacterial pneumonia",
+      "code": "CA40.0",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1323682030",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1323682030",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/142052508"
+      ],
+      "child": [
+        {
+          "title": "Pneumonia due to Chlamydophila pneumoniae",
+          "code": "CA40.00",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1258650683",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1258650683",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to Escherichia coli",
+          "code": "CA40.01",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/680186620",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#680186620",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to Haemophilus influenzae",
+          "code": "CA40.02",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/732824952",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#732824952",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to Klebsiella pneumoniae",
+          "code": "CA40.03",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1250089989",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1250089989",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to Mycoplasma pneumoniae",
+          "code": "CA40.04",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/963399569",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#963399569",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to Pseudomonas aeruginosa",
+          "code": "CA40.05",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/801706385",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#801706385",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to Staphylococcus",
+          "code": "CA40.06",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1533297008",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1533297008",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to Streptococcus pneumoniae",
+          "code": "CA40.07",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1480627948",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1480627948",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to beta-haemolytic streptococcus",
+          "code": "CA40.08",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1043303674",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1043303674",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to other specified bacteria",
+          "code": "CA40.0Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1323682030/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1323682030/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        },
+        {
+          "title": "Bacterial pneumonia, unspecified",
+          "code": "CA40.0Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1323682030/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1323682030/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1323682030"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Viral pneumonia",
+      "code": "CA40.1",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1024154490",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1024154490",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/142052508"
+      ],
+      "child": [
+        {
+          "title": "Pneumonia due to Adenovirus",
+          "code": "CA40.10",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1912319301",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1912319301",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1024154490"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to Respiratory syncytial virus",
+          "code": "CA40.11",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/347103441",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#347103441",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1024154490"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to parainfluenza virus",
+          "code": "CA40.12",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1612525614",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1612525614",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1024154490"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to Human metapneumovirus",
+          "code": "CA40.13",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/89587132",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#89587132",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1024154490"
+          ],
+          "child": []
+        },
+        {
+          "title": "Pneumonia due to other specified virus",
+          "code": "CA40.1Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1024154490/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1024154490/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1024154490"
+          ],
+          "child": []
+        },
+        {
+          "title": "Viral pneumonia, unspecified",
+          "code": "CA40.1Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1024154490/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1024154490/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1024154490"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Fungal pneumonia",
+      "code": "CA40.2",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1176185297",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1176185297",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/142052508"
+      ],
+      "child": [
+        {
+          "title": "Pneumonia due to pneumocystis",
+          "code": "CA40.20",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1229452918",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1229452918",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1176185297"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified fungal pneumonia",
+          "code": "CA40.2Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1176185297/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1176185297/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1176185297"
+          ],
+          "child": []
+        },
+        {
+          "title": "Fungal pneumonia, unspecified",
+          "code": "CA40.2Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1176185297/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1176185297/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/1176185297"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Other specified pneumonia",
+      "code": "CA40.Y",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/142052508/other",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#142052508/other",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/142052508"
+      ],
+      "child": []
+    },
+    {
+      "title": "Pneumonia, organism unspecified",
+      "code": "CA40.Z",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/142052508/unspecified",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#142052508/unspecified",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/142052508"
+      ],
+      "child": []
+    }
+  ]
+}

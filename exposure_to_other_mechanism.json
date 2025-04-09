@@ -1,0 +1,189 @@
+{
+  "title": "Unintentional exposure to other mechanism",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/425728062",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#425728062",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/980862652"
+  ],
+  "child": [
+    {
+      "title": "Unintentional exposure to foreign body in orifice",
+      "code": "PB50",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1097373678",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1097373678",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to electric current",
+      "code": "PB51",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1235293558",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1235293558",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to sunlight",
+      "code": "PB52",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/580577024",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#580577024",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to radiation",
+      "code": "PB53",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/136660883",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#136660883",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to high or low air pressure or changes in air pressure",
+      "code": "PB54",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1736723450",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1736723450",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to explosion",
+      "code": "PB55",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/432499949",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#432499949",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": [
+        {
+          "title": "Unintentional exposure to chemical explosion",
+          "code": "PB55.0",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1944518956",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1944518956",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/432499949"
+          ],
+          "child": []
+        },
+        {
+          "title": "Unintentional exposure to explosion or rupture of pressurised materials or object",
+          "code": "PB55.1",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/1697220900",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1697220900",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/432499949"
+          ],
+          "child": []
+        },
+        {
+          "title": "Other specified unintentional exposure to explosion",
+          "code": "PB55.Y",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/432499949/other",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#432499949/other",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/432499949"
+          ],
+          "child": []
+        },
+        {
+          "title": "Unintentional exposure to explosion, unspecified",
+          "code": "PB55.Z",
+          "uri": "http://id.who.int/icd/release/11/2024-01/mms/432499949/unspecified",
+          "icdurl": "https://icd.who.int/browse/2024-01/mms/en#432499949/unspecified",
+          "gphin": false,
+          "parent": [
+            "http://id.who.int/icd/release/11/2024-01/mms/432499949"
+          ],
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Unintentional exposure to physical overexertion",
+      "code": "PB56",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1405623749",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1405623749",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional lack of food",
+      "code": "PB57",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/53324392",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#53324392",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional lack of water",
+      "code": "PB58",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/13746702",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#13746702",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional other specified privation",
+      "code": "PB59",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1096126699",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1096126699",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional abandonment",
+      "code": "PB5A",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/866821016",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#866821016",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional neglect",
+      "code": "PB5B",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/641539610",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#641539610",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/425728062"
+      ],
+      "child": []
+    }
+  ]
+}

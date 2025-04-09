@@ -1,0 +1,111 @@
+{
+  "title": "Unintentional exposure to thermal mechanism",
+  "code": "",
+  "uri": "http://id.who.int/icd/release/11/2024-01/mms/615802413",
+  "icdurl": "https://icd.who.int/browse/2024-01/mms/en#615802413",
+  "gphin": false,
+  "parent": [
+    "http://id.who.int/icd/release/11/2024-01/mms/980862652"
+  ],
+  "child": [
+    {
+      "title": "Unintentional exposure to uncontrolled fire",
+      "code": "PB10",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/2096449099",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#2096449099",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/615802413"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to controlled fire",
+      "code": "PB11",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/818622979",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#818622979",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/615802413"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to ignition or melting of material",
+      "code": "PB12",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/235566390",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#235566390",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/615802413"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional contact with hot object or liquid",
+      "code": "PB13",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/1085038878",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#1085038878",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/615802413"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to steam, hot vapour, air or gases",
+      "code": "PB14",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/991398335",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#991398335",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/615802413"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to excessive heat",
+      "code": "PB15",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/503010731",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#503010731",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/615802413"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to excessive cold",
+      "code": "PB16",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/525768567",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#525768567",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/615802413"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to other specified thermal mechanism",
+      "code": "PB1Y",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/615802413/other",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#615802413/other",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/615802413"
+      ],
+      "child": []
+    },
+    {
+      "title": "Unintentional exposure to unspecified thermal mechanism",
+      "code": "PB1Z",
+      "uri": "http://id.who.int/icd/release/11/2024-01/mms/615802413/unspecified",
+      "icdurl": "https://icd.who.int/browse/2024-01/mms/en#615802413/unspecified",
+      "gphin": false,
+      "parent": [
+        "http://id.who.int/icd/release/11/2024-01/mms/615802413"
+      ],
+      "child": []
+    }
+  ]
+}
