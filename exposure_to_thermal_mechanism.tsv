@@ -1,0 +1,10 @@
+	Unintentional exposure to thermal mechanism
+    PB10	Unintentional exposure to uncontrolled fire
+    PB11	Unintentional exposure to controlled fire
+    PB12	Unintentional exposure to ignition or melting of material
+    PB13	Unintentional contact with hot object or liquid
+    PB14	Unintentional exposure to steam, hot vapour, air or gases
+    PB15	Unintentional exposure to excessive heat
+    PB16	Unintentional exposure to excessive cold
+    PB1Y	Unintentional exposure to other specified thermal mechanism
+    PB1Z	Unintentional exposure to unspecified thermal mechanism

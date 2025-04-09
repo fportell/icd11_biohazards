@@ -1,0 +1,17 @@
+	Unintentional exposure to other mechanism
+    PB50	Unintentional exposure to foreign body in orifice
+    PB51	Unintentional exposure to electric current
+    PB52	Unintentional exposure to sunlight
+    PB53	Unintentional exposure to radiation
+    PB54	Unintentional exposure to high or low air pressure or changes in air pressure
+    PB55	Unintentional exposure to explosion
+        PB55.0	Unintentional exposure to chemical explosion
+        PB55.1	Unintentional exposure to explosion or rupture of pressurised materials or object
+        PB55.Y	Other specified unintentional exposure to explosion
+        PB55.Z	Unintentional exposure to explosion, unspecified
+    PB56	Unintentional exposure to physical overexertion
+    PB57	Unintentional lack of food
+    PB58	Unintentional lack of water
+    PB59	Unintentional other specified privation
+    PB5A	Unintentional abandonment
+    PB5B	Unintentional neglect

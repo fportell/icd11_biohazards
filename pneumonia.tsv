@@ -1,0 +1,26 @@
+CA40	Pneumonia
+    CA40.0	Bacterial pneumonia
+        CA40.00	Pneumonia due to Chlamydophila pneumoniae
+        CA40.01	Pneumonia due to Escherichia coli
+        CA40.02	Pneumonia due to Haemophilus influenzae
+        CA40.03	Pneumonia due to Klebsiella pneumoniae
+        CA40.04	Pneumonia due to Mycoplasma pneumoniae
+        CA40.05	Pneumonia due to Pseudomonas aeruginosa
+        CA40.06	Pneumonia due to Staphylococcus
+        CA40.07	Pneumonia due to Streptococcus pneumoniae
+        CA40.08	Pneumonia due to beta-haemolytic streptococcus
+        CA40.0Y	Pneumonia due to other specified bacteria
+        CA40.0Z	Bacterial pneumonia, unspecified
+    CA40.1	Viral pneumonia
+        CA40.10	Pneumonia due to Adenovirus
+        CA40.11	Pneumonia due to Respiratory syncytial virus
+        CA40.12	Pneumonia due to parainfluenza virus
+        CA40.13	Pneumonia due to Human metapneumovirus
+        CA40.1Y	Pneumonia due to other specified virus
+        CA40.1Z	Viral pneumonia, unspecified
+    CA40.2	Fungal pneumonia
+        CA40.20	Pneumonia due to pneumocystis
+        CA40.2Y	Other specified fungal pneumonia
+        CA40.2Z	Fungal pneumonia, unspecified
+    CA40.Y	Other specified pneumonia
+    CA40.Z	Pneumonia, organism unspecified

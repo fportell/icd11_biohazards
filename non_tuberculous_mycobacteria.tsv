@@ -1,0 +1,11 @@
+1B21	Infections due to non-tuberculous mycobacteria
+    1B21.0	Pulmonary infection due to non-tuberculous mycobacterium
+    1B21.1	Non-tuberculous mycobacterial lymphadenitis
+    1B21.2	Cutaneous non-tuberculous mycobacterial infection
+        1B21.20	Mycobacterium ulcerans infection
+        1B21.2Y	Cutaneous infection due to other specified non-tuberculous mycobacteria
+        1B21.2Z	Cutaneous infection due to unspecified non-tuberculous mycobacteria
+    1B21.3	Disseminated non-tuberculous mycobacterial infection
+    1B21.4	Gastrointestinal non-tuberculous mycobacterial infection
+    1B21.Y	Non-tuberculous mycobacterial infection of other specified site
+    1B21.Z	Non-tuberculous mycobacterial infection of unspecified site
