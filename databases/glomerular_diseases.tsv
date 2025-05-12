@@ -1,0 +1,10 @@
+	Glomerular diseases
+    GB40	Nephritic syndrome
+    GB41	Nephrotic syndrome
+    GB42	Persistent proteinuria or albuminuria
+        GB42.0	Albuminuria, Grade A2
+        GB42.1	Albuminuria, Grade A3
+        GB42.Y	Other specified persistent proteinuria or albuminuria
+        GB42.Z	Persistent proteinuria or albuminuria, unspecified
+    GB4Y	Other specified glomerular diseases
+    GB4Z	Glomerular diseases, unspecified

@@ -1,0 +1,18 @@
+	Human prion diseases
+    8E00	Sporadic Creutzfeldt-Jakob Disease
+    8E01	Acquired prion disease
+        8E01.0	Iatrogenically acquired Creutzfeldt-Jakob Disease
+        8E01.1	Kuru
+        8E01.2	Variant Creutzfeldt-Jakob Disease
+        8E01.3	Other acquired Creutzfeldt-Jakob Disease
+        8E01.Z	Acquired prion disease, unspecified
+    8E02	Genetic prion diseases
+        8E02.0	Genetic Creutzfeldt-Jakob disease
+        8E02.1	Gerstmann-Straussler-Scheinker syndrome
+        8E02.2	Fatal familial insomnia
+        8E02.3	Other genetic prion diseases
+        8E02.Y	Other specified Creutzfeldt-Jakob disease
+        8E02.Z	Creutzfeldt-Jakob disease, unspecified
+    8E03	Variably protease sensitive prionopathy
+    8E0Y	Other specified human prion diseases
+    8E0Z	Human prion diseases, unspecified

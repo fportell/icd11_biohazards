@@ -1,0 +1,1287 @@
+02	Neoplasms
+    	Neoplasms of brain or central nervous system
+        2A00	Primary neoplasms of brain
+            2A00.0	Gliomas of brain
+                2A00.00	Glioblastoma of brain
+                2A00.0Y	Other specified gliomas of brain
+                2A00.0Z	Gliomas of brain, unspecified
+            2A00.1	Embryonal tumours of brain
+                2A00.10	Medulloblastoma of brain
+                2A00.11	Central primitive neuroectodermal tumour
+                2A00.1Y	Other specified embryonal tumours of brain
+                2A00.1Z	Embryonal tumours of brain, unspecified
+            2A00.2	Tumours of neuroepithelial tissue of brain
+                2A00.20	Tumours of the pineal gland or pineal region
+                2A00.21	Mixed neuronal-glial tumours
+                2A00.22	Choroid plexus tumours
+                2A00.2Y	Other specified tumours of neuroepithelial tissue of brain
+                2A00.2Z	Tumours of neuroepithelial tissue of brain, unspecified
+            2A00.3	Central neurocytoma of brain
+            2A00.4	Astroblastoma of the brain
+            2A00.5	Primary neoplasm of brain of unknown or unspecified type
+        2A01	Primary neoplasms of meninges
+            2A01.0	Meningiomas
+                2A01.00	Primary malignant meningioma
+                2A01.0Y	Other specified meningiomas
+                2A01.0Z	Meningiomas, unspecified
+            2A01.1	Mesenchymal tumours of meninges
+            2A01.2	Primary neoplasm of meninges of unknown or unspecified type
+        2A02	Primary neoplasm of spinal cord, cranial nerves or remaining parts of central nervous system
+            2A02.0	Gliomas of spinal cord, cranial nerves or other parts of the central nervous system
+                2A02.00	Glioblastoma of spinal cord, cranial nerves or other parts of central nervous system
+                2A02.0Y	Other specified gliomas of spinal cord, cranial nerves or other parts of the central nervous system
+                2A02.0Z	Gliomas of spinal cord, cranial nerves or other parts of the central nervous system, unspecified
+            2A02.1	Tumours of cranial or paraspinal nerves
+                2A02.10	Malignant peripheral nerve sheath tumour of cranial or paraspinal nerves
+                2A02.11	Paraspinal neuroblastoma
+                2A02.12	Malignant neoplasm of the optic nerve
+                2A02.1Y	Other specified tumours of cranial or paraspinal nerves
+                2A02.1Z	Tumours of cranial or paraspinal nerves, unspecified
+            2A02.2	Primary neoplasm of spinal cord of unknown or unspecified type
+            2A02.3	Benign neoplasm of cranial nerves
+            2A02.4	Benign neoplasm of spinal cord
+        2A0Z	Other and unspecified neoplasms of brain or central nervous system
+    	Neoplasms of haematopoietic or lymphoid tissues
+        	Myeloproliferative neoplasms
+            2A20	Non mast cell myeloproliferative neoplasms
+                2A20.0	Chronic myelogenous leukaemia, BCR-ABL1-positive
+                    2A20.00	Chronic myelogenous leukaemia with blast crisis
+                    2A20.01	Chronic myelogenous leukaemia, Philadelphia chromosome (Ph1) positive
+                    2A20.02	Chronic myelogenous leukaemia, t(9:22)(q34; q11)
+                    2A20.03	Naegeli-type monocytic leukaemia
+                    2A20.0Y	Other specified chronic myelogenous leukaemia, BCR-ABL1-positive
+                    2A20.0Z	Chronic myelogenous leukaemia, BCR-ABL1-positive, unspecified
+                2A20.1	Chronic neutrophilic leukaemia
+                2A20.2	Primary myelofibrosis
+                2A20.3	Chronic eosinophilic leukaemia, not elsewhere classified
+                2A20.4	Polycythaemia vera
+                2A20.5	Non mast cell myeloproliferative neoplasm, unclassifiable
+                2A20.Y	Other specified non mast cell myeloproliferative neoplasms
+                2A20.Z	Non mast cell myeloproliferative neoplasms, unspecified
+            2A21	Mastocytosis
+                2A21.0	Systemic mastocytosis
+                    2A21.00	Mast cell leukaemia
+                    2A21.0Y	Other specified systemic mastocytosis
+                    2A21.0Z	Systemic mastocytosis, unspecified
+                2A21.1	Cutaneous mastocytosis
+                    2A21.10	Urticaria pigmentosa
+                    2A21.1Y	Other specified cutaneous mastocytosis
+                    2A21.1Z	Cutaneous mastocytosis, unspecified
+                2A21.2	Mast cell sarcoma
+                2A21.3	Extracutaneous mastocytoma
+                2A21.Y	Other specified mastocytosis
+                2A21.Z	Mastocytosis, unspecified
+            2A22	Other and unspecified myeloproliferative neoplasms
+        	Myelodysplastic syndromes
+            2A30	Refractory anaemia
+            2A31	Refractory neutropaenia
+            2A32	Refractory thrombocytopenia
+            2A33	Refractory anaemia with ring sideroblasts
+            2A34	Refractory cytopenia with multi-lineage dysplasia
+            2A35	Refractory anaemia with excess of blasts
+            2A36	Myelodysplastic syndrome with isolated del(5q)
+            2A37	Myelodysplastic syndrome, unclassifiable
+            2A38	Refractory cytopenia of childhood
+            2A3Y	Other specified myelodysplastic syndromes
+            2A3Z	Myelodysplastic syndromes, unspecified
+        	Myelodysplastic and myeloproliferative neoplasms
+            2A40	Chronic myelomonocytic leukaemia
+            2A41	Atypical chronic myeloid leukaemia, BCR-ABL1-negative
+            2A42	Juvenile myelomonocytic leukaemia
+                2A42.0	Juvenile myelomonocytic leukaemia in complete remission
+                2A42.Y	Other specified juvenile myelomonocytic leukaemia
+                2A42.Z	Juvenile myelomonocytic leukaemia, unspecified
+            2A43	Refractory anaemia with ring sideroblasts associated with marked thrombocytosis
+            2A44	Myeloproliferative and myelodysplastic disease, unclassifiable
+            2A4Y	Other specified myelodysplastic and myeloproliferative neoplasms
+            2A4Z	Myelodysplastic and myeloproliferative neoplasms, unspecified
+        	Myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB or FGFR1
+            2A50	Myeloid/lymphoid neoplasm associated with PDGFRA rearrangement
+            2A51	Myeloid neoplasm associated with PDGFRB rearrangement
+            2A52	Myeloid or lymphoid neoplasms with FGFR1 abnormalities
+            2A5Z	Myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB or FGFR1, unspecified
+        2A60	Acute myeloid leukaemias and related precursor neoplasms
+            2A60.0	Acute myeloid leukaemia with recurrent genetic abnormalities
+            2A60.1	Acute myeloid leukaemia with myelodysplasia-related changes
+            2A60.2	Therapy-related myeloid neoplasms
+                2A60.20	Therapy related acute myeloid leukaemia or myelodysplastic syndrome
+                2A60.2Y	Other specified therapy-related myeloid neoplasms
+                2A60.2Z	Therapy-related myeloid neoplasms, unspecified
+            2A60.3	Acute myeloid leukaemia, not elsewhere classified by criteria of other types
+                2A60.30	Acute myeloid leukaemia with minimal differentiation
+                2A60.31	Acute myeloid leukaemia without maturation
+                2A60.32	Acute myeloid leukaemia with maturation
+                2A60.33	Acute myelomonocytic leukaemia
+                2A60.34	Acute monoblastic or monocytic leukaemia
+                2A60.35	Acute erythroid leukaemia
+                2A60.36	Acute megakaryoblastic leukaemia
+                2A60.37	Acute basophilic leukaemia
+                2A60.38	Acute panmyelosis with myelofibrosis
+                2A60.39	Myeloid sarcoma
+                2A60.3Y	Other specified acute myeloid leukaemia, not elsewhere classified by criteria of other types
+                2A60.3Z	Acute myeloid leukaemia, unspecified
+            2A60.4	Myeloid proliferation associated with Down syndrome
+                2A60.40	Transient abnormal myelopoiesis
+                2A60.41	Myeloid leukaemia associated with Down syndrome
+                2A60.4Y	Other specified myeloid proliferation associated with Down syndrome
+                2A60.4Z	Myeloid proliferation associated with Down syndrome, unspecified
+            2A60.5	Blastic plasmacytoid dendritic cell neoplasm
+            2A60.Y	Other specified acute myeloid leukaemias and related precursor neoplasms
+            2A60.Z	Acute myeloid leukaemias and related precursor neoplasms, unspecified
+        2A61	Acute leukaemias of ambiguous lineage
+        	Precursor lymphoid neoplasms
+            2A70	Precursor B-lymphoblastic neoplasms
+                2A70.0	B lymphoblastic leukaemia or lymphoma, not elsewhere classified
+                2A70.1	B lymphoblastic leukaemia or lymphoma with t(9:22) (q34;q11.2); BCR-ABL1
+                2A70.Y	Other B-lymphoblastic leukaemia/lymphoma with recurrent genetic abnormalities
+            2A71	Precursor T-lymphoblastic neoplasms
+            2A7Z	Precursor lymphoid neoplasms, unspecified
+        	Mature B-cell neoplasms
+            2A80	Follicular lymphoma
+                2A80.0	Follicular lymphoma grade 1
+                2A80.1	Follicular lymphoma grade 2
+                2A80.2	Follicular lymphoma grade 3
+                2A80.3	Primary cutaneous follicle centre lymphoma
+                2A80.4	Paediatric type follicular lymphoma
+                2A80.5	Follicular lymphoma in situ
+                2A80.6	Follicular lymphoma of small intestine
+                2A80.Y	Other specified follicular lymphoma
+                2A80.Z	Follicular lymphoma, unspecified
+            2A81	Diffuse large B-cell lymphomas
+                2A81.0	Primary mediastinal large B-cell lymphoma
+                2A81.1	Intravascular large B-cell lymphoma
+                2A81.2	Plasmablastic lymphoma
+                2A81.3	Lymphomatoid granulomatosis
+                2A81.4	T-cell/histiocyte rich large B-cell lymphoma
+                2A81.5	Primary diffuse large B-cell lymphoma of central nervous system
+                2A81.6	Epstein-Barr Virus-positive diffuse large B-cell lymphoma of the elderly
+                2A81.7	Diffuse large B-cell lymphoma associated with chronic inflammation
+                2A81.8	ALK-positive large B-cell lymphoma
+                2A81.9	Primary effusion lymphoma
+                2A81.A	Primary cutaneous diffuse large B-cell lymphoma, leg type
+                2A81.Y	Other specified diffuse large B-cell lymphomas
+                2A81.Z	Diffuse large B-cell lymphoma, not otherwise specified
+            2A82	Mature B-cell neoplasm with leukaemic behaviour
+                2A82.0	Chronic lymphocytic leukaemia or small lymphocytic lymphoma
+                    2A82.00	Chronic lymphocytic leukaemia of B-cell type
+                    2A82.0Y	Other specified chronic lymphocytic leukaemia or small lymphocytic lymphoma
+                    2A82.0Z	Chronic lymphocytic leukaemia or small lymphocytic lymphoma, unspecified
+                2A82.1	B-cell prolymphocytic leukaemia
+                    2A82.10	B-cell prolymphocytic leukaemia in complete remission
+                    2A82.1Y	Other specified b-cell prolymphocytic leukaemia
+                    2A82.1Z	B-cell prolymphocytic leukaemia, unspecified
+                2A82.2	Hairy-cell leukaemia
+                2A82.3	Splenic B-cell lymphoma or leukaemia, unclassifiable
+                2A82.Y	Other specified mature B-cell neoplasm with leukaemic behaviour
+                2A82.Z	Mature B-cell neoplasm with leukaemic behaviour, unspecified
+            2A83	Plasma cell neoplasms
+                2A83.0	Monoclonal gammopathy of undetermined significance
+                2A83.1	Plasma cell myeloma
+                2A83.2	Solitary plasmacytoma
+                2A83.3	Extraosseous plasmacytoma
+                2A83.4	Plasma cell leukaemia
+                2A83.5	Monoclonal immunoglobulin deposition disease
+                    2A83.50	Heavy chain deposition disease
+                    2A83.51	Light and heavy chain deposition disease
+                    2A83.52	Light chain deposition disease
+                2A83.Y	Other specified multiple myeloma and plasma cell neoplasms
+                2A83.Z	Plasma cell neoplasm, unspecified
+            2A84	Heavy chain diseases or malignant immunoproliferative diseases
+                2A84.0	Alpha heavy chain disease
+                2A84.1	Gamma heavy chain disease
+                2A84.2	Mu heavy chain disease
+                2A84.Y	Other specified malignant immunoproliferative diseases
+                2A84.Z	Heavy chain diseases, unspecified
+            2A85	Other specified mature B-cell neoplasms or lymphoma
+                2A85.0	Nodal marginal zone lymphoma
+                2A85.1	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue of stomach
+                2A85.2	Extranodal marginal zone B-cell lymphoma, primary site skin
+                2A85.3	Extranodal marginal zone B-cell lymphoma, primary site excluding stomach or skin
+                2A85.4	Lymphoplasmacytic lymphoma
+                2A85.5	Mantle cell lymphoma
+                2A85.6	Burkitt lymphoma including Burkitt leukaemia
+                2A85.Y	Further specified mature B-cell neoplasms or lymphoma
+            2A86	B-cell lymphoma, mixed features
+                2A86.0	Malignant lymphoma of B cell type, not elsewhere classified
+                2A86.1	B-cell lymphoma unclassifiable with features intermediate between Burkitt lymphoma and diffuse large B-cell lymphoma
+                2A86.2	B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma
+                2A86.Y	Other specified B-cell lymphoma, mixed features
+                2A86.Z	B-cell lymphoma, mixed features, unspecified
+            2A8Z	Mature B-cell neoplasms, unspecified
+        	Mature T-cell or NK-cell neoplasms
+            2A90	Mature T-cell lymphoma, specified types, nodal or systemic
+                2A90.0	T-cell prolymphocytic leukaemia
+                2A90.1	T-cell large granular lymphocytic leukaemia
+                2A90.2	Chronic lymphoproliferative disorders of NK-cells
+                2A90.3	Aggressive NK cell leukaemia
+                2A90.4	Systemic Epstein-Barr Virus-positive T-cell lymphoma of childhood
+                2A90.5	Adult T-cell lymphoma or leukaemia, human T-cell lymphotropic virus type 1-associated
+                2A90.6	Extranodal NK/T-cell lymphoma, nasal type
+                2A90.7	Enteropathy associated T-cell lymphoma
+                2A90.8	Hepatosplenic T-cell lymphoma
+                2A90.9	Angioimmunoblastic T-cell lymphoma
+                2A90.A	Anaplastic large cell lymphoma, ALK-positive
+                2A90.B	Anaplastic large cell lymphoma, ALK-negative
+                2A90.C	Peripheral T-cell lymphoma, not otherwise specified
+            	Mature T-cell or NK-cell lymphomas and lymphoproliferative disorders, primary cutaneous specified types
+                2B00	Subcutaneous panniculitis-like T-cell lymphoma
+                2B01	Mycosis fungoides
+                2B02	Sézary syndrome
+                2B03	Primary cutaneous CD30-positive T-cell lymphoproliferative disorders
+                    2B03.0	Primary cutaneous CD30-positive anaplastic large cell lymphoma
+                    2B03.1	Lymphomatoid papulosis
+                2B0Y	Other specified primary cutaneous mature T-cell or NK-cell lymphomas and lymphoproliferative disorders
+                2B0Z	Primary cutaneous T-cell lymphoma of undetermined or unspecified type
+            2B2Y	Other specified mature T-cell or NK-cell neoplasms
+            2B2Z	Mature T-cell or NK-cell neoplasms, unspecified
+        2B30	Hodgkin lymphoma
+            2B30.0	Nodular lymphocyte predominant Hodgkin lymphoma
+            2B30.1	Classical Hodgkin lymphoma
+                2B30.10	Nodular sclerosis classical Hodgkin lymphoma
+                2B30.11	Lymphocyte-rich classical Hodgkin lymphoma
+                2B30.12	Mixed cellularity classical Hodgkin lymphoma
+                2B30.13	Lymphocyte depleted classical Hodgkin lymphoma
+                2B30.1Z	Classical Hodgkin lymphoma, unspecified
+            2B30.Z	Hodgkin lymphoma, unspecified
+        2B31	Histiocytic or dendritic cell neoplasms
+            2B31.0	Juvenile xanthogranuloma
+            2B31.1	Histiocytic sarcoma
+            2B31.2	Langerhans cell histiocytosis
+                2B31.20	Langerhans cell histiocytosis involving the skin
+                2B31.2Y	Other specified Langerhans cell histiocytosis
+                2B31.2Z	Langerhans cell histiocytosis, unspecified
+            2B31.3	Langerhans cell sarcoma
+            2B31.4	Interdigitating dendritic cell sarcoma
+            2B31.5	Follicular dendritic cell sarcoma
+            2B31.6	Indeterminate cell histiocytosis
+            2B31.7	Fibroblastic reticular cell tumour
+            2B31.Y	Other specified histiocytic or dendritic cell neoplasms
+            2B31.Z	Histiocytic or dendritic cell neoplasms, unspecified
+        2B32	Immunodeficiency-associated lymphoproliferative disorders
+            2B32.0	Post-transplant lymphoproliferative disorder, early lesion
+            2B32.1	Reactive plasmacytic hyperplasia
+            2B32.2	Post-transplant lymphoproliferative disorder, Infectious mononucleosis-like
+            2B32.3	Polymorphic post-transplant lymphoproliferative disorder
+            2B32.Y	Other specified immunodeficiency-associated lymphoproliferative disorders
+            2B32.Z	Immunodeficiency-associated lymphoproliferative disorders, unspecified
+        2B33	Malignant haematopoietic neoplasms without further specification
+            2B33.0	Acute leukaemia, not elsewhere classified
+            2B33.1	Myeloid leukaemia
+            2B33.2	Chronic myeloid leukaemia, not elsewhere classified
+            2B33.3	Lymphoid leukaemia, not elsewhere classified
+            2B33.4	Leukaemia, unspecified
+            2B33.5	Malignant lymphoma, not elsewhere classified
+            2B33.Y	Other malignant haematopoietic neoplasms without further specification
+        2B3Z	Neoplasms of haematopoietic or lymphoid tissues, unspecified
+    	Malignant neoplasms, except primary neoplasms of lymphoid, haematopoietic, central nervous system or related tissues
+        	Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic, central nervous system or related tissues
+            	Malignant mesenchymal neoplasms
+                2B50	Chondrosarcoma, primary site
+                    2B50.0	Chondrosarcoma of bone or articular cartilage of limbs
+                    2B50.1	Chondrosarcoma of bone or articular cartilage of pelvis
+                    2B50.2	Chondrosarcoma of bone or articular cartilage of ribs, sternum or clavicle
+                    2B50.Y	Chondrosarcoma of bone or articular cartilage of other specified sites
+                    2B50.Z	Chondrosarcoma of bone or articular cartilage of unspecified sites
+                2B51	Osteosarcoma, primary site
+                    2B51.0	Osteosarcoma of bone or articular cartilage of jaw
+                    2B51.1	Osteosarcoma of bone or articular cartilage of limbs
+                    2B51.2	Osteosarcoma of bone or articular cartilage of pelvis
+                    2B51.Y	Osteosarcoma of bone and articular cartilage of other specified sites
+                    2B51.Z	Osteosarcoma of bone and articular cartilage of unspecified sites
+                2B52	Ewing sarcoma, primary site
+                    2B52.0	Ewing sarcoma of bone or articular cartilage of limbs
+                    2B52.1	Ewing sarcoma of bone or articular cartilage of pelvis
+                    2B52.2	Ewing sarcoma of bone or articular cartilage of ribs
+                    2B52.3	Ewing sarcoma of soft tissue
+                    2B52.Y	Ewing sarcoma of bone and articular cartilage of other specified sites
+                    2B52.Z	Ewing sarcoma of bone and articular cartilage of unspecified sites
+                2B53	Fibroblastic or myofibroblastic tumour, primary site
+                    2B53.0	Myxofibrosarcoma, primary site
+                    2B53.1	Fibroblastic or myofibroblastic tumour of skin
+                    2B53.Y	Other specified fibroblastic or myofibroblastic tumour, primary site
+                    2B53.Z	Fibroblastic or myofibroblastic tumour, primary site, unspecified
+                2B54	Unclassified pleomorphic sarcoma, primary site
+                    2B54.0	Unclassified pleomorphic sarcoma of skin
+                    2B54.1	Unclassified pleomorphic sarcoma of retroperitoneum or peritoneum
+                    2B54.Y	Unclassified pleomorphic sarcoma, primary site, other specified site
+                    2B54.Z	Unclassified pleomorphic sarcoma, primary site, unspecified site
+                2B55	Rhabdomyosarcoma, primary site
+                    2B55.0	Rhabdomyosarcoma of the oral cavity or pharynx
+                    2B55.1	Rhabdomyosarcoma of respiratory or intrathoracic organs
+                    2B55.2	Rhabdomyosarcoma of male genital organs
+                    2B55.Y	Rhabdomyosarcoma, other specified primary site
+                    2B55.Z	Rhabdomyosarcoma, unspecified primary site
+                2B56	Angiosarcoma, primary site
+                    2B56.0	Angiosarcoma of heart
+                    2B56.1	Angiosarcoma of skin
+                    2B56.2	Angiosarcoma of breast
+                    2B56.3	Angiosarcoma of liver
+                    2B56.Y	Angiosarcoma, other specified primary site
+                    2B56.Z	Angiosarcoma, unspecified primary site
+                2B57	Kaposi sarcoma, primary site
+                    2B57.0	Kaposi sarcoma of lung
+                    2B57.1	Kaposi sarcoma of skin
+                    2B57.2	Kaposi sarcoma of gastrointestinal sites
+                    2B57.Y	Kaposi sarcoma of other specified primary sites
+                    2B57.Z	Kaposi sarcoma of unspecified primary site
+                2B58	Leiomyosarcoma, primary site
+                    2B58.0	Leiomyosarcoma of retroperitoneum or peritoneum
+                    2B58.1	Leiomyosarcoma of uterus
+                    2B58.2	Leiomyosarcoma of stomach
+                    2B58.Y	Leiomyosarcoma, other specified primary site
+                    2B58.Z	Leiomyosarcoma, unspecified primary site
+                2B59	Liposarcoma, primary site
+                    2B59.0	Liposarcoma of soft tissue of limb
+                    2B59.1	Liposarcoma of retroperitoneum or peritoneum
+                    2B59.2	Liposarcoma of male genital organs
+                    2B59.Y	Liposarcoma, other specified primary site
+                    2B59.Z	Liposarcoma, unspecified primary site
+                2B5A	Synovial sarcoma, primary site
+                    2B5A.0	Synovial sarcoma of soft tissues of limb
+                    2B5A.1	Synovial sarcoma of respiratory or intra-thoracic organs
+                    2B5A.Y	Synovial sarcoma, other specified primary site
+                    2B5A.Z	Synovial sarcoma, unspecified primary site
+                2B5B	Gastrointestinal stromal tumour, primary site
+                    2B5B.0	Gastrointestinal stromal tumour of stomach
+                    2B5B.1	Gastrointestinal stromal tumour of small intestine
+                    2B5B.Y	Gastrointestinal stromal tumour of other gastrointestinal sites
+                    2B5B.Z	Gastrointestinal stromal tumour of unspecified gastrointestinal sites
+                2B5C	Endometrial stromal sarcoma, primary site
+                2B5D	Malignant mixed epithelial mesenchymal tumour, primary site
+                    2B5D.0	Malignant mixed epithelial mesenchymal tumour of ovary
+                    2B5D.1	Malignant mixed epithelial and mesenchymal tumour of corpus uteri
+                    2B5D.Y	Malignant mixed epithelial mesenchymal tumour, other specified primary site
+                    2B5D.Z	Malignant mixed epithelial mesenchymal tumour, unspecified primary site
+                2B5E	Malignant nerve sheath tumour of peripheral nerves or autonomic nervous system, primary site
+                2B5F	Sarcoma, not elsewhere classified, primary site
+                    2B5F.0	Sarcoma, not elsewhere classified of uterus
+                    2B5F.1	Sarcoma, not elsewhere classified of retroperitoneum or peritoneum
+                        2B5F.10	Myosarcomas of omentum
+                        2B5F.1Y	Other specified sarcoma, not elsewhere classified of retroperitoneum or peritoneum
+                        2B5F.1Z	Sarcoma, not elsewhere classified of retroperitoneum or peritoneum, unspecified
+                    2B5F.2	Sarcoma, not elsewhere classified of other specified sites
+                    2B5F.3	Sarcoma, not elsewhere classified, primary site unknown
+                2B5G	Myosarcoma of uterus, part not specified
+                2B5H	Well differentiated lipomatous tumour, primary site
+                2B5J	Malignant miscellaneous tumours of bone or articular cartilage of other or unspecified sites
+                2B5K	Unspecified malignant soft tissue tumours or sarcomas of bone or articular cartilage of other or unspecified sites
+                2B5Y	Other specified malignant mesenchymal neoplasms
+                2B5Z	Malignant mesenchymal neoplasm of unspecified type
+            	Malignant neoplasms of lip, oral cavity or pharynx
+                2B60	Malignant neoplasms of lip
+                    2B60.0	Basal cell carcinoma of lip
+                    2B60.1	Squamous cell carcinoma of lip
+                    2B60.Y	Other specified malignant neoplasms of lip
+                    2B60.Z	Malignant neoplasms of lip, unspecified
+                2B61	Malignant neoplasms of base of tongue
+                    2B61.0	Squamous cell carcinoma of the base of the tongue
+                    2B61.Y	Other specified malignant neoplasms of base of tongue
+                    2B61.Z	Malignant neoplasms of base of tongue, unspecified
+                2B62	Malignant neoplasms of other or unspecified parts of tongue
+                    2B62.0	Squamous cell carcinoma of other or unspecified parts of tongue
+                    2B62.1	Malignant neoplasms of lingual tonsil
+                        2B62.10	Squamous cell carcinoma of lingual tonsil
+                        2B62.1Z	Malignant neoplasms of lingual tonsil, unspecified
+                    2B62.Y	Other specified malignant neoplasms of other and unspecified parts of tongue
+                    2B62.Z	Malignant neoplasms of other or unspecified parts of tongue, unspecified
+                2B63	Malignant neoplasms of gum
+                    2B63.0	Squamous cell carcinoma of gum
+                    2B63.Y	Other specified malignant neoplasm of gum
+                    2B63.Z	Malignant neoplasms of gum, unspecified
+                2B64	Malignant neoplasms of floor of mouth
+                    2B64.0	Squamous cell carcinoma of floor of mouth
+                    2B64.Y	Other specified malignant neoplasm of floor of mouth
+                    2B64.Z	Malignant neoplasms of floor of mouth, unspecified
+                2B65	Malignant neoplasms of palate
+                    2B65.0	Adenocarcinoma of palate
+                    2B65.1	Squamous cell carcinoma of palate
+                    2B65.Y	Other specified malignant neoplasm of palate
+                    2B65.Z	Malignant neoplasms of palate, unspecified
+                2B66	Malignant neoplasms of other or unspecified parts of mouth
+                    2B66.0	Squamous cell carcinoma of other or unspecified parts of mouth
+                    2B66.Y	Other specified malignant neoplasms of other and unspecified parts of mouth
+                    2B66.Z	Malignant neoplasms of other or unspecified parts of mouth, unspecified
+                2B67	Malignant neoplasms of parotid gland
+                    2B67.0	Adenocarcinoma of parotid gland
+                    2B67.1	Squamous cell carcinoma of parotid gland
+                    2B67.Y	Other specified malignant neoplasms of parotid gland
+                    2B67.Z	Malignant neoplasms of parotid gland, unspecified
+                2B68	Malignant neoplasms of submandibular or sublingual glands
+                    2B68.0	Adenocarcinoma of submandibular or sublingual glands
+                    2B68.1	Squamous cell carcinoma of submandibular or sublingual glands
+                    2B68.2	Other specified malignant neoplasms of submandibular or sublingual glands
+                    2B68.Z	Malignant neoplasms of submandibular or sublingual glands, unspecified
+                2B69	Malignant neoplasms of tonsil
+                    2B69.0	Squamous cell carcinoma of tonsil
+                    2B69.1	Other specified malignant neoplasms of tonsil
+                    2B69.Z	Malignant neoplasms of tonsil, unspecified
+                2B6A	Malignant neoplasms of oropharynx
+                    2B6A.0	Squamous cell carcinoma of oropharynx
+                    2B6A.Y	Other specified malignant neoplasms of oropharynx
+                    2B6A.Z	Malignant neoplasms of oropharynx, unspecified
+                2B6B	Malignant neoplasms of nasopharynx
+                    2B6B.0	Squamous cell carcinoma of nasopharynx
+                    2B6B.1	Malignant epithelial neoplasms of nasopharynx, unspecified type
+                    2B6B.2	Malignant neoplasms of pharyngeal tonsil
+                        2B6B.20	Squamous cell carcinoma of pharyngeal tonsil
+                        2B6B.21	Other or unspecified malignant epithelial neoplasm of pharyngeal tonsil
+                        2B6B.2Y	Other specified malignant neoplasms of pharyngeal tonsil
+                        2B6B.2Z	Malignant neoplasm of pharyngeal tonsil without mention of type
+                    2B6B.Y	Other specified malignant neoplasms of nasopharynx
+                    2B6B.Z	Malignant neoplasms of nasopharynx, unspecified
+                2B6C	Malignant neoplasms of piriform sinus
+                    2B6C.0	Squamous cell carcinoma of piriform sinus
+                    2B6C.Y	Other specified malignant neoplasms of piriform sinus
+                    2B6C.Z	Malignant neoplasms of piriform sinus, unspecified
+                2B6D	Malignant neoplasms of hypopharynx
+                    2B6D.0	Squamous cell carcinoma of hypopharynx and variants
+                    2B6D.Y	Other specified malignant neoplasms of hypopharynx
+                    2B6D.Z	Malignant neoplasms of hypopharynx, unspecified
+                2B6E	Malignant neoplasms of other or ill-defined sites in the lip, oral cavity or pharynx
+                    2B6E.0	Squamous cell carcinoma of other or ill-defined sites in the lip, oral cavity or pharynx
+                    2B6E.Y	Other specified malignant neoplasms of other or ill-defined sites in the lip, oral cavity or pharynx
+                    2B6E.Z	Malignant neoplasms of other or ill-defined sites in the lip, oral cavity or pharynx, unspecified
+                2B6Y	Other specified malignant neoplasms of lip, oral cavity or pharynx
+            	Malignant neoplasms of digestive organs
+                2B70	Malignant neoplasms of oesophagus
+                    2B70.0	Adenocarcinoma of oesophagus
+                        2B70.00	Barrett adenocarcinoma
+                        2B70.0Y	Other specified adenocarcinoma of oesophagus
+                        2B70.0Z	Adenocarcinoma of oesophagus, unspecified
+                    2B70.1	Squamous cell carcinoma of oesophagus
+                    2B70.Y	Other specified malignant neoplasms of oesophagus
+                    2B70.Z	Malignant neoplasms of oesophagus, unspecified
+                2B71	Malignant neoplasms of oesophagogastric junction
+                    2B71.0	Adenocarcinoma of oesophagogastric junction
+                    2B71.Y	Other specified malignant neoplasm of oesophagogastric junction
+                    2B71.Z	Malignant neoplasms of oesophagogastric junction, unspecified
+                2B72	Malignant neoplasms of stomach
+                    2B72.0	Adenocarcinoma of stomach
+                    2B72.1	Malignant neuroendocrine neoplasm of stomach
+                    2B72.Y	Other specified malignant neoplasms of stomach
+                    2B72.Z	Malignant neoplasms of stomach, unspecified
+                	Malignant neoplasms of intestine
+                    2B80	Malignant neoplasms of small intestine
+                        2B80.0	Malignant neoplasms of duodenum
+                            2B80.00	Adenocarcinoma of duodenum
+                            2B80.01	Neuroendocrine neoplasm of duodenum
+                            2B80.0Y	Other specified malignant neoplasms of the duodenum
+                            2B80.0Z	Malignant neoplasms of duodenum, unspecified
+                        2B80.1	Malignant neoplasms of jejunum or ileum
+                            2B80.10	Adenocarcinoma of jejunum or ileum
+                            2B80.11	Neuroendocrine neoplasms of jejunum or ileum
+                            2B80.1Y	Other specified malignant neoplasms of jejunum or ileum
+                            2B80.1Z	Malignant neoplasms of jejunum or ileum, unspecified
+                        2B80.2	Malignant neoplasms of small intestine, site unspecified
+                            2B80.20	Adenocarcinoma of small intestine, site unspecified
+                            2B80.21	Neuroendocrine neoplasms of small intestine, site unspecified
+                            2B80.2Y	Other specified malignant neoplasms of small intestine, site unspecified
+                        2B80.Y	Other specified malignant neoplasms of small intestine
+                        2B80.Z	Malignant neoplasms of small intestine, unspecified
+                    2B81	Malignant neoplasms of appendix
+                        2B81.0	Adenocarcinoma of appendix
+                            2B81.00	Mucinous adenocarcinoma of appendix
+                        2B81.2	Neuroendocrine neoplasms of appendix
+                        2B81.Y	Other specified malignant neoplasms of appendix
+                        2B81.Z	Malignant neoplasms of appendix, unspecified
+                    	Malignant neoplasms of large intestine
+                        2B90	Malignant neoplasms of colon
+                            2B90.0	Malignant neoplasm of ascending colon and right flexure of colon
+                                2B90.00	Adenocarcinoma of ascending colon or right flexure of colon
+                                2B90.0Y	Other specified malignant neoplasm of ascending colon and right flexure of colon
+                                2B90.0Z	Malignant neoplasm of ascending colon and right flexure of colon, unspecified
+                            2B90.1	Malignant neoplasm of descending colon and splenic flexure of colon
+                                2B90.10	Adenocarcinoma of descending colon or splenic flexure of colon
+                                2B90.1Y	Other specified malignant neoplasm of descending colon and splenic flexure of colon
+                                2B90.1Z	Malignant neoplasm of descending colon and splenic flexure of colon, unspecified
+                            2B90.2	Malignant neoplasm of transverse colon
+                                2B90.20	Adenocarcinoma of transverse colon
+                                2B90.2Y	Other specified malignant neoplasm of transverse colon
+                                2B90.2Z	Malignant neoplasm of transverse colon, unspecified
+                            2B90.3	Malignant neoplasm of sigmoid colon
+                                2B90.30	Adenocarcinoma of sigmoid colon
+                                2B90.3Y	Other specified malignant neoplasm of sigmoid colon
+                                2B90.3Z	Malignant neoplasm of sigmoid colon, unspecified
+                            2B90.Y	Other specified malignant neoplasms of colon
+                            2B90.Z	Malignant neoplasms of colon, unspecified
+                        2B91	Malignant neoplasms of rectosigmoid junction
+                            2B91.0	Adenocarcinoma of rectosigmoid junction
+                            2B91.Y	Other specified malignant neoplasms of rectosigmoid junction
+                            2B91.Z	Malignant neoplasms of rectosigmoid junction, unspecified
+                        2B92	Malignant neoplasms of rectum
+                            2B92.0	Adenocarcinomas of rectum
+                            2B92.1	Neuroendocrine neoplasms of rectum
+                            2B92.Y	Other specified malignant neoplasms of rectum
+                            2B92.Z	Malignant neoplasms of rectum, unspecified
+                        2B93	Malignant neoplasms of large intestine, site unspecified
+                            2B93.0	Adenocarcinoma of large intestine, site unspecified
+                            2B93.Y	Other specified malignant neoplasms of large intestine, site unspecified
+                            2B93.Z	Malignant neoplasms of large intestine, site and type unspecified
+                        2B9Y	Other specified malignant neoplasms of large intestine
+                    2C00	Malignant neoplasms of anus or anal canal
+                        2C00.0	Adenocarcinoma of anus or anal canal
+                        2C00.1	Melanoma of anus or anal canal
+                        2C00.2	Neuroendocrine neoplasm of anus or anal canal
+                        2C00.3	Squamous cell carcinoma of anus or anal canal
+                        2C00.Y	Other specified malignant neoplasms of anus and anal canal
+                        2C00.Z	Malignant neoplasms of anus or anal canal, unspecified
+                    2C0Y	Other specified malignant neoplasms of intestine
+                    2C0Z	Malignant neoplasms of intestine, unspecified
+                2C10	Malignant neoplasm of pancreas
+                    2C10.0	Adenocarcinoma of pancreas
+                    2C10.1	Neuroendocrine neoplasms of pancreas
+                    2C10.Y	Other specified malignant neoplasms of pancreas
+                    2C10.Z	Malignant neoplasm of pancreas, unspecified
+                2C11	Malignant neoplasms of other or ill-defined digestive organs
+                    2C11.0	Adenocarcinoma of other or ill-defined digestive organs
+                    2C11.1	Mucinous carcinoma of other or ill-defined digestive organs
+                    2C11.2	Other specified malignant neoplasms of other or ill-defined digestive organs
+                    2C11.Z	Malignant neoplasms of other or ill-defined digestive organs, unspecified
+                2C12	Malignant neoplasms of liver or intrahepatic bile ducts
+                    2C12.0	Malignant neoplasm of liver
+                        2C12.00	Combined hepatocellular-cholangiocarcinoma
+                        2C12.01	Hepatoblastoma
+                        2C12.02	Hepatocellular carcinoma of liver
+                        2C12.03	Mesothelial carcinoma of liver
+                        2C12.0Y	Other specified malignant neoplasm of liver
+                        2C12.0Z	Malignant neoplasm of liver, unspecified
+                    2C12.1	Malignant neoplasm of intrahepatic bile ducts
+                        2C12.10	Intrahepatic cholangiocarcinoma
+                        2C12.1Y	Other specified malignant neoplasms of intrahepatic bile ducts
+                        2C12.1Z	Malignant neoplasm of intrahepatic bile ducts, unspecified
+                2C13	Malignant neoplasms of gallbladder
+                    2C13.0	Adenocarcinoma of the gallbladder
+                    2C13.Y	Other specified malignant neoplasm of gallbladder
+                    2C13.Z	Malignant neoplasms of gallbladder, unspecified
+                2C14	Malignant neoplasms of proximal biliary tract, cystic duct
+                    2C14.0	Adenocarcinoma of proximal biliary tract, cystic duct
+                    2C14.1	Mucinous cystic neoplasm with associated invasive carcinoma of cystic duct
+                    2C14.2	Neuroendocrine neoplasms of cystic duct
+                    2C14.Y	Other specified malignant neoplasms of biliary tract, cystic duct
+                    2C14.Z	Malignant neoplasms of proximal biliary tract, cystic duct, unspecified
+                2C15	Malignant neoplasms of biliary tract, distal bile duct
+                    2C15.0	Adenocarcinoma of biliary tract, distal bile duct
+                    2C15.1	Mucinous cystic neoplasm with associated invasive carcinoma of distal bile duct
+                    2C15.2	Neuroendocrine neoplasms of distal bile duct
+                    2C15.Y	Other specified malignant neoplasms of biliary tract, distal bile duct
+                    2C15.Z	Malignant neoplasms of biliary tract, distal bile duct, unspecified
+                2C16	Malignant neoplasms of ampulla of Vater
+                    2C16.0	Adenocarcinoma of ampulla of Vater
+                    2C16.1	Neuroendocrine neoplasms of ampulla of Vater
+                    2C16.Y	Other specified malignant neoplasms of ampulla of Vater
+                    2C16.Z	Malignant neoplasms of ampulla of Vater, unspecified
+                2C17	Malignant neoplasms of other or unspecified parts of biliary tract
+                    2C17.0	Adenocarcinoma of other or unspecified parts of biliary tract
+                    2C17.1	Mucinous cystic neoplasm with associated invasive carcinoma of other or unspecified parts of biliary tract
+                    2C17.2	Neuroendocrine neoplasms of other or unspecified parts of biliary tract
+                    2C17.Y	Other specified malignant neoplasms of overlapping lesion of biliary tract
+                    2C17.Z	Malignant neoplasms of other or unspecified parts of biliary tract, unspecified
+                2C18	Malignant neoplasms of perihilar bile duct
+                    2C18.0	Hilar cholangiocarcinoma
+                    2C18.1	Mucinous cystic neoplasm with associated invasive carcinoma of perihilar bile duct
+                    2C18.2	Neuroendocrine neoplasm of perihilar bile duct
+                    2C18.Y	Other specified malignant neoplasms of perihilar bile duct
+                    2C18.Z	Malignant neoplasms of perihilar bile duct, unspecified
+                2C1Z	Malignant neoplasms of digestive organs, unspecified
+            	Malignant neoplasms of middle ear, respiratory or intrathoracic organs
+                2C20	Malignant neoplasms of nasal cavity
+                    2C20.0	Adenocarcinoma of nasal cavity
+                    2C20.1	Malignant neuroepitheliomatous neoplasm of nasal cavity
+                    2C20.2	Melanoma of nasal cavity
+                    2C20.3	Olfactory neuroblastoma
+                    2C20.4	Squamous cell carcinoma of nasal cavity
+                    2C20.Y	Other specified malignant neoplasm of nasal cavity
+                    2C20.Z	Malignant neoplasms of nasal cavity, unspecified
+                2C21	Malignant neoplasms of middle ear
+                    2C21.0	Adenocarcinoma of middle ear
+                    2C21.1	Squamous cell carcinoma of middle ear
+                    2C21.2	Unspecified malignant epithelial neoplasm of middle ear
+                    2C21.Y	Other specified malignant neoplasm of middle ear
+                    2C21.Z	Malignant neoplasms of middle ear, unspecified
+                2C22	Malignant neoplasms of accessory sinuses
+                    2C22.0	Adenocarcinoma of accessory sinuses
+                    2C22.1	Squamous cell carcinoma of accessory sinuses
+                        2C22.10	Squamous cell carcinoma of sphenoidal sinus
+                        2C22.1Y	Squamous cell carcinoma of other specified accessory sinuses
+                    2C22.2	Malignant epithelial neoplasms of accessory sinuses, unspecified type
+                    2C22.3	Melanomas of accessory sinuses
+                    2C22.Y	Other specified malignant neoplasms of accessory sinuses
+                    2C22.Z	Malignant neoplasms of accessory sinuses, unspecified
+                2C23	Malignant neoplasms of larynx
+                    2C23.1	Malignant neoplasms of glottis of larynx
+                        2C23.10	Squamous cell carcinoma of larynx, glottis
+                        2C23.1Y	Other specified malignant neoplasms of larynx, glottis
+                    2C23.2	Malignant neoplasms of supraglottis of larynx
+                        2C23.20	Squamous cell carcinoma of larynx, supraglottis
+                        2C23.2Y	Other specified malignant neoplasms of larynx, supraglottis
+                    2C23.3	Malignant neoplasms of subglottis of larynx
+                        2C23.30	Squamous cell carcinoma of larynx, subglottis
+                        2C23.31	Adenocarcinoma of larynx, subglottis
+                        2C23.3Y	Other specified malignant neoplasms of larynx, subglottis
+                    2C23.4	Malignant neoplasm of laryngeal cartilage
+                    2C23.5	Malignant neoplasm of overlapping lesion of larynx
+                    2C23.Z	Malignant neoplasms of larynx, unspecified
+                2C24	Malignant neoplasms of trachea
+                    2C24.0	Adenocarcinoma of trachea
+                    2C24.1	Squamous cell carcinoma of trachea
+                    2C24.2	Malignant epithelial neoplasms of trachea, unspecified type
+                    2C24.Y	Other specified malignant neoplasms of trachea
+                    2C24.Z	Malignant neoplasms of trachea, unspecified
+                2C25	Malignant neoplasms of bronchus or lung
+                    2C25.0	Adenocarcinoma of bronchus or lung
+                    2C25.1	Small cell carcinoma of bronchus or lung
+                    2C25.2	Squamous cell carcinoma of bronchus or lung
+                    2C25.3	Large cell carcinoma of bronchus or lung
+                    2C25.4	Carcinoid or other malignant neuroendocrine neoplasms of bronchus or lung
+                    2C25.5	Unspecified malignant epithelial neoplasm of bronchus or lung
+                    2C25.Y	Other specified malignant neoplasms of bronchus or lung
+                    2C25.Z	Malignant neoplasms of bronchus or lung, unspecified
+                2C26	Malignant neoplasms of the pleura
+                    2C26.0	Mesothelioma of pleura
+                    2C26.Y	Other specified malignant neoplasms of the pleura
+                    2C26.Z	Malignant neoplasms of the pleura, unspecified
+                2C27	Malignant neoplasms of thymus
+                    2C27.0	Carcinoma of thymus
+                    2C27.1	Carcinoid tumour or other neuroendocrine neoplasms of thymus
+                    2C27.2	Malignant thymoma
+                    2C27.Y	Other specified malignant neoplasms of thymus
+                    2C27.Z	Malignant neoplasms of thymus, unspecified
+                2C28	Malignant neoplasms of heart, mediastinum or non-mesothelioma of pleura
+                    2C28.0	Malignant germ cell neoplasms of heart, mediastinum or non-mesothelioma of pleura
+                    2C28.1	Other specified malignant neoplasms of heart, mediastinum or non-mesothelioma of pleura
+                    2C28.Z	Malignant neoplasms of heart, mediastinum or non-mesothelioma of pleura, unspecified
+                2C29	Malignant neoplasms of other or ill-defined sites in the respiratory system or intrathoracic organs
+                    2C29.0	Squamous cell carcinomas of other and ill-defined sites in the respiratory system and intrathoracic organs
+                    2C29.1	Other specified malignant neoplasms of other or ill-defined sites in the respiratory system or intrathoracic organs
+                    2C29.Z	Malignant neoplasms of other or ill-defined sites in the respiratory system or intrathoracic organs, unspecified
+                2C2Y	Other specified malignant neoplasms of middle ear, respiratory or intrathoracic organs
+                2C2Z	Malignant neoplasms of middle ear, respiratory or intrathoracic organs, unspecified
+            	Malignant neoplasms of skin
+                2C30	Melanoma of skin
+                    2C30.0	Superficial spreading melanoma, primary
+                    2C30.1	Nodular melanoma, primary
+                    2C30.2	Lentigo maligna melanoma, primary
+                    2C30.3	Acral lentiginous melanoma, primary
+                    2C30.Y	Other specified melanoma of skin
+                    2C30.Z	Melanoma of skin, unspecified
+                2C31	Squamous cell carcinoma of skin
+                    2C31.0	Verrucous squamous cell carcinoma of skin
+                    2C31.1	Keratoacanthoma
+                    2C31.Z	Cutaneous squamous cell carcinoma
+                2C32	Basal cell carcinoma of skin
+                    2C32.0	Nodular basal cell carcinoma of skin
+                    2C32.1	Sclerosing basal cell carcinoma of skin
+                    2C32.2	Superficial basal cell carcinoma of skin
+                    2C32.Y	Other specified basal cell carcinoma of skin
+                    2C32.Z	Basal cell carcinoma of skin, unspecified
+                2C33	Adnexal carcinoma of skin
+                2C34	Cutaneous neuroendocrine carcinoma
+                2C35	Cutaneous sarcoma
+                2C3Y	Other specified malignant neoplasms of skin
+                2C3Z	Malignant neoplasm of skin of unknown or unspecified type
+            	Malignant neoplasms of peripheral nerves or autonomic nervous system
+                2C40	Malignant neuroepitheliomatous neoplasms of peripheral nerves or autonomic nervous system
+                2C41	Malignant perineurioma
+                2C4Y	Other specified malignant neoplasms of peripheral nerves and autonomic nervous system
+                2C4Z	Malignant neoplasms of peripheral nerves or autonomic nervous system, unspecified
+            	Malignant neoplasms of retroperitoneum, peritoneum or omentum
+                2C50	Malignant neoplasms of retroperitoneum
+                    2C50.0	Cystic, mucinous or serous carcinoma of retroperitoneum
+                    2C50.Y	Other specified malignant neoplasms of retroperitoneum
+                    2C50.Z	Malignant neoplasms of retroperitoneum, unspecified
+                2C51	Malignant neoplasms of peritoneum
+                    2C51.0	Adenocarcinomas of peritoneum
+                    2C51.1	Cystic, mucinous or serous carcinoma of peritoneum
+                    2C51.2	Mesotheliomas of peritoneum
+                        2C51.20	Mesothelioma of mesocolon
+                        2C51.21	Mesothelioma of mesentery
+                        2C51.2Y	Mesotheliomas of other specified sites of peritoneum
+                        2C51.2Z	Mesotheliomas of peritoneum, site unspecified
+                    2C51.Y	Other specified malignant neoplasms of peritoneum
+                    2C51.Z	Malignant neoplasms of peritoneum, unspecified
+                2C52	Malignant neoplasms of omentum
+                    2C52.0	Cystic, mucinous or serous carcinoma of omentum
+                    2C52.Y	Other specified malignant neoplasms of omentum
+                    2C52.Z	Malignant neoplasms of omentum, unspecified
+                2C53	Malignant neoplasm involving overlapping sites of retroperitoneum, peritoneum or omentum
+                    2C53.0	Adenocarcinoma involving overlapping sites of retroperitoneum, peritoneum or omentum
+                    2C53.1	Mesothelioma involving overlapping sites of retroperitoneum, peritoneum or omentum
+                    2C53.Y	Other specified malignant neoplasm involving overlapping sites of retroperitoneum, peritoneum or omentum
+                    2C53.Z	Malignant neoplasm involving overlapping sites of retroperitoneum, peritoneum or omentum, unspecified
+                2C5Y	Other specified malignant neoplasms of retroperitoneum, peritoneum or omentum
+                2C5Z	Malignant neoplasms of retroperitoneum, peritoneum or omentum, unspecified
+            	Malignant neoplasms of breast
+                2C60	Carcinoma of breast, specialised type
+                2C61	Invasive carcinoma of breast
+                    2C61.0	Invasive ductal carcinoma of breast
+                    2C61.1	Invasive lobular carcinoma of breast
+                    2C61.2	Invasive pleomorphic lobular carcinoma of breast
+                    2C61.3	Invasive carcinoma of breast with mixed ductal and lobular features
+                    2C61.4	Invasive carcinoma of breast, unidentifiable type
+                2C62	Inflammatory carcinoma of breast
+                2C63	Malignant phyllodes tumour of breast
+                2C64	Solid papillary carcinoma of breast with evidence of invasion
+                2C65	Hereditary breast and ovarian cancer syndrome
+                2C6Y	Other specified malignant neoplasms of breast
+                2C6Z	Malignant neoplasms of breast, unspecified
+            	Malignant neoplasms of female genital organs
+                2C70	Malignant neoplasms of vulva
+                    2C70.0	Basal cell carcinoma of vulva
+                    2C70.1	Melanoma of vulva
+                    2C70.2	Squamous cell carcinoma of vulva
+                    2C70.Y	Other specified malignant neoplasms of vulva
+                    2C70.Z	Malignant neoplasms of vulva, unspecified
+                2C71	Malignant neoplasms of vagina
+                    2C71.0	Adenocarcinoma of vagina
+                    2C71.1	Melanoma of vagina
+                    2C71.2	Squamous cell carcinoma of vagina
+                    2C71.Y	Other specified malignant neoplasms of vagina
+                    2C71.Z	Malignant neoplasms of vagina, unspecified
+                2C72	Malignant neoplasms of uterine ligament, parametrium, or uterine adnexa
+                    2C72.0	Adenocarcinoma of uterine ligament, parametrium, or uterine adnexa
+                    2C72.1	Mucinous or serous carcinoma of uterine ligament, parametrium, or uterine adnexa
+                    2C72.3	Carcinosarcomas of uterine ligament, parametrium, or uterine adnexa
+                    2C72.Y	Other specified malignant neoplasms of uterine ligament, parametrium, and uterine adnexa
+                    2C72.Z	Malignant neoplasms of uterine ligament, parametrium, or uterine adnexa, unspecified
+                2C73	Malignant neoplasms of ovary
+                    2C73.0	Carcinomas of ovary
+                        2C73.00	Clear cell adenocarcinoma of ovary
+                        2C73.01	Endometrioid adenocarcinoma of ovary
+                        2C73.02	Low grade serous adenocarcinoma of ovary
+                        2C73.03	High grade serous adenocarcinoma of ovary
+                        2C73.04	Mucinous adenocarcinoma of ovary
+                        2C73.0Y	Other specified carcinomas of ovary
+                        2C73.0Z	Carcinomas of ovary, unspecified
+                    2C73.1	Dysgerminoma of ovary
+                    2C73.2	Granulosa cell malignant tumour of ovary
+                    2C73.3	Malignant teratoma of ovary
+                    2C73.4	Serous cystadenoma, borderline malignancy of ovary
+                    2C73.5	Endodermal sinus tumour, unspecified site, female
+                    2C73.Y	Other specified malignant neoplasms of the ovary
+                    2C73.Z	Malignant neoplasms of ovary, unspecified
+                2C74	Malignant neoplasms of fallopian tube
+                    2C74.0	Adenocarcinoma of fallopian tube
+                    2C74.Y	Other specified malignant neoplasms of fallopian tube
+                    2C74.Z	Malignant neoplasms of fallopian tube, unspecified
+                2C75	Malignant neoplasms of placenta
+                    2C75.0	Malignant trophoblastic neoplasms of placenta
+                    2C75.Y	Other specified malignant neoplasms of placenta
+                    2C75.Z	Malignant neoplasms of placenta, unspecified
+                2C76	Malignant neoplasms of corpus uteri
+                    2C76.0	Endometrial endometrioid adenocarcinoma
+                    2C76.1	Endometrial mucinous adenocarcinoma
+                    2C76.2	Endometrial clear cell adenocarcinoma
+                    2C76.3	Endometrial serous adenocarcinoma
+                    2C76.4	Endometrial mixed adenocarcinoma
+                        2C76.40	Endometrial squamous cell carcinoma
+                        2C76.41	Endometrial small cell carcinoma
+                        2C76.42	Endometrial undifferentiated carcinoma
+                        2C76.43	Carcinosarcoma of uterus
+                        2C76.4Z	Endometrial mixed adenocarcinoma, unspecified
+                    2C76.Y	Other specified malignant neoplasms of corpus uteri
+                    2C76.Z	Malignant neoplasms of corpus uteri, unspecified
+                2C77	Malignant neoplasms of cervix uteri
+                    2C77.0	Squamous cell carcinoma of cervix uteri
+                    2C77.1	Adenocarcinoma of cervix uteri
+                    2C77.2	Adenosquamous carcinoma of cervix uteri
+                    2C77.3	Neuroendocrine carcinoma of cervix uteri
+                    2C77.Y	Other specified malignant neoplasms of cervix uteri
+                    2C77.Z	Malignant neoplasms of cervix uteri, unspecified
+                2C78	Malignant neoplasms of uterus, part not specified
+                2C79	Malignant neoplasm involving overlapping sites of female genital organs
+                2C7Y	Other specified malignant neoplasms of female genital organs
+                2C7Z	Malignant neoplasms of female genital organs, unspecified
+            	Malignant neoplasms of male genital organs
+                2C80	Malignant neoplasms of testis
+                    2C80.2	Germ cell tumour of testis
+                    2C80.Y	Other specified malignant neoplasms of testis
+                    2C80.Z	Malignant neoplasms of testis, unspecified
+                2C81	Malignant neoplasms of penis
+                    2C81.0	Squamous cell carcinoma of penis
+                    2C81.1	Melanoma of penis
+                    2C81.Y	Other specified malignant neoplasm of penis
+                    2C81.Z	Malignant neoplasms of penis, unspecified
+                2C82	Malignant neoplasms of prostate
+                    2C82.0	Adenocarcinoma of prostate
+                    2C82.Y	Other specified malignant neoplasms of prostate
+                    2C82.Z	Malignant neoplasms of prostate, unspecified
+                2C83	Malignant neoplasms of scrotum
+                    2C83.0	Squamous cell carcinoma of scrotum
+                    2C83.Y	Other specified malignant neoplasms of scrotum
+                    2C83.Z	Malignant neoplasms of scrotum, unspecified
+                2C84	Malignant neoplasms of other specified male genital organs
+                2C8Z	Malignant neoplasms of male genital organs, unspecified
+            	Malignant neoplasms of urinary tract
+                2C90	Malignant neoplasms of kidney, except renal pelvis
+                    2C90.0	Renal cell carcinoma of kidney, except renal pelvis
+                    2C90.Y	Other specified malignant neoplasms of kidney, except renal pelvis
+                    2C90.Z	Malignant neoplasms of kidney, except renal pelvis, unspecified
+                2C91	Malignant neoplasms of renal pelvis
+                    2C91.0	Urothelial carcinoma of renal pelvis
+                    2C91.Y	Other specified malignant neoplasms of renal pelvis
+                    2C91.Z	Malignant neoplasms of renal pelvis, unspecified
+                2C92	Malignant neoplasms of ureter
+                    2C92.0	Urothelial carcinoma of ureter
+                    2C92.Y	Other specified malignant neoplasms of ureter
+                    2C92.Z	Malignant neoplasms of ureter, unspecified
+                2C93	Malignant neoplasms of urethra or paraurethral gland
+                    2C93.0	Adenocarcinoma of urethra or paraurethral gland
+                    2C93.1	Squamous cell carcinoma of urethra or paraurethral gland
+                    2C93.2	Urothelial carcinoma of urethra or paraurethral gland
+                    2C93.Y	Other specified malignant neoplasms of urethra and paraurethral gland
+                    2C93.Z	Malignant neoplasms of urethra or paraurethral gland, unspecified
+                2C94	Malignant neoplasms of bladder
+                    2C94.0	Adenocarcinoma of urinary bladder
+                    2C94.1	Squamous cell carcinoma of urinary bladder
+                    2C94.2	Urothelial carcinoma of bladder
+                    2C94.Y	Other specified malignant neoplasms of bladder
+                    2C94.Z	Malignant neoplasms of bladder, unspecified
+                2C95	Malignant neoplasm involving overlapping sites of urinary organs
+                    2C95.0	Adenocarcinoma involving overlapping sites of urinary organs
+                    2C95.1	Squamous cell carcinomas involving overlapping sites of urinary organs
+                    2C95.2	Urothelial carcinoma involving overlapping sites of urinary organs
+                    2C95.Y	Other specified malignant neoplasms of overlapping lesion of urinary organs
+                    2C95.Z	Malignant neoplasm involving overlapping sites of urinary organs, unspecified
+                2C9Y	Other specified malignant neoplasms of urinary tract
+                2C9Z	Malignant neoplasms of urinary tract, unspecified
+            	Malignant neoplasms of eye or ocular adnexa
+                2D00	Malignant neoplasm of conjunctiva
+                    2D00.0	Melanoma of conjunctiva
+                    2D00.1	Malignant neoplasm of caruncle
+                    2D00.2	Squamous cell carcinoma of conjunctiva
+                    2D00.Y	Other specified malignant neoplasm of conjunctiva
+                    2D00.Z	Malignant neoplasm of conjunctiva, unspecified
+                2D01	Malignant neoplasm of cornea
+                    2D01.0	Melanoma of cornea
+                    2D01.1	Squamous cell carcinoma of cornea
+                    2D01.Y	Other specified malignant neoplasms of cornea
+                    2D01.Z	Malignant neoplasm of cornea, unspecified
+                2D02	Malignant neoplasm of retina
+                    2D02.0	Adenocarcinoma of retinal pigment epithelium
+                    2D02.1	Malignant neuroepithelial tumours of retina
+                    2D02.2	Retinoblastoma
+                    2D02.Y	Other specified malignant neoplasm of retina
+                    2D02.Z	Malignant neoplasm of retina, unspecified
+                2D03	Malignant neoplasm of lacrimal apparatus
+                    2D03.0	Adenocarcinoma of the lacrimal apparatus
+                    2D03.1	Mucoepidermoid carcinoma of lacrimal apparatus
+                    2D03.2	Squamous cell carcinoma of the lacrimal apparatus
+                    2D03.Y	Other specified malignant neoplasm of lacrimal apparatus
+                    2D03.Z	Malignant neoplasm of lacrimal apparatus, unspecified
+                2D04	Malignant neoplasm of orbit
+                2D05	Malignant neoplasm of choroid
+                    2D05.0	Melanoma of choroid
+                    2D05.Y	Other specified malignant neoplasm of choroid
+                    2D05.Z	Malignant neoplasm of choroid, unspecified
+                2D06	Malignant neoplasm of ciliary body
+                    2D06.0	Adenocarcinoma of ciliary epithelium
+                    2D06.1	Malignant medulloepithelioma of ciliary body
+                    2D06.3	Malignant neuroepithelial tumours of ciliary body
+                    2D06.4	Melanoma of ciliary body
+                    2D06.Y	Other specified malignant neoplasm of ciliary body
+                    2D06.Z	Malignant neoplasm of ciliary body, unspecified
+                2D07	Malignant neoplasm of iris
+                    2D07.0	Adenocarcinoma of iris epithelium
+                    2D07.1	Malignant neuroepithelial tumours of iris
+                    2D07.2	Melanoma of iris
+                    2D07.Y	Other specified malignant neoplasm of iris
+                    2D07.Z	Malignant neoplasm of iris, unspecified
+                2D0Y	Other specified malignant neoplasms of eye and ocular adnexa
+                2D0Z	Malignant neoplasms of eye or ocular adnexa, unspecified
+            	Malignant neoplasms of endocrine glands
+                2D10	Malignant neoplasms of thyroid gland
+                    2D10.0	Follicular carcinoma of thyroid gland
+                    2D10.1	Papillary carcinoma of thyroid gland
+                    2D10.2	Poorly differentiated carcinoma of thyroid gland
+                    2D10.3	Undifferentiated carcinoma of thyroid gland
+                    2D10.4	Medullary carcinoma of thyroid gland
+                    2D10.Y	Other specified malignant neoplasms of thyroid gland
+                    2D10.Z	Malignant neoplasms of thyroid gland, unspecified
+                2D11	Malignant neoplasms of adrenal gland
+                    2D11.0	Adenocarcinoma of adrenal gland
+                    2D11.1	Malignant phaeochromocytoma of adrenal gland
+                    2D11.2	Neuroblastoma of adrenal gland
+                    2D11.Y	Other specified malignant neoplasms of adrenal gland
+                    2D11.Z	Malignant neoplasms of adrenal gland, unspecified
+                2D12	Malignant neoplasms of other endocrine glands or related structures
+                    2D12.0	Malignant epithelial neoplasms of other endocrine glands or related structures, unspecified type
+                    2D12.1	Adenocarcinoma of other endocrine glands or related structures
+                    2D12.Y	Other specified malignant neoplasms of other endocrine glands or related structures
+                    2D12.Z	Malignant neoplasms of other endocrine glands or related structures, unspecified
+                2D1Z	Malignant neoplasms of endocrine glands, unspecified
+            2D3Y	Other specified malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic, central nervous system or related tissues
+            2D3Z	Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic, central nervous system or related tissues, unspecified
+        	Malignant neoplasms of ill-defined or unspecified primary sites
+            2D40	Adenocarcinoma of unspecified site
+            2D41	Unspecified carcinoma of unspecified site
+            2D42	Malignant neoplasms of ill-defined sites
+            2D43	Malignant neoplasms of independent, multiple primary sites
+            2D44	Malignant neoplasm, primary site unknown, so stated
+            2D4Y	Other specified malignant neoplasms of unspecified primary sites
+            2D4Z	Unspecified malignant neoplasms of unspecified sites
+        	Malignant neoplasm metastases
+            2D50	Malignant neoplasm metastasis in brain
+            2D51	Malignant neoplasm metastasis in meninges
+            2D52	Malignant neoplasm metastasis in spinal cord, cranial nerves or remaining parts of central nervous system
+            	Malignant neoplasm metastasis in lymph nodes
+                2D60	Malignant neoplasm metastasis in lymph node of a single region
+                    2D60.0	Malignant neoplasm metastasis in lymph nodes of head, face or neck
+                    2D60.1	Malignant neoplasm metastasis in intrathoracic lymph nodes
+                    2D60.2	Malignant neoplasm metastasis in intra-abdominal lymph nodes
+                    2D60.3	Malignant neoplasm metastasis in axillary lymph nodes
+                    2D60.4	Malignant neoplasm metastasis in inguinal lymph nodes
+                    2D60.5	Malignant neoplasm metastasis in intrapelvic lymph nodes
+                    2D60.Y	Other specified malignant neoplasm metastasis in lymph node of a single region
+                    2D60.Z	Malignant neoplasm metastasis in lymph node of a single region, unspecified
+                2D61	Malignant neoplasm metastases in lymph nodes of multiple regions
+                2D6Z	Metastatic malignant neoplasm to unspecified lymph node
+            	Malignant neoplasm metastasis in thoracic or respiratory organs
+                2D70	Malignant neoplasm metastasis in lung
+                2D71	Malignant neoplasm metastasis in mediastinum
+                2D72	Malignant neoplasm metastasis in pleura
+                2D73	Malignant neoplasm metastasis in upper respiratory tract organs
+                2D7Y	Malignant neoplasm metastasis in other specified thoracic organs
+                2D7Z	Malignant neoplasm metastasis in thoracic or respiratory organs, unspecified
+            	Malignant neoplasm metastasis in digestive system
+                2D80	Malignant neoplasm metastasis in liver or intrahepatic bile duct
+                    2D80.0	Malignant neoplasm metastasis in liver
+                    2D80.1	Malignant neoplasm metastasis in intrahepatic bile duct
+                2D81	Malignant neoplasm metastasis in pancreas
+                2D82	Malignant neoplasm metastasis in extrahepatic bile ducts
+                2D83	Malignant neoplasm metastasis in ampulla of Vater
+                2D84	Malignant neoplasm metastasis in the small intestine
+                2D85	Malignant neoplasm metastasis in large intestine
+                2D86	Malignant neoplasm metastasis in anus
+                2D8Y	Malignant neoplasm metastasis in other specified digestive system organ
+                2D8Z	Malignant neoplasm metastasis in unspecified digestive system organ
+            	Malignant neoplasm metastasis in retroperitoneum or peritoneum
+                2D90	Malignant neoplasm metastasis in retroperitoneum
+                2D91	Malignant neoplasm metastasis in peritoneum
+            	Malignant neoplasm metastasis in other sites
+                2E00	Malignant neoplasm metastasis in kidney or renal pelvis
+                2E01	Malignant neoplasm metastasis in bladder
+                2E02	Malignant neoplasm metastasis in other or unspecified urinary system organs
+                2E03	Malignant neoplasm metastasis in bone or bone marrow
+                2E04	Malignant neoplasm metastasis in soft tissue
+                2E05	Malignant neoplasm metastasis in female reproductive system
+                    2E05.0	Malignant neoplasm metastasis in ovary
+                    2E05.Y	Malignant neoplasm metastasis in other female reproductive system organs
+                    2E05.Z	Malignant neoplasm metastasis in female reproductive system, unspecified
+                2E06	Malignant neoplasm metastasis in male genital organs
+                2E07	Malignant neoplasm metastasis in adrenal gland
+                2E08	Metastatic malignant neoplasm involving skin
+                2E09	Malignant neoplasm metastasis in peripheral nervous system
+                2E0Y	Malignant neoplasm metastasis in other specified sites
+            2E2Z	Malignant neoplasm metastasis, unspecified
+    	In situ neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues
+        2E60	Carcinoma in situ of oral cavity, oesophagus or stomach
+            2E60.0	Carcinoma in situ of lip, oral cavity or pharynx
+            2E60.1	Carcinoma in situ of oesophagus
+            2E60.2	Carcinoma in situ of stomach
+        2E61	Carcinoma in situ of other or unspecified digestive organs
+            2E61.0	Carcinoma in situ of colon
+            2E61.1	Carcinoma in situ of rectum
+            2E61.2	Carcinoma in situ of anal canal
+            2E61.3	Carcinoma in situ of gallbladder, biliary tract or ampulla of Vater
+            2E61.Y	Carcinoma in situ of other specified digestive organs
+            2E61.Z	Carcinoma in situ of unspecified digestive organs
+        2E62	Carcinoma in situ of middle ear or respiratory system
+            2E62.0	Carcinoma in situ of larynx
+            2E62.1	Carcinoma in situ of trachea
+            2E62.2	Carcinoma in situ of bronchus or lung
+            2E62.Y	Carcinoma in situ of other specified sites of middle ear and respiratory system
+            2E62.Z	Carcinoma in situ of unspecified sites of middle ear and respiratory system
+        2E63	Melanoma in situ neoplasms
+            2E63.0	Melanoma in situ of skin
+                2E63.00	Lentigo maligna
+                2E63.0Z	Melanoma in situ of skin, unspecified
+            2E63.1	Melanoma in situ of conjunctiva
+            2E63.Y	Melanoma in situ neoplasms, other specified site
+            2E63.Z	Melanoma in situ neoplasms, unspecified site
+        2E64	Carcinoma in situ of skin
+            2E64.0	Intraepidermal squamous cell carcinoma
+                2E64.00	Bowen disease of skin
+                2E64.01	Actinic intraepidermal squamous cell carcinoma
+                2E64.0Y	Other specified intraepidermal squamous cell carcinoma
+                2E64.0Z	Intraepidermal squamous cell carcinoma, unspecified
+            2E64.1	Extramammary Paget disease of skin
+            2E64.2	Carcinoma in situ of anal margin or perianal skin
+            2E64.Y	Other specified carcinoma in situ of skin
+            2E64.Z	Carcinoma in situ of skin, unspecified
+        2E65	Carcinoma in situ of breast
+            2E65.0	Lobular carcinoma in situ of breast
+            2E65.1	Lobular carcinoma in situ of breast, pleomorphic subtype
+            2E65.2	Ductal carcinoma in situ of breast
+            2E65.3	Ductal carcinoma in situ of breast, comedo subtype
+            2E65.4	Mixed ductal and lobular carcinoma in situ of breast
+            2E65.5	Paget disease of nipple
+            2E65.Y	Other specified carcinoma in situ of breast
+            2E65.Z	Carcinoma in situ of breast, unspecified
+        2E66	Carcinoma in situ of cervix uteri
+            2E66.2	High grade squamous intraepithelial lesion of cervix uteri
+            2E66.Y	Other specified carcinoma in situ of cervix uteri
+            2E66.Z	Carcinoma in situ of cervix uteri, unspecified
+        2E67	Carcinoma in situ of other or unspecified genital organs
+            2E67.0	Carcinoma in situ of endometrium
+            2E67.1	Carcinoma in situ of vulva
+                2E67.11	Vulvar Paget disease
+                2E67.12	Vulvar intraepithelial neoplasia, HPV-independent
+                2E67.13	High grade squamous intraepithelial lesion of vulva, HPV-associated
+            2E67.2	Carcinoma in situ of vagina
+                2E67.22	High grade squamous intraepithelial lesion of vagina
+                2E67.2Y	Other specified carcinoma in situ of vagina
+                2E67.2Z	Carcinoma in situ of vagina, unspecified
+            2E67.3	Carcinoma in situ of other or unspecified female genital organs
+            2E67.4	Carcinoma in situ of penis
+                2E67.40	Squamous cell carcinoma in situ of skin of penis
+                2E67.41	Squamous cell carcinoma in situ of mucocutaneous epithelium of penis
+            2E67.5	High grade intraepithelial lesion of prostate
+            2E67.6	Carcinoma in situ of other or unspecified male genital organs
+        2E68	Carcinoma in situ of bladder
+        2E69	Carcinoma in situ of other or unspecified urinary organs
+        2E6A	Carcinoma in situ of the eye or ocular adnexa
+            2E6A.0	Carcinoma in situ of the conjunctiva
+            2E6A.1	Carcinoma in situ of the cornea
+            2E6A.Y	Carcinoma in situ of other and unspecified part of the eye and adnexa
+        2E6B	Carcinoma in situ of thyroid and other endocrine glands
+        2E6Y	Carcinoma in situ of other specified site
+        2E6Z	Carcinoma in situ of unspecified site
+    	Benign neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues
+        	Benign mesenchymal neoplasms
+            2E80	Benign lipomatous neoplasm
+                2E80.0	Lipoma
+                    2E80.00	Superficial subcutaneous lipoma
+                    2E80.01	Deep subfascial lipoma
+                    2E80.02	Deep internal or visceral lipoma
+                    2E80.0Y	Lipoma, other specified site
+                    2E80.0Z	Lipoma, unspecified site
+                2E80.1	Lipoblastoma
+                2E80.Y	Other specified benign lipomatous neoplasm
+                2E80.Z	Benign lipomatous neoplasm, unspecified
+            2E81	Benign vascular neoplasms
+                2E81.0	Neoplastic haemangioma
+                    2E81.00	Umbilical cord haemangioma
+                    2E81.01	Conjunctival haemangioma or haemolymphangioma
+                    2E81.0Y	Neoplastic haemangioma of other specified site
+                    2E81.0Z	Neoplastic haemangioma, unspecified site
+                2E81.1	Benign lymphatic neoplasms
+                    2E81.10	Disseminated lymphangiomatosis
+                    2E81.11	Acquired progressive lymphangioma
+                    2E81.1Y	Other specified benign lymphatic neoplasms
+                    2E81.1Z	Benign lymphatic neoplasms, unspecified
+                2E81.2	Benign vascular neoplasms of infancy and childhood
+                    2E81.20	Focal infantile haemangioma
+                    2E81.21	Multifocal infantile haemangioma
+                    2E81.2Y	Other specified benign vascular neoplasms of infancy and childhood
+                    2E81.2Z	Benign vascular neoplasms of infancy and childhood, unspecified
+                2E81.Y	Other specified benign vascular neoplasms
+                2E81.Z	Benign vascular neoplasms, unspecified
+            2E82	Benign chondrogenic tumours
+                2E82.0	Benign chondrogenic tumours of bone or articular cartilage of limbs
+                2E82.1	Benign chondrogenic tumours of bone or articular cartilage of other specified sites
+                2E82.Z	Benign chondrogenic tumours, site unspecified
+            2E83	Benign osteogenic tumours
+                2E83.0	Benign osteogenic tumours of bone or articular cartilage of skull or face
+                2E83.1	Benign osteogenic tumours of bone or articular cartilage of lower jaw
+                2E83.2	Benign osteogenic tumours of bone or articular cartilage of vertebral column
+                2E83.3	Benign osteogenic tumours of bone or articular cartilage of ribs, sternum or clavicle
+                2E83.4	Benign osteogenic tumours of bone or articular cartilage of pelvic bones, sacrum or coccyx
+                2E83.5	Benign osteogenic tumours of bone or articular cartilage of limbs
+                2E83.Y	Benign osteogenic tumour of other specified site
+                2E83.Z	Benign osteogenic tumour of unspecified site
+            2E84	Benign fibrogenic or myofibrogenic tumour
+                2E84.0	Benign fibrogenic or myofibrogenic tumour of skin
+                2E84.Y	Benign fibrogenic or myofibrogenic tumour of other specified sites
+                2E84.Z	Benign fibrogenic or myofibrogenic tumour, site unknown
+            2E85	Benign fibrohistiocytic tumour
+                2E85.0	Benign fibrohistiocytic tumour of soft tissues of limbs
+                2E85.1	Benign fibrohistiocytic tumour of retroperitoneum or peritoneum
+                2E85.2	Benign fibrohistiocytic tumour of skin
+                2E85.Y	Benign fibrohistiocytic tumour of other specified sites
+                2E85.Z	Benign fibrohistiocytic tumour, site unspecified
+            2E86	Benign smooth muscle or skeletal muscle tumour
+                2E86.0	Leiomyoma of uterus
+                2E86.1	Leiomyoma of other or unspecified sites
+                2E86.2	Rhabdomyoma
+                2E86.Y	Other specified benign smooth muscle or skeletal muscle tumour
+                2E86.Z	Benign smooth muscle or skeletal muscle tumour, unspecified
+            2E87	Benign gastrointestinal stromal tumour
+            2E88	Benign endometrial stromal nodule
+            2E89	Benign mesenchymal tumours of uncertain differentiation
+                2E89.0	Benign tumours of uncertain differentiation, bone or cartilage
+                2E89.1	Benign tumours of uncertain differentiation, soft tissue
+                2E89.Y	Benign mesenchymal tumours of uncertain differentiation of other specified site
+                2E89.Z	Benign mesenchymal tumours of uncertain differentiation of unspecified site
+            2E8A	Other mixed or unspecified benign mesenchymal tumours
+            2E8Y	Other specified benign mesenchymal neoplasm
+            2E8Z	Benign mesenchymal neoplasms, unspecified
+        	Benign non-mesenchymal neoplasms
+            2E90	Benign neoplasm of lip, oral cavity or pharynx
+                2E90.0	Benign neoplasm of lip
+                2E90.1	Benign neoplasm of tongue
+                2E90.2	Benign neoplasm of floor of mouth
+                2E90.3	Benign neoplasm of other or unspecified parts of mouth
+                2E90.4	Benign neoplasm of tonsil
+                2E90.5	Benign neoplasm of oropharynx
+                2E90.6	Benign neoplasm of nasopharynx
+                2E90.7	Benign neoplasm of hypopharynx
+                2E90.8	Benign neoplasm of pharynx, unspecified
+            2E91	Benign neoplasm of major salivary glands
+                2E91.0	Benign neoplasm of parotid gland
+                2E91.1	Benign neoplasm of other specified major salivary glands
+                2E91.Z	Benign neoplasm of unspecified major salivary glands
+            2E92	Benign neoplasm of digestive organs
+                2E92.0	Benign neoplasm of oesophagus
+                2E92.1	Benign neoplasm of stomach
+                2E92.2	Benign neoplasm of duodenum
+                2E92.3	Benign neoplasm of other or unspecified parts of small intestine
+                2E92.4	Benign neoplasm of the large intestine
+                    2E92.40	Polyposis syndrome
+                    2E92.4Y	Other specified benign neoplasm of the large intestine
+                    2E92.4Z	Benign neoplasm of the large intestine, unspecified
+                2E92.5	Benign neoplasm of anus or anal canal
+                2E92.6	Benign neoplasm of gallbladder, extrahepatic bile ducts or ampulla of Vater
+                2E92.7	Benign neoplasm of liver or intrahepatic bile ducts
+                2E92.8	Benign neoplasm of pancreas
+                2E92.9	Benign neoplasm of endocrine pancreas
+                2E92.Y	Benign neoplasm of other specified digestive organs
+                2E92.Z	Benign neoplasm of unspecified digestive organs
+            	Benign neoplasm of respiratory or intrathoracic organs
+                2F00	Benign neoplasm of middle ear or respiratory system
+                    2F00.0	Middle ear endocrine tumour
+                    2F00.1	Recurrent respiratory papillomatosis
+                    2F00.2	Laryngeal endocrine tumour
+                    2F00.Y	Other specified benign neoplasm of middle ear or respiratory system
+                    2F00.Z	Benign neoplasm of middle ear or respiratory system, unspecified
+                2F01	Benign neoplasm of intrathoracic organs
+                2F0Y	Benign neoplasms of other specified respiratory and intrathoracic organs
+                2F0Z	Benign neoplasms of unspecified respiratory and intrathoracic organs
+            2F10	Benign neoplasm of mesothelial tissue
+            	Benign cutaneous neoplasms
+                2F20	Benign cutaneous melanocytic neoplasms
+                    2F20.0	Common acquired melanocytic naevus
+                        2F20.00	Multiple benign melanocytic naevi
+                        2F20.0Y	Other specified common acquired melanocytic naevus
+                        2F20.0Z	Common acquired melanocytic naevus, unspecified
+                    2F20.1	Atypical melanocytic naevus
+                    2F20.2	Congenital melanocytic naevus
+                        2F20.20	Giant congenital melanocytic naevus
+                        2F20.2Y	Other specified congenital melanocytic naevus
+                        2F20.2Z	Congenital melanocytic naevus, unspecified
+                    2F20.3	Generalised eruptive melanocytic naevi
+                    2F20.Y	Other specific types of melanocytic naevus
+                    2F20.Z	Melanocytic naevus, unspecified
+                2F21	Benign keratinocytic acanthomas
+                    2F21.0	Seborrhoeic keratosis
+                    2F21.Y	Other specified benign keratinocytic acanthomas
+                2F22	Benign neoplasms of epidermal appendages
+                2F23	Benign dermal fibrous or fibrohistiocytic neoplasms
+                    2F23.0	Dermatofibroma
+                    2F23.Y	Other specified benign dermal fibrous or fibrohistiocytic neoplasms
+                2F24	Benign cutaneous neoplasms of neural or nerve sheath origin
+                2F25	Cherry angioma
+                2F26	Lobular capillary haemangioma
+                2F2Y	Other specified benign cutaneous neoplasms
+                2F2Z	Benign cutaneous neoplasm of unspecified type
+            2F30	Benign neoplasm of breast
+                2F30.0	Tubular adenoma of breast
+                2F30.1	Lactating adenoma of breast
+                2F30.2	Intraductal papilloma of breast
+                2F30.3	Benign phyllodes tumour of breast
+                2F30.4	Fibromatosis of breast
+                2F30.5	Fibroadenoma of breast
+                2F30.6	Extensive adenomatosis of nipple
+                2F30.Y	Other specified benign neoplasm of breast
+                2F30.Z	Benign neoplasm of breast, unspecified
+            2F31	Benign non-mesenchymal neoplasms of uterus
+                2F31.0	Benign non-mesenchymal neoplasm of uterus, cervix uteri
+                2F31.1	Benign non-mesenchymal neoplasm of uterus, corpus uteri
+                2F31.2	Benign non-mesenchymal neoplasms of uterus, other parts
+            2F32	Benign neoplasm of ovary
+                2F32.0	Cystic teratoma
+                2F32.1	Ovarian fibroma
+                2F32.2	Meigs' syndrome
+                2F32.3	Serous ovarian cystadenoma
+                2F32.Y	Other specified benign neoplasm of ovary
+                2F32.Z	Benign neoplasm of ovary, unspecified
+            2F33	Benign neoplasm of other or unspecified female genital organs
+            2F34	Benign neoplasm of male genital organs
+            2F35	Benign neoplasm of urinary organs
+            2F36	Benign neoplasm of eye or ocular adnexa
+                2F36.0	Benign neoplasm of choroid
+                2F36.1	Benign neoplasm of iris
+                2F36.2	Benign neoplasm of ciliary body
+                2F36.3	Teratoma of orbit
+                2F36.4	Cysts of eyelid
+                2F36.Y	Other specified benign neoplasm of eye or ocular adnexa
+                2F36.Z	Benign neoplasm of eye or ocular adnexa, unspecified
+            2F37	Benign neoplasm of endocrine glands
+                2F37.0	Non-secreting pituitary adenoma
+                2F37.Y	Other specified benign neoplasm of endocrine glands
+                2F37.Z	Benign neoplasm of endocrine glands, unspecified
+            2F3Y	Benign non-mesenchymal neoplasms of other specified site
+            2F3Z	Benign non-mesenchymal neoplasms of unspecified site
+        2F5Y	Other specified benign neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues
+        2F5Z	Benign neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues, unspecified
+    	Neoplasms of uncertain behaviour, except of lymphoid, haematopoietic, central nervous system or related tissues
+        2F70	Neoplasms of uncertain behaviour of oral cavity or digestive organs
+            2F70.0	Neoplasms of uncertain behaviour of lip, oral cavity or pharynx
+            2F70.1	Neoplasms of uncertain behaviour of stomach
+            2F70.2	Neoplasms of uncertain behaviour of small intestine
+            2F70.3	Neoplasms of uncertain behaviour of colon
+            2F70.4	Neoplasms of uncertain behaviour of rectum
+            2F70.5	Neoplasms of uncertain behaviour of liver, gallbladder or bile ducts
+            2F70.Y	Neoplasms of uncertain behaviour of oral cavity and digestive organs, other specified site
+            2F70.Z	Neoplasms of uncertain behaviour of oral cavity and digestive organs, unspecified site
+        2F71	Neoplasms of uncertain behaviour of middle ear, respiratory or intrathoracic organs
+            2F71.0	Neoplasms of uncertain behaviour of thymus
+            2F71.1	Neoplasms of uncertain behaviour of larynx
+            2F71.2	Neoplasms of uncertain behaviour of pleura
+            2F71.3	Neoplasms of uncertain behaviour of trachea, bronchus or lung
+            2F71.4	Neoplasms of uncertain behaviour of mediastinum
+            2F71.Y	Neoplasms of uncertain behaviour of middle ear, respiratory and intrathoracic organs, other specified site
+            2F71.Z	Neoplasms of uncertain behaviour of middle ear, respiratory and intrathoracic organs, unspecified site
+        2F72	Neoplasms of uncertain behaviour of skin
+            2F72.1	Spitzoid tumour of uncertain malignant potential
+            2F72.2	Melanocytic naevus with severe melanocytic dysplasia
+            2F72.Y	Other specified neoplasms of uncertain behaviour of skin
+        2F73	Neoplasms of uncertain behaviour of retroperitoneum
+        2F74	Neoplasms of uncertain behaviour of peritoneum
+        2F75	Neoplasms of uncertain behaviour of breast
+        2F76	Neoplasms of uncertain behaviour of female genital organs
+        2F77	Neoplasms of uncertain behaviour of male genital organs
+        2F78	Neoplasms of uncertain behaviour of urinary organs
+        2F79	Neoplasms of uncertain behaviour of eye or ocular adnexa
+        2F7A	Neoplasms of uncertain behaviour of endocrine glands
+            2F7A.0	Multiple polyglandular tumours
+            2F7A.Y	Other specified neoplasms of uncertain behaviour of endocrine glands
+            2F7A.Z	Neoplasms of uncertain behaviour of endocrine glands, unspecified
+        2F7B	Neoplasms of uncertain behaviour of bone or articular cartilage
+        2F7C	Neoplasms of uncertain behaviour of connective or other soft tissue
+        2F7Y	Neoplasms of uncertain behaviour of other specified site
+        2F7Z	Neoplasms of uncertain behaviour of unspecified site
+    	Neoplasms of unknown behaviour, except of lymphoid, haematopoietic, central nervous system or related tissues
+        2F90	Neoplasms of unknown behaviour of oral cavity or digestive organs
+            2F90.0	Neoplasms of unknown behaviour of colon
+            2F90.1	Neoplasms of unknown behaviour of rectum
+            2F90.Y	Neoplasms of unknown behaviour of oral cavity and digestive organs, other specified site
+            2F90.Z	Neoplasms of unknown behaviour of oral cavity and digestive organs, unspecified site
+        2F91	Neoplasms of unknown behaviour of middle ear, respiratory or intrathoracic organs
+            2F91.0	Neoplasms of unknown behaviour of larynx
+            2F91.1	Neoplasms of unknown behaviour of trachea, bronchus or lung
+            2F91.Y	Neoplasms of unknown behaviour of other specified respiratory organ, intrathoracic organ or middle ear
+            2F91.Z	Neoplasms of unknown behaviour of unspecified respiratory organ or intrathoracic organ
+        2F92	Neoplasms of unknown behaviour of skin
+        2F93	Neoplasms of unknown behaviour of retroperitoneum
+        2F94	Neoplasms of unknown behaviour of peritoneum
+        2F95	Neoplasms of unknown behaviour of breast
+        2F96	Neoplasms of unknown behaviour of female genital organs
+        2F97	Neoplasms of unknown behaviour of male genital organs
+        2F98	Neoplasms of unknown behaviour of urinary organs
+        2F99	Neoplasms of unknown behaviour of eye or ocular adnexa
+        2F9A	Neoplasms of unknown behaviour of endocrine glands
+        2F9B	Neoplasms of unknown behaviour of bone or articular cartilage
+        2F9C	Neoplasms of unknown behaviour of connective or other soft tissue
+        2F9Y	Neoplasms of unknown behaviour of other specified site
+        2F9Z	Neoplasms of unknown behaviour of unspecified site
+    	Inherited cancer-predisposing syndromes

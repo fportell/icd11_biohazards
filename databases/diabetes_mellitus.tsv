@@ -1,0 +1,34 @@
+	Diabetes mellitus
+    5A10	Type 1 diabetes mellitus
+    5A11	Type 2 diabetes mellitus
+    5A12	Malnutrition-related diabetes mellitus
+    5A13	Diabetes mellitus, other specified type
+        5A13.0	Diabetes mellitus due to genetic defects of beta cell function
+        5A13.1	Diabetes mellitus due to genetic defects in insulin action
+        5A13.2	Diabetes mellitus due to diseases of the exocrine pancreas
+        5A13.3	Diabetes mellitus due to endocrinopathies
+        5A13.4	Diabetes mellitus due to drug or chemical
+        5A13.5	Diabetes mellitus due to uncommon forms of immune-mediated diabetes
+        5A13.6	Diabetes mellitus due to other genetic syndromes
+        5A13.7	Diabetes mellitus due to clinically defined subtypes or syndromes
+        5A13.Y	Diabetes mellitus due to other specified cause
+    5A14	Diabetes mellitus, type unspecified
+    	Acute complications of diabetes mellitus
+        5A20	Diabetic hyperosmolar hyperglycaemic state
+            5A20.0	Hyperosmolar hyperglycaemic state without coma
+            5A20.1	Hyperosmolar hyperglycaemic state with coma
+            5A20.Z	Diabetic hyperosmolar hyperglycaemic state, unspecified
+        5A21	Hypoglycaemia in the context of diabetes mellitus
+            5A21.0	Hypoglycaemia in the context of diabetes mellitus without coma
+            5A21.1	Hypoglycaemia in the context of diabetes mellitus with coma
+            5A21.Z	Hypoglycaemia in the context of diabetes, unspecified
+        5A22	Diabetic acidosis
+            5A22.0	Diabetic ketoacidosis without coma
+            5A22.1	Diabetic lactic acidosis
+            5A22.2	Diabetic metabolic acidosis
+            5A22.3	Diabetic ketoacidosis with coma
+            5A22.Y	Other specified diabetic acidosis
+            5A22.Z	Diabetic acidosis, unspecified
+        5A23	Diabetic coma
+        5A24	Uncontrolled or unstable diabetes mellitus
+        5A2Y	Other specified acute complications of diabetes mellitus
